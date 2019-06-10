@@ -3,6 +3,16 @@
   { "from": "/tagged/(.*)$", "to": "/tag/$1", "permanent": true },
   { "from": "/archive/(.*)$", "to": "/", "permanent": false },
   {
+    "from": "/b7c295452a3c",
+    "to": "/",
+    "permanent": true
+  },
+  {
+    "from": "/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c",
+    "to": "/",
+    "permanent": true
+  },
+  {
     "from": "/516ae619686",
     "to": "/7-important-lessons-about-programming-that-ive-learned-at-17-516ae619686",
     "permanent": true
