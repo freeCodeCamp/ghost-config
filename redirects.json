@@ -74,6 +74,17 @@
   },
 
   {
+    "from": "/2f5568a99231",
+    "to": "/",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-find-users-for-your-usability-test-2f5568a99231",
+    "to": "/",
+    "permanent": true
+  },
+
+  {
     "from": "/516ae619686",
     "to": "/7-important-lessons-about-programming-that-ive-learned-at-17-516ae619686",
     "permanent": true
