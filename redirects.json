@@ -52,6 +52,17 @@
   },
 
   {
+    "from": "/79bf5a45b3d",
+    "to": "/",
+    "permanent": true
+  },
+  {
+    "from": "/an-intro-to-color-theory-how-to-combine-colors-and-set-the-mood-of-your-designs-79bf5a45b3d",
+    "to": "/",
+    "permanent": true
+  },
+
+  {
     "from": "/516ae619686",
     "to": "/7-important-lessons-about-programming-that-ive-learned-at-17-516ae619686",
     "permanent": true
