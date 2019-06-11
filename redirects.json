@@ -2,6 +2,7 @@
   { "from": "/@(.*)$", "to": "/author/$1", "permanent": true },
   { "from": "/tagged/(.*)$", "to": "/tag/$1", "permanent": true },
   { "from": "/archive/(.*)$", "to": "/", "permanent": false },
+
   {
     "from": "/b7c295452a3c",
     "to": "/",
@@ -28,6 +29,28 @@
     "to": "/",
     "permanent": true
   },
+
+  {
+    "from": "/ebabc87c8b8",
+    "to": "/",
+    "permanent": true
+  },
+  {
+    "from": "/learning-new-things-like-cryptography-ebabc87c8b8",
+    "to": "/",
+    "permanent": true
+  },
+  {
+    "from": "/cccc165a27a2",
+    "to": "/",
+    "permanent": true
+  },
+  {
+    "from": "/a-review-of-udacitys-self-driving-car-nanodegree-third-term-and-beyond-cccc165a27a2",
+    "to": "/",
+    "permanent": true
+  },
+
   {
     "from": "/516ae619686",
     "to": "/7-important-lessons-about-programming-that-ive-learned-at-17-516ae619686",
