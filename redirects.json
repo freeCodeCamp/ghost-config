@@ -63,6 +63,17 @@
   },
 
   {
+    "from": "/af0c48ab9922",
+    "to": "/",
+    "permanent": true
+  },
+  {
+    "from": "/npm-package-hijacking-from-the-hijackers-perspective-af0c48ab9922",
+    "to": "/",
+    "permanent": true
+  },
+
+  {
     "from": "/516ae619686",
     "to": "/7-important-lessons-about-programming-that-ive-learned-at-17-516ae619686",
     "permanent": true
