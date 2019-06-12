@@ -85,6 +85,37 @@
   },
 
   {
+    "from": "/d0d23fa06ba4",
+    "to": "/",
+    "permanent": true
+  },
+  {
+    "from": "/javascript-closures-simplified-d0d23fa06ba4",
+    "to": "/",
+    "permanent": true
+  },
+  {
+    "from": "/277b98850de",
+    "to": "/",
+    "permanent": true
+  },
+  {
+    "from": "/promises-in-javascript-explained-277b98850de",
+    "to": "/",
+    "permanent": true
+  },
+  {
+    "from": "/e0d7e091e062",
+    "to": "/",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-set-up-a-multi-node-private-ethereum-blockchain-from-scratch-in-20-mins-or-less-e0d7e091e062",
+    "to": "/",
+    "permanent": true
+  },
+
+  {
     "from": "/516ae619686",
     "to": "/7-important-lessons-about-programming-that-ive-learned-at-17-516ae619686",
     "permanent": true
@@ -12830,11 +12861,6 @@
     "permanent": true
   },
   {
-    "from": "/e0d7e091e062",
-    "to": "/how-to-set-up-a-multi-node-private-ethereum-blockchain-from-scratch-in-20-mins-or-less-e0d7e091e062",
-    "permanent": true
-  },
-  {
     "from": "/4459fc0720d4",
     "to": "/how-to-set-up-a-powerful-api-with-graphql-koa-and-mongodb-crud-4459fc0720d4",
     "permanent": true
@@ -15450,11 +15476,6 @@
     "permanent": true
   },
   {
-    "from": "/d0d23fa06ba4",
-    "to": "/javascript-closures-simplified-d0d23fa06ba4",
-    "permanent": true
-  },
-  {
     "from": "/3948118e4468",
     "to": "/javascript-code-cleanup-how-you-can-refactor-to-use-classes-3948118e4468",
     "permanent": true
@@ -17903,11 +17924,6 @@
   {
     "from": "/2ec098c2c90d",
     "to": "/promises-and-pokemon-how-i-learned-to-think-in-async-2ec098c2c90d",
-    "permanent": true
-  },
-  {
-    "from": "/277b98850de",
-    "to": "/promises-in-javascript-explained-277b98850de",
     "permanent": true
   },
   {
