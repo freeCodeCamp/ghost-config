@@ -130,6 +130,63 @@
   { "from": "/wavenet-4d5d7850c3a1", "to": "/", "permanent": true },
 
   {
+    "from": "/f499234d48bc",
+    "to": "/",
+    "permanent": true
+  },
+  {
+    "from": "/how-you-can-style-your-terminal-like-medium-freecodecamp-or-any-way-you-want-f499234d48bc",
+    "to": "/",
+    "permanent": true
+  },
+
+  {
+    "from": "/16f4d9499ac7",
+    "to": "/",
+    "permanent": true
+  },
+  {
+    "from": "/lolcat-colorls-catpix-and-other-ruby-gems-to-add-color-to-your-terminal-16f4d9499ac7",
+    "to": "/",
+    "permanent": true
+  },
+  {
+    "from": "/c6f9e64c0955",
+    "to": "/",
+    "permanent": true
+  },
+  {
+    "from": "/style-webpage-or-markdown-like-medium-article-using-html-css-sass-bootstrap-c6f9e64c0955",
+    "to": "/",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-style-your-webpage-or-markdown-like-a-medium-article-or-however-you-want-c6f9e64c0955",
+    "to": "/",
+    "permanent": true
+  },
+  {
+    "from": "/38e340a430a1",
+    "to": "/",
+    "permanent": true
+  },
+  {
+    "from": "/mind-your-programming-language-38e340a430a1",
+    "to": "/",
+    "permanent": true
+  },
+  {
+    "from": "/ef1a8d26e7ab",
+    "to": "/",
+    "permanent": true
+  },
+  {
+    "from": "/add-callbacks-to-a-concern-in-ruby-on-rails-ef1a8d26e7ab",
+    "to": "/",
+    "permanent": true
+  },
+
+  {
     "from": "/516ae619686",
     "to": "/7-important-lessons-about-programming-that-ive-learned-at-17-516ae619686",
     "permanent": true
@@ -2132,11 +2189,6 @@
   {
     "from": "/8d76d70d0e3b",
     "to": "/add-bootstrap-to-your-ruby-on-rails-project-8d76d70d0e3b",
-    "permanent": true
-  },
-  {
-    "from": "/ef1a8d26e7ab",
-    "to": "/add-callbacks-to-a-concern-in-ruby-on-rails-ef1a8d26e7ab",
     "permanent": true
   },
   {
@@ -13235,11 +13287,6 @@
     "permanent": true
   },
   {
-    "from": "/c6f9e64c0955",
-    "to": "/how-to-style-your-webpage-or-markdown-like-a-medium-article-or-however-you-want-c6f9e64c0955",
-    "permanent": true
-  },
-  {
     "from": "/529efe82eea5",
     "to": "/how-to-submit-a-pull-request-529efe82eea5",
     "permanent": true
@@ -14382,11 +14429,6 @@
   {
     "from": "/41c61a60fbae",
     "to": "/how-you-can-speed-up-serverless-development-by-simulating-aws-lambda-locally-41c61a60fbae",
-    "permanent": true
-  },
-  {
-    "from": "/f499234d48bc",
-    "to": "/how-you-can-style-your-terminal-like-medium-freecodecamp-or-any-way-you-want-f499234d48bc",
     "permanent": true
   },
   {
@@ -16595,11 +16637,6 @@
     "permanent": true
   },
   {
-    "from": "/16f4d9499ac7",
-    "to": "/lolcat-colorls-catpix-and-other-ruby-gems-to-add-color-to-your-terminal-16f4d9499ac7",
-    "permanent": true
-  },
-  {
     "from": "/731ef5424aec",
     "to": "/looking-back-to-what-started-it-all-731ef5424aec",
     "permanent": true
@@ -16958,11 +16995,6 @@
   {
     "from": "/cc58418460bb",
     "to": "/million-websockets-and-go-cc58418460bb",
-    "permanent": true
-  },
-  {
-    "from": "/38e340a430a1",
-    "to": "/mind-your-programming-language-38e340a430a1",
     "permanent": true
   },
   {
@@ -19425,11 +19457,6 @@
   {
     "from": "/a5372c6ea0f4",
     "to": "/struggling-with-a-coding-challenge-follow-these-simple-steps-a5372c6ea0f4",
-    "permanent": true
-  },
-  {
-    "from": "/c6f9e64c0955",
-    "to": "/style-webpage-or-markdown-like-medium-article-using-html-css-sass-bootstrap-c6f9e64c0955",
     "permanent": true
   },
   {
