@@ -2,7 +2,1076 @@
   { "from": "/@(.*)$", "to": "/author/$1", "permanent": true },
   { "from": "/tagged/(.*)$", "to": "/tag/$1", "permanent": true },
   { "from": "/archive/(.*)$", "to": "/", "permanent": false },
-
+  {
+    "from": "/66544710b50c",
+    "to": "/an-introduction-to-tdd-with-vue-js-66544710b50c",
+    "permanent": true
+  },
+  {
+    "from": "/an-introduction-to-test-driven-development-with-vue-js-66544710b50c",
+    "to": "/an-introduction-to-tdd-with-vue-js-66544710b50c",
+    "permanent": true
+  },
+  {
+    "from": "/16970919ebb2",
+    "to": "/virtual-reality-harvard-cs50-16970919ebb2",
+    "permanent": true
+  },
+  {
+    "from": "/get-a-front-row-seat-in-harvards-largest-class-thanks-to-virtual-reality-16970919ebb2",
+    "to": "/virtual-reality-harvard-cs50-16970919ebb2",
+    "permanent": true
+  },
+  {
+    "from": "/a800824c0a2f",
+    "to": "/swayam-india-moocs-a800824c0a2f",
+    "permanent": true
+  },
+  {
+    "from": "/swayam-inside-indias-massive-bet-on-online-courses-a800824c0a2f",
+    "to": "/swayam-india-moocs-a800824c0a2f",
+    "permanent": true
+  },
+  {
+    "from": "/e67d0da38e95",
+    "to": "/top-50-free-online-courses-2018-e67d0da38e95",
+    "permanent": true
+  },
+  {
+    "from": "/the-50-best-free-online-university-courses-according-to-the-data-e67d0da38e95",
+    "to": "/top-50-free-online-courses-2018-e67d0da38e95",
+    "permanent": true
+  },
+  {
+    "from": "/f10d3c249a12",
+    "to": "/closures-vuejs-higher-order-functions-emojipicker-f10d3c249a12",
+    "permanent": true
+  },
+  {
+    "from": "/discover-the-power-of-closures-in-vuejs-f10d3c249a12",
+    "to": "/closures-vuejs-higher-order-functions-emojipicker-f10d3c249a12",
+    "permanent": true
+  },
+  {
+    "from": "/160e7aaa6382",
+    "to": "/my-crypto-coins-app-series-part-5-160e7aaa6382",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-handle-restful-web-services-using-retrofit-okhttp-gson-glide-and-coroutines-160e7aaa6382",
+    "to": "/my-crypto-coins-app-series-part-5-160e7aaa6382",
+    "permanent": true
+  },
+  {
+    "from": "/6cf58fdc2d9b",
+    "to": "/https-medium-com-srinathperera-blockchain-patterns-6cf58fdc2d9b",
+    "permanent": true
+  },
+  {
+    "from": "/four-architecture-pattern-candidates-for-blockchain-based-decentralized-applications-6cf58fdc2d9b",
+    "to": "/https-medium-com-srinathperera-blockchain-patterns-6cf58fdc2d9b",
+    "permanent": true
+  },
+  {
+    "from": "/4f3343c50aa2",
+    "to": "/nifi-surf-on-your-dataflow-4f3343c50aa2",
+    "permanent": true
+  },
+  {
+    "from": "/how-apache-nifi-works-surf-on-your-dataflow-dont-drown-in-it-4f3343c50aa2",
+    "to": "/nifi-surf-on-your-dataflow-4f3343c50aa2",
+    "permanent": true
+  },
+  {
+    "from": "/c22e0ec44e15",
+    "to": "/we-need-a-new-document-markup-language-c22e0ec44e15",
+    "permanent": true
+  },
+  {
+    "from": "/we-need-a-new-document-markup-language-here-is-why-c22e0ec44e15",
+    "to": "/we-need-a-new-document-markup-language-c22e0ec44e15",
+    "permanent": true
+  },
+  {
+    "from": "/708e75efc560",
+    "to": "/https-medium-com-sharadvm-how-to-read-a-regression-table-661d391e9bd7-708e75efc560",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-read-a-regression-table-708e75efc560",
+    "to": "/https-medium-com-sharadvm-how-to-read-a-regression-table-661d391e9bd7-708e75efc560",
+    "permanent": true
+  },
+  {
+    "from": "/618814e35843",
+    "to": "/portfolio-app-using-react-618814e35843",
+    "permanent": true
+  },
+  {
+    "from": "/create-your-portfolio-website-using-react-js-618814e35843",
+    "to": "/portfolio-app-using-react-618814e35843",
+    "permanent": true
+  },
+  {
+    "from": "/99b673a032e2",
+    "to": "/what-i-learned-about-front-end-development-from-12-to-22-99b673a032e2",
+    "permanent": true
+  },
+  {
+    "from": "/what-ive-learned-about-front-end-development-from-age-12-to-22-99b673a032e2",
+    "to": "/what-i-learned-about-front-end-development-from-12-to-22-99b673a032e2",
+    "permanent": true
+  },
+  {
+    "from": "/9e8f78194993",
+    "to": "/rabbitmq-9e8f78194993",
+    "permanent": true
+  },
+  {
+    "from": "/an-introduction-to-rabbitmq-a-broker-that-deals-in-messages-9e8f78194993",
+    "to": "/rabbitmq-9e8f78194993",
+    "permanent": true
+  },
+  {
+    "from": "/e626ef4ff5bc",
+    "to": "/a-better-web-development-workflow-confluence-airtable-jira-abstract-e626ef4ff5bc",
+    "permanent": true
+  },
+  {
+    "from": "/a-better-web-development-workflow-confluence-airtable-and-more-e626ef4ff5bc",
+    "to": "/a-better-web-development-workflow-confluence-airtable-jira-abstract-e626ef4ff5bc",
+    "permanent": true
+  },
+  {
+    "from": "/490468af3a99",
+    "to": "/aws-polly-tutorial-490468af3a99",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-teach-your-projects-to-talk-with-aws-polly-490468af3a99",
+    "to": "/aws-polly-tutorial-490468af3a99",
+    "permanent": true
+  },
+  {
+    "from": "/1a04f395d8c7",
+    "to": "/java-async-io-async-request-processing-in-http-request-1a04f395d8c7",
+    "permanent": true
+  },
+  {
+    "from": "/asynchronous-io-vs-asynchronous-request-processing-in-java-1a04f395d8c7",
+    "to": "/java-async-io-async-request-processing-in-http-request-1a04f395d8c7",
+    "permanent": true
+  },
+  {
+    "from": "/7432bd23e395",
+    "to": "/accessible-a11y-kotlin-android-animations-7432bd23e395",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-make-your-kotlin-android-animations-accessible-7432bd23e395",
+    "to": "/accessible-a11y-kotlin-android-animations-7432bd23e395",
+    "permanent": true
+  },
+  {
+    "from": "/96639a35ff36",
+    "to": "/docker-simplified-96639a35ff36",
+    "permanent": true
+  },
+  {
+    "from": "/docker-simplified-a-hands-on-guide-for-absolute-beginners-96639a35ff36",
+    "to": "/docker-simplified-96639a35ff36",
+    "permanent": true
+  },
+  {
+    "from": "/a85558cb90e8",
+    "to": "/level-you-up-to-awesome-commit-messages-a85558cb90e8",
+    "permanent": true
+  },
+  {
+    "from": "/up-to-awesome-commit-messages-a85558cb90e8",
+    "to": "/level-you-up-to-awesome-commit-messages-a85558cb90e8",
+    "permanent": true
+  },
+  {
+    "from": "/ff7f29b71341",
+    "to": "/visual-studio-code-extensions-ff7f29b71341",
+    "permanent": true
+  },
+  {
+    "from": "/my-personal-favorite-visual-studio-code-extensions-ff7f29b71341",
+    "to": "/visual-studio-code-extensions-ff7f29b71341",
+    "permanent": true
+  },
+  {
+    "from": "/f747e99744ab",
+    "to": "/typescript-curry-ramda-types-f747e99744ab",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-master-advanced-typescript-patterns-f747e99744ab",
+    "to": "/typescript-curry-ramda-types-f747e99744ab",
+    "permanent": true
+  },
+  {
+    "from": "/5e008fc46451",
+    "to": "/https-medium-com-anshap1719-graphql-subscriptions-with-go-gqlgen-and-mongodb-5e008fc46451",
+    "permanent": true
+  },
+  {
+    "from": "/graphql-subscriptions-with-go-gqlgen-and-mongodb-5e008fc46451",
+    "to": "/https-medium-com-anshap1719-graphql-subscriptions-with-go-gqlgen-and-mongodb-5e008fc46451",
+    "permanent": true
+  },
+  {
+    "from": "/d3e02a429ac3",
+    "to": "/deep-dive-into-graphql-with-golang-d3e02a429ac3",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-set-up-graphql-with-golang-a-deep-dive-from-basics-to-advanced-d3e02a429ac3",
+    "to": "/deep-dive-into-graphql-with-golang-d3e02a429ac3",
+    "permanent": true
+  },
+  {
+    "from": "/cf55c98ac0a2",
+    "to": "/make-your-website-load-lightning-fast-with-webp-images-cf55c98ac0a2",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-make-your-website-load-lightning-fast-with-webp-images-cf55c98ac0a2",
+    "to": "/make-your-website-load-lightning-fast-with-webp-images-cf55c98ac0a2",
+    "permanent": true
+  },
+  {
+    "from": "/6c8c5aea3e32",
+    "to": "/promise-all-in-javascript-with-example-6c8c5aea3e32",
+    "permanent": true
+  },
+  {
+    "from": "/all-you-need-to-know-about-promise-all-6c8c5aea3e32",
+    "to": "/promise-all-in-javascript-with-example-6c8c5aea3e32",
+    "permanent": true
+  },
+  {
+    "from": "/5c88d8134ac7",
+    "to": "/gcp-cloudiotcore-esp32-mongooseos-1st-5c88d8134ac7",
+    "permanent": true
+  },
+  {
+    "from": "/gcp-cloud-iot-core-with-esp32-and-mongoose-os-5c88d8134ac7",
+    "to": "/gcp-cloudiotcore-esp32-mongooseos-1st-5c88d8134ac7",
+    "permanent": true
+  },
+  {
+    "from": "/3c72010b3d55",
+    "to": "/how-to-build-the-best-image-classifier-3c72010b3d55",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-build-an-image-classifier-with-greater-than-97-accuracy-3c72010b3d55",
+    "to": "/how-to-build-the-best-image-classifier-3c72010b3d55",
+    "permanent": true
+  },
+  {
+    "from": "/5f6639ed9574",
+    "to": "/nosql-databases-5f6639ed9574",
+    "permanent": true
+  },
+  {
+    "from": "/the-basics-of-nosql-databases-and-why-we-need-them-5f6639ed9574",
+    "to": "/nosql-databases-5f6639ed9574",
+    "permanent": true
+  },
+  {
+    "from": "/6fc42ba7c4a3",
+    "to": "/https-medium-com-rahman-sameeha-whats-flutter-an-intro-to-dart-6fc42ba7c4a3",
+    "permanent": true
+  },
+  {
+    "from": "/a-simplified-introduction-to-dart-and-flutter-6fc42ba7c4a3",
+    "to": "/https-medium-com-rahman-sameeha-whats-flutter-an-intro-to-dart-6fc42ba7c4a3",
+    "permanent": true
+  },
+  {
+    "from": "/5b19add8e2ed",
+    "to": "/https-medium-com-colin-gabriel-smith-swift-vs-objective-c-5b19add8e2ed",
+    "permanent": true
+  },
+  {
+    "from": "/swift-vs-objective-c-the-trending-up-and-comer-vs-the-dinosaur-5b19add8e2ed",
+    "to": "/https-medium-com-colin-gabriel-smith-swift-vs-objective-c-5b19add8e2ed",
+    "permanent": true
+  },
+  {
+    "from": "/a65b514b0f2d",
+    "to": "/https-medium-freecodecamp-org-best-free-open-data-sources-anyone-can-use-a65b514b0f2d",
+    "permanent": true
+  },
+  {
+    "from": "/these-are-the-best-free-open-data-sources-anyone-can-use-a65b514b0f2d",
+    "to": "/https-medium-freecodecamp-org-best-free-open-data-sources-anyone-can-use-a65b514b0f2d",
+    "permanent": true
+  },
+  {
+    "from": "/2f5282e943ef",
+    "to": "/building-products-for-everyone-voiceover-on-ios-accessibility-tutorial-2f5282e943ef",
+    "permanent": true
+  },
+  {
+    "from": "/building-products-for-everyone-voiceover-on-ios-2f5282e943ef",
+    "to": "/building-products-for-everyone-voiceover-on-ios-accessibility-tutorial-2f5282e943ef",
+    "permanent": true
+  },
+  {
+    "from": "/3fe08c69f499",
+    "to": "/securing-managing-secrets-using-google-cloud-kms-3fe08c69f499",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-secure-and-manage-secrets-using-google-cloud-kms-3fe08c69f499",
+    "to": "/securing-managing-secrets-using-google-cloud-kms-3fe08c69f499",
+    "permanent": true
+  },
+  {
+    "from": "/bf840492f34f",
+    "to": "/lokalise-co-blog-bf840492f34f",
+    "permanent": true
+  },
+  {
+    "from": "/rails-internationalization-i18n-the-complete-guide-bf840492f34f",
+    "to": "/lokalise-co-blog-bf840492f34f",
+    "permanent": true
+  },
+  {
+    "from": "/1dbc7a6c65f1",
+    "to": "/the-voice-memos-bff-speech-to-text-powered-by-machine-learning-1dbc7a6c65f1",
+    "permanent": true
+  },
+  {
+    "from": "/the-voice-memos-bff-how-to-make-speech2text-easy-with-machine-learning-1dbc7a6c65f1",
+    "to": "/the-voice-memos-bff-speech-to-text-powered-by-machine-learning-1dbc7a6c65f1",
+    "permanent": true
+  },
+  {
+    "from": "/664a4b749fb8",
+    "to": "/impposter-syndrome-664a4b749fb8",
+    "permanent": true
+  },
+  {
+    "from": "/imposter-syndrome-what-it-is-why-it-happens-and-how-to-stop-the-madness-664a4b749fb8",
+    "to": "/impposter-syndrome-664a4b749fb8",
+    "permanent": true
+  },
+  {
+    "from": "/8e0ea8f03e83",
+    "to": "/https-medium-com-nakayama-shingo-creating-responsive-tables-with-pure-css-using-the-grid-layout-module-8e0ea8f03e83",
+    "permanent": true
+  },
+  {
+    "from": "/creating-responsive-tables-with-pure-css-using-the-grid-layout-module-8e0ea8f03e83",
+    "to": "/https-medium-com-nakayama-shingo-creating-responsive-tables-with-pure-css-using-the-grid-layout-module-8e0ea8f03e83",
+    "permanent": true
+  },
+  {
+    "from": "/8edfdb9be811",
+    "to": "/microservice-8edfdb9be811",
+    "permanent": true
+  },
+  {
+    "from": "/8edfdb9be811",
+    "to": "/learn-node-js-by-building-a-timestamp-microservice-app-8edfdb9be811",
+    "permanent": true
+  },
+  {
+    "from": "/c25f1ce83ec2",
+    "to": "/dev-env-as-code-c25f1ce83ec2",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-streamline-developer-onboarding-the-dev-environment-as-code-c25f1ce83ec2",
+    "to": "/dev-env-as-code-c25f1ce83ec2",
+    "permanent": true
+  },
+  {
+    "from": "/77310125dca0",
+    "to": "/how-to-generate-readme-badges-with-express-and-squirrelly-77310125dca0",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-generate-readme-badges-with-express-77310125dca0",
+    "to": "/how-to-generate-readme-badges-with-express-and-squirrelly-77310125dca0",
+    "permanent": true
+  },
+  {
+    "from": "/261fee015f80",
+    "to": "/incrementally-add-flow-type-checking-react-261fee015f80",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-incrementally-add-flow-to-an-existing-react-app-261fee015f80",
+    "to": "/incrementally-add-flow-type-checking-react-261fee015f80",
+    "permanent": true
+  },
+  {
+    "from": "/4ed8e2702ce3",
+    "to": "/avoiding-null-check-pollution-in-javascript-4ed8e2702ce3",
+    "permanent": true
+  },
+  {
+    "from": "/avoiding-null-check-pollution-in-javascript-with-optionals-4ed8e2702ce3",
+    "to": "/avoiding-null-check-pollution-in-javascript-4ed8e2702ce3",
+    "permanent": true
+  },
+  {
+    "from": "/6cdf425bab80",
+    "to": "/qa-documentation-ultimate-guide-6cdf425bab80",
+    "permanent": true
+  },
+  {
+    "from": "/your-ultimate-guide-to-writing-a-qa-documentation-6cdf425bab80",
+    "to": "/qa-documentation-ultimate-guide-6cdf425bab80",
+    "permanent": true
+  },
+  {
+    "from": "/c8b852c31f02",
+    "to": "/keras-vs-pytorch-avp-transfer-learning-c8b852c31f02",
+    "permanent": true
+  },
+  {
+    "from": "/keras-vs-pytorch-alien-vs-predator-recognition-with-transfer-learning-c8b852c31f02",
+    "to": "/keras-vs-pytorch-avp-transfer-learning-c8b852c31f02",
+    "permanent": true
+  },
+  {
+    "from": "/60fbc2bac2bf",
+    "to": "/my-crypto-coins-app-series-part-4-60fbc2bac2bf",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-implement-dependency-injection-in-your-app-with-dagger-2-60fbc2bac2bf",
+    "to": "/my-crypto-coins-app-series-part-4-60fbc2bac2bf",
+    "permanent": true
+  },
+  {
+    "from": "/df57f86daf74",
+    "to": "/my-crypto-coins-app-series-part-3-df57f86daf74",
+    "permanent": true
+  },
+  {
+    "from": "/all-about-that-architecture-exploring-different-architecture-patterns-and-how-to-use-them-in-your-df57f86daf74",
+    "to": "/my-crypto-coins-app-series-part-3-df57f86daf74",
+    "permanent": true
+  },
+  {
+    "from": "/580ccb4d8cf6",
+    "to": "/my-crypto-coins-app-series-part-2-580ccb4d8cf6",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-start-building-your-android-app-creating-mockups-ui-and-xml-layouts-580ccb4d8cf6",
+    "to": "/my-crypto-coins-app-series-part-2-580ccb4d8cf6",
+    "permanent": true
+  },
+  {
+    "from": "/36fe781a75c1",
+    "to": "/my-crypto-coins-app-series-part-1-36fe781a75c1",
+    "permanent": true
+  },
+  {
+    "from": "/an-introduction-to-the-solid-principles-36fe781a75c1",
+    "to": "/my-crypto-coins-app-series-part-1-36fe781a75c1",
+    "permanent": true
+  },
+  {
+    "from": "/61be4f8af906",
+    "to": "/my-crypto-coins-app-series-61be4f8af906",
+    "permanent": true
+  },
+  {
+    "from": "/a-roadmap-to-build-a-modern-android-app-in-2018-61be4f8af906",
+    "to": "/my-crypto-coins-app-series-61be4f8af906",
+    "permanent": true
+  },
+  {
+    "from": "/abfca3668786",
+    "to": "/https-medium-com-henry-little-a-reactive-joystick-built-with-rxjs-abfca3668786",
+    "permanent": true
+  },
+  {
+    "from": "/a-reactive-joystick-built-with-rxjs-abfca3668786",
+    "to": "/https-medium-com-henry-little-a-reactive-joystick-built-with-rxjs-abfca3668786",
+    "permanent": true
+  },
+  {
+    "from": "/82d24841ac7e",
+    "to": "/reading-accessibility-82d24841ac7e",
+    "permanent": true
+  },
+  {
+    "from": "/if-you-want-to-talk-about-accessibility-then-we-need-to-talk-about-readability-issues-82d24841ac7e",
+    "to": "/reading-accessibility-82d24841ac7e",
+    "permanent": true
+  },
+  {
+    "from": "/3cc4bfae6853",
+    "to": "/freecodecamp-book-club-3cc4bfae6853",
+    "permanent": true
+  },
+  {
+    "from": "/freecodecamp-atlanta-is-starting-a-book-club-are-you-ready-to-participate-3cc4bfae6853",
+    "to": "/freecodecamp-book-club-3cc4bfae6853",
+    "permanent": true
+  },
+  {
+    "from": "/9ae77fd3504a",
+    "to": "/choosing-the-right-course-9ae77fd3504a",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-choose-the-right-online-course-or-platform-when-youre-learning-to-code-9ae77fd3504a",
+    "to": "/choosing-the-right-course-9ae77fd3504a",
+    "permanent": true
+  },
+  {
+    "from": "/42cd59a1972d",
+    "to": "/deep-learning-image-classifier-for-game-of-thrones-dragons-42cd59a1972d",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-build-a-deep-learning-image-classifier-for-game-of-thrones-dragons-42cd59a1972d",
+    "to": "/deep-learning-image-classifier-for-game-of-thrones-dragons-42cd59a1972d",
+    "permanent": true
+  },
+  {
+    "from": "/565000c7309",
+    "to": "/mongodb-data-visualization-tools-565000c7309",
+    "permanent": true
+  },
+  {
+    "from": "/powerful-tools-for-mongodb-data-visualization-565000c7309",
+    "to": "/mongodb-data-visualization-tools-565000c7309",
+    "permanent": true
+  },
+  {
+    "from": "/b84e2372c5e6",
+    "to": "/feature-u-v1-b84e2372c5e6",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-unleash-the-power-of-feature-based-js-development-with-feature-u-v1-b84e2372c5e6",
+    "to": "/feature-u-v1-b84e2372c5e6",
+    "permanent": true
+  },
+  {
+    "from": "/a29fb00c296f",
+    "to": "/manage-multiple-python-versions-and-virtual-environments-venv-pyenv-pyvenv-a29fb00c296f",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-manage-multiple-python-versions-and-virtual-environments-a29fb00c296f",
+    "to": "/manage-multiple-python-versions-and-virtual-environments-venv-pyenv-pyvenv-a29fb00c296f",
+    "permanent": true
+  },
+  {
+    "from": "/9e2b9c75165c",
+    "to": "/https-medium-com-hadrienj-preprocessing-for-deep-learning-9e2b9c75165c",
+    "permanent": true
+  },
+  {
+    "from": "/preprocessing-for-deep-learning-from-covariance-matrix-to-image-whitening-9e2b9c75165c",
+    "to": "/https-medium-com-hadrienj-preprocessing-for-deep-learning-9e2b9c75165c",
+    "permanent": true
+  },
+  {
+    "from": "/932b6cd5cfee",
+    "to": "/eyeshadow-932b6cd5cfee",
+    "permanent": true
+  },
+  {
+    "from": "/what-does-choosing-and-applying-eyeshadow-teach-us-about-coding-932b6cd5cfee",
+    "to": "/eyeshadow-932b6cd5cfee",
+    "permanent": true
+  },
+  {
+    "from": "/94dd26ed5dbd",
+    "to": "/resources-for-software-developers-who-are-obsessed-with-learning-94dd26ed5dbd",
+    "permanent": true
+  },
+  {
+    "from": "/if-you-a-developer-whos-obsessed-with-learning-check-out-these-resources-94dd26ed5dbd",
+    "to": "/resources-for-software-developers-who-are-obsessed-with-learning-94dd26ed5dbd",
+    "permanent": true
+  },
+  {
+    "from": "/d9526a93eaef",
+    "to": "/https-medium-com-bobberry-guide-your-coding-and-your-coding-career-with-real-users-in-the-real-world-d9526a93eaef",
+    "permanent": true
+  },
+  {
+    "from": "/guide-your-coding-and-your-coding-career-with-real-users-in-the-real-world-d9526a93eaef",
+    "to": "/https-medium-com-bobberry-guide-your-coding-and-your-coding-career-with-real-users-in-the-real-world-d9526a93eaef",
+    "permanent": true
+  },
+  {
+    "from": "/558d9f449e3",
+    "to": "/image-optimization-558d9f449e3",
+    "permanent": true
+  },
+  {
+    "from": "/how-image-optimization-decreased-my-websites-page-weight-by-62-558d9f449e3",
+    "to": "/image-optimization-558d9f449e3",
+    "permanent": true
+  },
+  {
+    "from": "/232b65118fe2",
+    "to": "/read-write-mindful-minutes-from-healthkit-with-swift-232b65118fe2",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-read-and-write-mindful-minutes-from-ioss-healthkit-with-swift-232b65118fe2",
+    "to": "/read-write-mindful-minutes-from-healthkit-with-swift-232b65118fe2",
+    "permanent": true
+  },
+  {
+    "from": "/a1b80cb372b",
+    "to": "/https-medium-com-gladchinda-hacks-for-creating-javascript-arrays-a1b80cb372b",
+    "permanent": true
+  },
+  {
+    "from": "/hacks-for-creating-javascript-arrays-a1b80cb372b",
+    "to": "/https-medium-com-gladchinda-hacks-for-creating-javascript-arrays-a1b80cb372b",
+    "permanent": true
+  },
+  {
+    "from": "/b52e5ef53e0a",
+    "to": "/world-cup-all-the-goals-in-2018-b52e5ef53e0a",
+    "permanent": true
+  },
+  {
+    "from": "/world-cup-visualized-all-the-goals-b52e5ef53e0a",
+    "to": "/world-cup-all-the-goals-in-2018-b52e5ef53e0a",
+    "permanent": true
+  },
+  {
+    "from": "/21bb035f7260",
+    "to": "/object-oriented-programming-concepts-21bb035f7260",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-explain-object-oriented-programming-concepts-to-a-6-year-old-21bb035f7260",
+    "to": "/object-oriented-programming-concepts-21bb035f7260",
+    "permanent": true
+  },
+  {
+    "from": "/18f88346ed0f",
+    "to": "/learn-flutter-best-resources-18f88346ed0f",
+    "permanent": true
+  },
+  {
+    "from": "/flutter-is-awesome-but-where-do-i-start-learning-18f88346ed0f",
+    "to": "/learn-flutter-best-resources-18f88346ed0f",
+    "permanent": true
+  },
+  {
+    "from": "/fb420ca53215",
+    "to": "/designing-ui-states-and-communicate-with-developers-effectively-by-fsm-fb420ca53215",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-design-ui-states-and-communicate-effectively-with-developers-using-the-finite-state-machine-fb420ca53215",
+    "to": "/designing-ui-states-and-communicate-with-developers-effectively-by-fsm-fb420ca53215",
+    "permanent": true
+  },
+  {
+    "from": "/bcd24a07dc3e",
+    "to": "/changing-the-meme-game-bcd24a07dc3e",
+    "permanent": true
+  },
+  {
+    "from": "/the-new-meme-order-changing-the-game-with-simple-browser-caching-bcd24a07dc3e",
+    "to": "/changing-the-meme-game-bcd24a07dc3e",
+    "permanent": true
+  },
+  {
+    "from": "/1de862421981",
+    "to": "/mindset-lessons-from-a-year-with-react-1de862421981",
+    "permanent": true
+  },
+  {
+    "from": "/the-most-important-lessons-ive-learned-after-a-year-of-working-with-react-1de862421981",
+    "to": "/mindset-lessons-from-a-year-with-react-1de862421981",
+    "permanent": true
+  },
+  {
+    "from": "/8553262e8ff0",
+    "to": "/misconceptions-about-blockchain-8553262e8ff0",
+    "permanent": true
+  },
+  {
+    "from": "/10-things-you-are-wrong-about-blockchain-8553262e8ff0",
+    "to": "/misconceptions-about-blockchain-8553262e8ff0",
+    "permanent": true
+  },
+  {
+    "from": "/dda63ed27e26",
+    "to": "/how-to-system-design-dda63ed27e26",
+    "permanent": true
+  },
+  {
+    "from": "/cracking-the-system-design-interview-tips-from-a-twitter-software-engineer-dda63ed27e26",
+    "to": "/how-to-system-design-dda63ed27e26",
+    "permanent": true
+  },
+  {
+    "from": "/f1364e2e77ba",
+    "to": "/how-to-columnize-your-code-to-improve-readability-f1364e2e77ba",
+    "permanent": true
+  },
+  {
+    "from": "/why-you-should-use-column-indentation-to-improve-your-codes-readability-f1364e2e77ba",
+    "to": "/how-to-columnize-your-code-to-improve-readability-f1364e2e77ba",
+    "permanent": true
+  },
+  {
+    "from": "/eddb554eaefb",
+    "to": "/real-time-dynamic-cover-system-in-unreal-engine-4-eddb554eaefb",
+    "permanent": true
+  },
+  {
+    "from": "/build-a-real-time-dynamic-cover-system-eddb554eaefb",
+    "to": "/real-time-dynamic-cover-system-in-unreal-engine-4-eddb554eaefb",
+    "permanent": true
+  },
+  {
+    "from": "/7be7bfd6a46c",
+    "to": "/graphic-designer-to-front-end-developer-7be7bfd6a46c",
+    "permanent": true
+  },
+    {
+    "from": "/how-i-transitioned-from-a-graphic-designer-to-front-end-developer-in-5-months-7be7bfd6a46c",
+    "to": "/graphic-designer-to-front-end-developer-7be7bfd6a46c",
+    "permanent": true
+  },
+  {
+    "from": "/cf3277b11318",
+    "to": "/feature-u-cf3277b11318",
+    "permanent": true
+  },
+  {
+    "from": "/feature-u-feature-based-project-organization-for-react-cf3277b11318",
+    "to": "/feature-u-cf3277b11318",
+    "permanent": true
+  },
+  {
+    "from": "/d42855debc66",
+    "to": "/state-machines-basics-of-computer-science-d42855debc66",
+    "permanent": true
+  },
+  {
+    "from": "/state-machines-d42855debc66",
+    "to": "/state-machines-basics-of-computer-science-d42855debc66",
+    "permanent": true
+  },
+  {
+    "from": "/c051ca570324",
+    "to": "/free-https-c051ca570324",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-get-your-site-on-https-for-free-in-10-minutes-c051ca570324",
+    "to": "/free-https-c051ca570324",
+    "permanent": true
+  },
+  {
+    "from": "/2e725e47bfab",
+    "to": "/room-sqlite-beginner-tutorial-2e725e47bfab",
+    "permanent": true
+  },
+  {
+    "from": "/a-beginners-guide-to-room-persistence-library-2e725e47bfab",
+    "to": "/room-sqlite-beginner-tutorial-2e725e47bfab",
+    "permanent": true
+  },
+  {
+    "from": "/d354944308c0",
+    "to": "/how-to-break-into-product-management-d354944308c0",
+    "permanent": true
+  },
+  {
+    "from": "/so-you-want-to-be-a-product-manager-this-is-where-i-started-d354944308c0",
+    "to": "/how-to-break-into-product-management-d354944308c0",
+    "permanent": true
+  },
+  {
+    "from": "/6d84cdb30da",
+    "to": "/coursera-free-online-courses-6d84cdb30da",
+    "permanent": true
+  },
+  {
+    "from": "/i-uncovered-1-150-coursera-courses-that-are-still-completely-free-6d84cdb30da",
+    "to": "/coursera-free-online-courses-6d84cdb30da",
+    "permanent": true
+  },
+  {
+    "from": "/5751775ed435",
+    "to": "/help-us-kickstart-modulz-5751775ed435",
+    "permanent": true
+  },
+  {
+    "from": "/introducing-modulz-the-next-step-in-visual-coding-5751775ed435",
+    "to": "/help-us-kickstart-modulz-5751775ed435",
+    "permanent": true
+  },
+  {
+    "from": "/d3a16396266",
+    "to": "/configure-multiple-camel-context-in-spring-boot-application-d3a16396266",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-configure-multiple-camel-context-in-spring-boot-application-d3a16396266",
+    "to": "/configure-multiple-camel-context-in-spring-boot-application-d3a16396266",
+    "permanent": true
+  },
+  {
+    "from": "/5cf35145d398",
+    "to": "/https-medium-freecodecamp-org-how-to-predict-rent-and-select-the-best-lease-duration-to-save-money-5cf35145d398",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-predict-rent-and-select-the-best-lease-duration-to-save-money-5cf35145d398",
+    "to": "/https-medium-freecodecamp-org-how-to-predict-rent-and-select-the-best-lease-duration-to-save-money-5cf35145d398",
+    "permanent": true
+  },
+  {
+    "from": "/cc6936ba0b99",
+    "to": "/future-of-bitcoin-cc6936ba0b99",
+    "permanent": true
+  },
+  {
+    "from": "/what-you-need-to-know-about-the-future-of-bitcoin-technology-cc6936ba0b99",
+    "to": "/future-of-bitcoin-cc6936ba0b99",
+    "permanent": true
+  },
+  {
+    "from": "/5210e27da996",
+    "to": "/vote-best-online-courses-2017-5210e27da996",
+    "permanent": true
+  },
+  {
+    "from": "/what-were-the-best-free-online-courses-of-2017-you-decide-5210e27da996",
+    "to": "/vote-best-online-courses-2017-5210e27da996",
+    "permanent": true
+  },
+  {
+    "from": "/8098e22d878d",
+    "to": "/https-medium-com-samwcoding-deconstructing-the-hemingway-app-8098e22d878d",
+    "permanent": true
+  },
+  {
+    "from": "/deconstructing-the-hemingway-app-8098e22d878d",
+    "to": "/https-medium-com-samwcoding-deconstructing-the-hemingway-app-8098e22d878d",
+    "permanent": true
+  },
+  {
+    "from": "/19134461ab85",
+    "to": "/learn-linux-vim-basic-features-19134461ab85",
+    "permanent": true
+  },
+  {
+    "from": "/why-i-love-vim-19134461ab85",
+    "to": "/learn-linux-vim-basic-features-19134461ab85",
+    "permanent": true
+  },
+  {
+    "from": "/92a0825b8178",
+    "to": "/startup-content-toolbox-ecosystem-community-92a0825b8178",
+    "permanent": true
+  },
+  {
+    "from": "/what-you-havent-published-a-toolbox-yet-92a0825b8178",
+    "to": "/startup-content-toolbox-ecosystem-community-92a0825b8178",
+    "permanent": true
+  },
+  {
+    "from": "/fd8da8149877",
+    "to": "/rtdb-to-firestore-fd8da8149877",
+    "permanent": true
+  },
+  {
+    "from": "/survival-guide-migrating-from-the-firebase-realtime-database-to-cloud-firestore-fd8da8149877",
+    "to": "/rtdb-to-firestore-fd8da8149877",
+    "permanent": true
+  },
+  {
+    "from": "/7606c81c3822",
+    "to": "/https-medium-com-xgee-whiz-tips-for-building-an-amazing-coding-community-7606c81c3822",
+    "permanent": true
+  },
+  {
+    "from": "/how-you-can-build-a-strong-coding-community-in-your-city-and-how-i-did-it-7606c81c3822",
+    "to": "/https-medium-com-xgee-whiz-tips-for-building-an-amazing-coding-community-7606c81c3822",
+    "permanent": true
+  },
+  {
+    "from": "/96a4207bb182",
+    "to": "/free-online-courses-cs-programming-june-2017-96a4207bb182",
+    "permanent": true
+  },
+  {
+    "from": "/435-free-online-programming-computer-science-courses-you-can-start-in-june-96a4207bb182",
+    "to": "/free-online-courses-cs-programming-june-2017-96a4207bb182",
+    "permanent": true
+  },
+  {
+    "from": "/d24fd555b8c3",
+    "to": "/how-build-community-network-hackhorizon-d24fd555b8c3",
+    "permanent": true
+  },
+  {
+    "from": "/you-wont-build-a-community-out-of-networking-drinking-events-d24fd555b8c3",
+    "to": "/how-build-community-network-hackhorizon-d24fd555b8c3",
+    "permanent": true
+  },
+  {
+    "from": "/f2eb9bfbb40a",
+    "to": "/how-to-build-an-ai-game-bot-using-openai-gym-and-universe-f2eb9bfbb40a",
+    "permanent": true
+  },
+  {
+    "from": "/day-22-how-to-build-an-ai-game-bot-using-openai-gym-and-universe-f2eb9bfbb40a",
+    "to": "/how-to-build-an-ai-game-bot-using-openai-gym-and-universe-f2eb9bfbb40a",
+    "permanent": true
+  },
+  {
+    "from": "/51cbe41ad8f1",
+    "to": "/how-to-make-a-360-vr-app-with-unity-51cbe41ad8f1",
+    "permanent": true
+  },
+  {
+    "from": "/heres-how-you-can-make-a-360-vr-app-in-10-minutes-with-unity-51cbe41ad8f1",
+    "to": "/how-to-make-a-360-vr-app-with-unity-51cbe41ad8f1",
+    "permanent": true
+  },
+  { 
+    "from": "/f47a7da511a9",
+    "to": "/reduce-f47a7da511a9",
+    "permanent": true
+  },
+  { 
+    "from": "/a-guide-to-the-reduce-method-in-javascript-f47a7da511a9",
+    "to": "/reduce-f47a7da511a9",
+    "permanent": true
+  },
+  {
+    "from": "/a0d7ae675869",
+    "to": "/ivy-league-free-online-courses-a0d7ae675869",
+    "permanent": true
+  },
+  {
+    "from": "/couldnt-get-into-ivy-league-irl-here-are-250-free-online-courses-from-ivy-league-colleges-a0d7ae675869",
+    "to": "/ivy-league-free-online-courses-a0d7ae675869",
+    "permanent": true
+  },
+  {
+    "from": "/5ca00c2848d9",
+    "to": "/weather-and-bigquery-rainiest-cities-united-states-5ca00c2848d9",
+    "permanent": true
+  },
+  {
+    "from": "/which-us-cities-are-really-the-rainiest-i-crunched-the-data-5ca00c2848d9",
+    "to": "/weather-and-bigquery-rainiest-cities-united-states-5ca00c2848d9",
+    "permanent": true
+  },
+  {
+    "from": "/c479b55ed851",
+    "to": "/best-free-online-courses-of-2016-c479b55ed851",
+    "permanent": true
+  },
+  {
+    "from": "/the-10-best-free-online-courses-of-2016-according-to-data-c479b55ed851",
+    "to": "/best-free-online-courses-of-2016-c479b55ed851",
+    "permanent": true
+  },
+  {
+    "from": "/e6d9bdafaaf9",
+    "to": "/how-to-measure-hearthstone-e6d9bdafaaf9",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-measure-hearthstone-performance-e6d9bdafaaf9",
+    "to": "/how-to-measure-hearthstone-e6d9bdafaaf9",
+    "permanent": true
+  },
+  {
+    "from": "/922d864365c9",
+    "to": "/https-medium-com-anupcowkur-how-to-design-apis-that-dont-suck-922d864365c9",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-design-apis-that-dont-suck-922d864365c9",
+    "to": "/https-medium-com-anupcowkur-how-to-design-apis-that-dont-suck-922d864365c9",
+    "permanent": true
+  },
+  {
+    "from": "/8e4371fc5261",
+    "to": "/hash-table-attack-8e4371fc5261",
+    "permanent": true
+  },
+  {
+    "from": "/the-moment-when-you-realize-every-server-in-the-world-is-vulnerable-8e4371fc5261",
+    "to": "/hash-table-attack-8e4371fc5261",
+    "permanent": true
+  },
+  {
+    "from": "/b3d7b11046e0",
+    "to": "/reddit-uptime-2008-2016-bigquery-b3d7b11046e0",
+    "permanent": true
+  },
+  {
+    "from": "/reddit-uptime-2008-2016-b3d7b11046e0",
+    "to": "/reddit-uptime-2008-2016-bigquery-b3d7b11046e0",
+    "permanent": true
+  },
+  {
+    "from": "/cebfe2546e97",
+    "to": "/confessions-insecure-designer-cebfe2546e97",
+    "permanent": true
+  },
+  {
+    "from": "/confessions-of-an-insecure-designer-cebfe2546e97",
+    "to": "/confessions-insecure-designer-cebfe2546e97",
+    "permanent": true
+  },
+  {
+    "from": "/c04fdca8d14d",
+    "to": "/using-flow-with-babel-c04fdca8d14d",
+    "permanent": true
+  },
+  {
+    "from": "/setting-up-flow-when-youve-already-got-babel-in-place-c04fdca8d14d",
+    "to": "/using-flow-with-babel-c04fdca8d14d",
+    "permanent": true
+  },
+  {
+    "from": "/2a8dcb8603a9",
+    "to": "/https-medium-com-deckee-tech-mitigating-monoliths-2a8dcb8603a9",
+    "permanent": true
+  },
+  {
+    "from": "/mitigating-monoliths-2a8dcb8603a9",
+    "to": "/https-medium-com-deckee-tech-mitigating-monoliths-2a8dcb8603a9",
+    "permanent": true
+  },
+  {
+    "from": "/2abad38022b1",
+    "to": "/browserhistory-2abad38022b1",
+    "permanent": true
+  },
+  {
+    "from": "/the-future-of-browser-history-2abad38022b1",
+    "to": "/browserhistory-2abad38022b1",
+    "permanent": true
+  },
   {
     "from": "/b7c295452a3c",
     "to": "/",
@@ -212,11 +1281,6 @@
     "permanent": true
   },
   {
-    "from": "/66544710b50c",
-    "to": "/an-introduction-to-test-driven-development-with-vue-js-66544710b50c",
-    "permanent": true
-  },
-  {
     "from": "/c4a0d128d9ca",
     "to": "/an-introduction-to-the-jamstack-the-architecture-of-the-modern-web-c4a0d128d9ca",
     "permanent": true
@@ -309,11 +1373,6 @@
   {
     "from": "/c7da74a5bd9f",
     "to": "/how-to-get-started-with-d3-and-react-c7da74a5bd9f",
-    "permanent": true
-  },
-  {
-    "from": "/160e7aaa6382",
-    "to": "/how-to-handle-restful-web-services-using-retrofit-okhttp-gson-glide-and-coroutines-160e7aaa6382",
     "permanent": true
   },
   {
@@ -509,11 +1568,6 @@
   {
     "from": "/bb88369cb13c",
     "to": "/10-things-i-learnt-during-my-software-engineering-internship-bb88369cb13c",
-    "permanent": true
-  },
-  {
-    "from": "/8553262e8ff0",
-    "to": "/10-things-you-are-wrong-about-blockchain-8553262e8ff0",
     "permanent": true
   },
   {
@@ -729,11 +1783,6 @@
   {
     "from": "/6f2e5022e7a9",
     "to": "/430-free-online-programming-computer-science-courses-you-can-start-in-november-6f2e5022e7a9",
-    "permanent": true
-  },
-  {
-    "from": "/96a4207bb182",
-    "to": "/435-free-online-programming-computer-science-courses-you-can-start-in-june-96a4207bb182",
     "permanent": true
   },
   {
@@ -1152,11 +2201,6 @@
     "permanent": true
   },
   {
-    "from": "/2e725e47bfab",
-    "to": "/a-beginners-guide-to-room-persistence-library-2e725e47bfab",
-    "permanent": true
-  },
-  {
     "from": "/cda0f5a0698c",
     "to": "/a-beginners-guide-to-surviving-in-the-linux-shell-cda0f5a0698c",
     "permanent": true
@@ -1204,16 +2248,6 @@
   {
     "from": "/43cf37616570",
     "to": "/a-better-way-to-compare-yourself-43cf37616570",
-    "permanent": true
-  },
-  {
-    "from": "/e626ef4ff5bc",
-    "to": "/a-better-web-development-workflow-confluence-airtable-and-more-e626ef4ff5bc",
-    "permanent": true
-  },
-  {
-    "from": "/e626ef4ff5bc",
-    "to": "/a-better-web-development-workflow-confluence-airtable-jira-abstract-e626ef4ff5bc",
     "permanent": true
   },
   {
@@ -1577,11 +2611,6 @@
     "permanent": true
   },
   {
-    "from": "/f47a7da511a9",
-    "to": "/a-guide-to-the-reduce-method-in-javascript-f47a7da511a9",
-    "permanent": true
-  },
-  {
     "from": "/e3b9daef4df1",
     "to": "/a-guide-to-this-in-javascript-e3b9daef4df1",
     "permanent": true
@@ -1897,11 +2926,6 @@
     "permanent": true
   },
   {
-    "from": "/abfca3668786",
-    "to": "/a-reactive-joystick-built-with-rxjs-abfca3668786",
-    "permanent": true
-  },
-  {
     "from": "/e5760fb4a962",
     "to": "/a-real-world-comparison-of-front-end-frameworks-with-benchmarks-2018-update-e5760fb4a962",
     "permanent": true
@@ -1942,11 +2966,6 @@
     "permanent": true
   },
   {
-    "from": "/61be4f8af906",
-    "to": "/a-roadmap-to-build-a-modern-android-app-in-2018-61be4f8af906",
-    "permanent": true
-  },
-  {
     "from": "/c7aa0a622c83",
     "to": "/a-short-overview-of-object-oriented-software-design-c7aa0a622c83",
     "permanent": true
@@ -1972,16 +2991,6 @@
     "permanent": true
   },
   {
-    "from": "/39cba7420fd5",
-    "to": "/a-simple-guide-to-building-an-amazing-technical-r%C3%A9sum%C3%A9-39cba7420fd5",
-    "permanent": true
-  },
-  {
-    "from": "/39cba7420fd5",
-    "to": "/a-simple-guide-to-building-an-amazing-technical-résumé-39cba7420fd5",
-    "permanent": true
-  },
-  {
     "from": "/9671e8c94c76",
     "to": "/a-simple-how-to-on-webhooks-the-intimidation-stops-now-9671e8c94c76",
     "permanent": true
@@ -1994,11 +3003,6 @@
   {
     "from": "/f9de7961a06e",
     "to": "/a-simplified-explanation-of-event-propagation-in-javascript-f9de7961a06e",
-    "permanent": true
-  },
-  {
-    "from": "/6fc42ba7c4a3",
-    "to": "/a-simplified-introduction-to-dart-and-flutter-6fc42ba7c4a3",
     "permanent": true
   },
   {
@@ -2157,11 +3161,6 @@
     "permanent": true
   },
   {
-    "from": "/7432bd23e395",
-    "to": "/accessible-a11y-kotlin-android-animations-7432bd23e395",
-    "permanent": true
-  },
-  {
     "from": "/38134130bab1",
     "to": "/ace-your-developer-internship-with-these-simple-steps-38134130bab1",
     "permanent": true
@@ -2272,11 +3271,6 @@
     "permanent": true
   },
   {
-    "from": "/df57f86daf74",
-    "to": "/all-about-that-architecture-exploring-different-architecture-patterns-and-how-to-use-them-in-your-df57f86daf74",
-    "permanent": true
-  },
-  {
     "from": "/7902cca6d729",
     "to": "/all-i-really-need-to-know-about-infosec-i-learned-from-mr-robot-7902cca6d729",
     "permanent": true
@@ -2304,11 +3298,6 @@
   {
     "from": "/dbe151b70082",
     "to": "/all-you-need-to-know-about-parcel-dbe151b70082",
-    "permanent": true
-  },
-  {
-    "from": "/6c8c5aea3e32",
-    "to": "/all-you-need-to-know-about-promise-all-6c8c5aea3e32",
     "permanent": true
   },
   {
@@ -2672,11 +3661,6 @@
     "permanent": true
   },
   {
-    "from": "/9e8f78194993",
-    "to": "/an-introduction-to-rabbitmq-a-broker-that-deals-in-messages-9e8f78194993",
-    "permanent": true
-  },
-  {
     "from": "/12843fcd2fd9",
     "to": "/an-introduction-to-react-hooks-12843fcd2fd9",
     "permanent": true
@@ -2717,11 +3701,6 @@
     "permanent": true
   },
   {
-    "from": "/66544710b50c",
-    "to": "/an-introduction-to-tdd-with-vue-js-66544710b50c",
-    "permanent": true
-  },
-  {
     "from": "/t-c4de6dce5c",
     "to": "/an-introduction-to-test-driven-development-c4de6dce5c",
     "permanent": true
@@ -2749,11 +3728,6 @@
   {
     "from": "/98926ebf53cb",
     "to": "/an-introduction-to-the-redux-first-routing-model-98926ebf53cb",
-    "permanent": true
-  },
-  {
-    "from": "/36fe781a75c1",
-    "to": "/an-introduction-to-the-solid-principles-36fe781a75c1",
     "permanent": true
   },
   {
@@ -3052,23 +4026,8 @@
     "permanent": true
   },
   {
-    "from": "/8bf4396804e0",
-    "to": "/asymptotic-analysis-explained-with-pok%C3%A9mon-a-deep-dive-into-complexity-analysis-8bf4396804e0",
-    "permanent": true
-  },
-  {
-    "from": "/8bf4396804e0",
-    "to": "/asymptotic-analysis-explained-with-pokémon-a-deep-dive-into-complexity-analysis-8bf4396804e0",
-    "permanent": true
-  },
-  {
     "from": "/2ba02ae077b3",
     "to": "/async-operations-using-redux-saga-2ba02ae077b3",
-    "permanent": true
-  },
-  {
-    "from": "/1a04f395d8c7",
-    "to": "/asynchronous-io-vs-asynchronous-request-processing-in-java-1a04f395d8c7",
     "permanent": true
   },
   {
@@ -3122,16 +4081,6 @@
     "permanent": true
   },
   {
-    "from": "/4ed8e2702ce3",
-    "to": "/avoiding-null-check-pollution-in-javascript-4ed8e2702ce3",
-    "permanent": true
-  },
-  {
-    "from": "/4ed8e2702ce3",
-    "to": "/avoiding-null-check-pollution-in-javascript-with-optionals-4ed8e2702ce3",
-    "permanent": true
-  },
-  {
     "from": "/c77a0fb71c4c",
     "to": "/avoiding-the-async-await-hell-c77a0fb71c4c",
     "permanent": true
@@ -3144,11 +4093,6 @@
   {
     "from": "/d8939ff4220",
     "to": "/aws-lambda-offering-developers-ultimate-flexibility-d8939ff4220",
-    "permanent": true
-  },
-  {
-    "from": "/490468af3a99",
-    "to": "/aws-polly-tutorial-490468af3a99",
     "permanent": true
   },
   {
@@ -3249,11 +4193,6 @@
   {
     "from": "/a763e6424717",
     "to": "/benefits-of-progressive-web-applications-pwas-and-how-to-build-one-a763e6424717",
-    "permanent": true
-  },
-  {
-    "from": "/c479b55ed851",
-    "to": "/best-free-online-courses-of-2016-c479b55ed851",
     "permanent": true
   },
   {
@@ -3557,11 +4496,6 @@
     "permanent": true
   },
   {
-    "from": "/2abad38022b1",
-    "to": "/browserhistory-2abad38022b1",
-    "permanent": true
-  },
-  {
     "from": "/b3d7ca08a0a9",
     "to": "/browserify-vs-webpack-b3d7ca08a0a9",
     "permanent": true
@@ -3624,11 +4558,6 @@
   {
     "from": "/4feada408812",
     "to": "/build-a-real-time-commenting-feature-using-net-and-pusher-4feada408812",
-    "permanent": true
-  },
-  {
-    "from": "/eddb554eaefb",
-    "to": "/build-a-real-time-dynamic-cover-system-eddb554eaefb",
     "permanent": true
   },
   {
@@ -3897,16 +4826,6 @@
     "permanent": true
   },
   {
-    "from": "/2f5282e943ef",
-    "to": "/building-products-for-everyone-voiceover-on-ios-2f5282e943ef",
-    "permanent": true
-  },
-  {
-    "from": "/2f5282e943ef",
-    "to": "/building-products-for-everyone-voiceover-on-ios-accessibility-tutorial-2f5282e943ef",
-    "permanent": true
-  },
-  {
     "from": "/43f854a82a62",
     "to": "/building-react-native-app-in-old-school-style-43f854a82a62",
     "permanent": true
@@ -3992,11 +4911,6 @@
     "permanent": true
   },
   {
-    "from": "/bcd24a07dc3e",
-    "to": "/changing-the-meme-game-bcd24a07dc3e",
-    "permanent": true
-  },
-  {
     "from": "/18caf312693c",
     "to": "/chart-the-stock-market-with-react-redux-react-vis-and-socket-io-18caf312693c",
     "permanent": true
@@ -4047,11 +4961,6 @@
     "permanent": true
   },
   {
-    "from": "/9ae77fd3504a",
-    "to": "/choosing-the-right-course-9ae77fd3504a",
-    "permanent": true
-  },
-  {
     "from": "/ae670f700794",
     "to": "/class-struggle-in-the-21st-century-ae670f700794",
     "permanent": true
@@ -4084,11 +4993,6 @@
   {
     "from": "/50b095289bfa",
     "to": "/closing-the-book-on-closures-50b095289bfa",
-    "permanent": true
-  },
-  {
-    "from": "/f10d3c249a12",
-    "to": "/closures-vuejs-higher-order-functions-emojipicker-f10d3c249a12",
     "permanent": true
   },
   {
@@ -4497,21 +5401,6 @@
     "permanent": true
   },
   {
-    "from": "/cebfe2546e97",
-    "to": "/confessions-insecure-designer-cebfe2546e97",
-    "permanent": true
-  },
-  {
-    "from": "/cebfe2546e97",
-    "to": "/confessions-of-an-insecure-designer-cebfe2546e97",
-    "permanent": true
-  },
-  {
-    "from": "/d3a16396266",
-    "to": "/configure-multiple-camel-context-in-spring-boot-application-d3a16396266",
-    "permanent": true
-  },
-  {
     "from": "/78aaee6b8e74",
     "to": "/congrats-youre-giving-a-talk-so-where-do-you-start-78aaee6b8e74",
     "permanent": true
@@ -4577,18 +5466,8 @@
     "permanent": true
   },
   {
-    "from": "/a0d7ae675869",
-    "to": "/couldnt-get-into-ivy-league-irl-here-are-250-free-online-courses-from-ivy-league-colleges-a0d7ae675869",
-    "permanent": true
-  },
-  {
     "from": "/5d3764493a5a",
     "to": "/counting-uniques-faster-in-bigquery-with-hyperloglog-5d3764493a5a",
-    "permanent": true
-  },
-  {
-    "from": "/6d84cdb30da",
-    "to": "/coursera-free-online-courses-6d84cdb30da",
     "permanent": true
   },
   {
@@ -4599,11 +5478,6 @@
   {
     "from": "/8d196646cc9a",
     "to": "/cracking-the-hackathon-complete-guide-to-winning-a-hackathon-8d196646cc9a",
-    "permanent": true
-  },
-  {
-    "from": "/dda63ed27e26",
-    "to": "/cracking-the-system-design-interview-tips-from-a-twitter-software-engineer-dda63ed27e26",
     "permanent": true
   },
   {
@@ -4677,11 +5551,6 @@
     "permanent": true
   },
   {
-    "from": "/618814e35843",
-    "to": "/create-your-portfolio-website-using-react-js-618814e35843",
-    "permanent": true
-  },
-  {
     "from": "/5264e1725f08",
     "to": "/creating-a-bare-bones-quote-generator-with-javascript-and-html-for-absolute-beginners-5264e1725f08",
     "permanent": true
@@ -4729,11 +5598,6 @@
   {
     "from": "/f674c21c3452",
     "to": "/creating-realistic-3d-objects-in-figma-carton-box-example-f674c21c3452",
-    "permanent": true
-  },
-  {
-    "from": "/8e0ea8f03e83",
-    "to": "/creating-responsive-tables-with-pure-css-using-the-grid-layout-module-8e0ea8f03e83",
     "permanent": true
   },
   {
@@ -4992,11 +5856,6 @@
     "permanent": true
   },
   {
-    "from": "/f2eb9bfbb40a",
-    "to": "/day-22-how-to-build-an-ai-game-bot-using-openai-gym-and-universe-f2eb9bfbb40a",
-    "permanent": true
-  },
-  {
     "from": "/16cad22e3389",
     "to": "/dear-react-a-thank-you-letter-16cad22e3389",
     "permanent": true
@@ -5037,11 +5896,6 @@
     "permanent": true
   },
   {
-    "from": "/8098e22d878d",
-    "to": "/deconstructing-the-hemingway-app-8098e22d878d",
-    "permanent": true
-  },
-  {
     "from": "/c623833f5ad3",
     "to": "/deep-copy-vs-shallow-copy-and-how-you-can-use-them-in-swift-c623833f5ad3",
     "permanent": true
@@ -5052,11 +5906,6 @@
     "permanent": true
   },
   {
-    "from": "/d3e02a429ac3",
-    "to": "/deep-dive-into-graphql-with-golang-d3e02a429ac3",
-    "permanent": true
-  },
-  {
     "from": "/21ee18b71dd9",
     "to": "/deep-dive-into-scope-chains-and-closures-21ee18b71dd9",
     "permanent": true
@@ -5064,11 +5913,6 @@
   {
     "from": "/34c4435ae6b",
     "to": "/deep-learning-for-developers-tools-you-can-use-to-code-neural-networks-on-day-1-34c4435ae6b",
-    "permanent": true
-  },
-  {
-    "from": "/42cd59a1972d",
-    "to": "/deep-learning-image-classifier-for-game-of-thrones-dragons-42cd59a1972d",
     "permanent": true
   },
   {
@@ -5252,18 +6096,8 @@
     "permanent": true
   },
   {
-    "from": "/fb420ca53215",
-    "to": "/designing-ui-states-and-communicate-with-developers-effectively-by-fsm-fb420ca53215",
-    "permanent": true
-  },
-  {
     "from": "/ee963292623a",
     "to": "/destructuring-in-javascript-es6-ee963292623a",
-    "permanent": true
-  },
-  {
-    "from": "/c25f1ce83ec2",
-    "to": "/dev-env-as-code-c25f1ce83ec2",
     "permanent": true
   },
   {
@@ -5334,11 +6168,6 @@
   {
     "from": "/5c472a7765d7",
     "to": "/discover-the-power-of-closures-in-javascript-5c472a7765d7",
-    "permanent": true
-  },
-  {
-    "from": "/f10d3c249a12",
-    "to": "/discover-the-power-of-closures-in-vuejs-f10d3c249a12",
     "permanent": true
   },
   {
@@ -5499,16 +6328,6 @@
   {
     "from": "/1dfc575522a0",
     "to": "/docker-quick-start-video-tutorials-1dfc575522a0",
-    "permanent": true
-  },
-  {
-    "from": "/96639a35ff36",
-    "to": "/docker-simplified-96639a35ff36",
-    "permanent": true
-  },
-  {
-    "from": "/96639a35ff36",
-    "to": "/docker-simplified-a-hands-on-guide-for-absolute-beginners-96639a35ff36",
     "permanent": true
   },
   {
@@ -6007,11 +6826,6 @@
     "permanent": true
   },
   {
-    "from": "/932b6cd5cfee",
-    "to": "/eyeshadow-932b6cd5cfee",
-    "permanent": true
-  },
-  {
     "from": "/f88661b97959",
     "to": "/face-centering-android-library-build-on-top-of-google-vision-api-f88661b97959",
     "permanent": true
@@ -6044,21 +6858,6 @@
   {
     "from": "/786ea235812f",
     "to": "/favorite-vs-code-extensions-2017-786ea235812f",
-    "permanent": true
-  },
-  {
-    "from": "/cf3277b11318",
-    "to": "/feature-u-cf3277b11318",
-    "permanent": true
-  },
-  {
-    "from": "/cf3277b11318",
-    "to": "/feature-u-feature-based-project-organization-for-react-cf3277b11318",
-    "permanent": true
-  },
-  {
-    "from": "/b84e2372c5e6",
-    "to": "/feature-u-v1-b84e2372c5e6",
     "permanent": true
   },
   {
@@ -6217,11 +7016,6 @@
     "permanent": true
   },
   {
-    "from": "/18f88346ed0f",
-    "to": "/flutter-is-awesome-but-where-do-i-start-learning-18f88346ed0f",
-    "permanent": true
-  },
-  {
     "from": "/e895e533dfb7",
     "to": "/flutter-platform-channels-with-protobuf-e895e533dfb7",
     "permanent": true
@@ -6297,11 +7091,6 @@
     "permanent": true
   },
   {
-    "from": "/6cf58fdc2d9b",
-    "to": "/four-architecture-pattern-candidates-for-blockchain-based-decentralized-applications-6cf58fdc2d9b",
-    "permanent": true
-  },
-  {
     "from": "/19bcbff64b5c",
     "to": "/free-code-camp-doesnt-make-money-and-thats-ok-19bcbff64b5c",
     "permanent": true
@@ -6337,16 +7126,6 @@
     "permanent": true
   },
   {
-    "from": "/c051ca570324",
-    "to": "/free-https-c051ca570324",
-    "permanent": true
-  },
-  {
-    "from": "/96a4207bb182",
-    "to": "/free-online-courses-cs-programming-june-2017-96a4207bb182",
-    "permanent": true
-  },
-  {
     "from": "/e621d959e64",
     "to": "/free-online-programming-computer-science-courses-you-can-start-in-february-e621d959e64",
     "permanent": true
@@ -6364,16 +7143,6 @@
   {
     "from": "/a3770c547a9d",
     "to": "/freecodecamp-and-the-javascript-tattoo-a3770c547a9d",
-    "permanent": true
-  },
-  {
-    "from": "/3cc4bfae6853",
-    "to": "/freecodecamp-atlanta-is-starting-a-book-club-are-you-ready-to-participate-3cc4bfae6853",
-    "permanent": true
-  },
-  {
-    "from": "/3cc4bfae6853",
-    "to": "/freecodecamp-book-club-3cc4bfae6853",
     "permanent": true
   },
   {
@@ -6547,11 +7316,6 @@
     "permanent": true
   },
   {
-    "from": "/cc6936ba0b99",
-    "to": "/future-of-bitcoin-cc6936ba0b99",
-    "permanent": true
-  },
-  {
     "from": "/683cce8a7d7a",
     "to": "/future-tech-thats-hiding-in-plain-sight-artificial-intelligence-683cce8a7d7a",
     "permanent": true
@@ -6582,16 +7346,6 @@
     "permanent": true
   },
   {
-    "from": "/5c88d8134ac7",
-    "to": "/gcp-cloud-iot-core-with-esp32-and-mongoose-os-5c88d8134ac7",
-    "permanent": true
-  },
-  {
-    "from": "/5c88d8134ac7",
-    "to": "/gcp-cloudiotcore-esp32-mongooseos-1st-5c88d8134ac7",
-    "permanent": true
-  },
-  {
     "from": "/90a3a29eea51",
     "to": "/gdg-warri-nigeria-to-host-her-maiden-and-largest-developers-festival-in-warri-devfest18-90a3a29eea51",
     "permanent": true
@@ -6614,11 +7368,6 @@
   {
     "from": "/c63ff81b388e",
     "to": "/get-a-blog-on-your-website-with-react-and-wordpress-api-c63ff81b388e",
-    "permanent": true
-  },
-  {
-    "from": "/16970919ebb2",
-    "to": "/get-a-front-row-seat-in-harvards-largest-class-thanks-to-virtual-reality-16970919ebb2",
     "permanent": true
   },
   {
@@ -6669,16 +7418,6 @@
   {
     "from": "/afcd0dfd3d2f",
     "to": "/get-to-know-tensorflow-js-in-7-minutes-afcd0dfd3d2f",
-    "permanent": true
-  },
-  {
-    "from": "/9a4cb22b93f4",
-    "to": "/get-your-npm-package-covered-with-jest-and-codecov-️-9a4cb22b93f4",
-    "permanent": true
-  },
-  {
-    "from": "/9a4cb22b93f4",
-    "to": "/get-your-npm-package-covered-with-jest-and-codecov-%EF%B8%8F-9a4cb22b93f4",
     "permanent": true
   },
   {
@@ -6957,11 +7696,6 @@
     "permanent": true
   },
   {
-    "from": "/7be7bfd6a46c",
-    "to": "/graphic-designer-to-front-end-developer-7be7bfd6a46c",
-    "permanent": true
-  },
-  {
     "from": "/1f59808f4435",
     "to": "/graphql-for-front-end-developers-1f59808f4435",
     "permanent": true
@@ -6979,11 +7713,6 @@
   {
     "from": "/21f402c4c37a",
     "to": "/graphql-java-development-stack-in-production-21f402c4c37a",
-    "permanent": true
-  },
-  {
-    "from": "/5e008fc46451",
-    "to": "/graphql-subscriptions-with-go-gqlgen-and-mongodb-5e008fc46451",
     "permanent": true
   },
   {
@@ -7009,11 +7738,6 @@
   {
     "from": "/8cf76300a5d1",
     "to": "/growth-hacking-your-free-code-camp-group-8cf76300a5d1",
-    "permanent": true
-  },
-  {
-    "from": "/d9526a93eaef",
-    "to": "/guide-your-coding-and-your-coding-career-with-real-users-in-the-real-world-d9526a93eaef",
     "permanent": true
   },
   {
@@ -7064,11 +7788,6 @@
   {
     "from": "/efe7e6b1f9a8",
     "to": "/hacking-together-a-simple-graphical-python-debugger-efe7e6b1f9a8",
-    "permanent": true
-  },
-  {
-    "from": "/a1b80cb372b",
-    "to": "/hacks-for-creating-javascript-arrays-a1b80cb372b",
     "permanent": true
   },
   {
@@ -7147,11 +7866,6 @@
     "permanent": true
   },
   {
-    "from": "/8e4371fc5261",
-    "to": "/hash-table-attack-8e4371fc5261",
-    "permanent": true
-  },
-  {
     "from": "/16455c5d2426",
     "to": "/haskell-has-no-while-no-for-no-variables-and-will-change-you-16455c5d2426",
     "permanent": true
@@ -7194,11 +7908,6 @@
   {
     "from": "/ea006c56038c",
     "to": "/hello-world-the-pythonic-way-ea006c56038c",
-    "permanent": true
-  },
-  {
-    "from": "/5751775ed435",
-    "to": "/help-us-kickstart-modulz-5751775ed435",
     "permanent": true
   },
   {
@@ -7374,11 +8083,6 @@
   {
     "from": "/8fdf98f53a0a",
     "to": "/heres-how-you-can-actually-use-node-environment-variables-8fdf98f53a0a",
-    "permanent": true
-  },
-  {
-    "from": "/51cbe41ad8f1",
-    "to": "/heres-how-you-can-make-a-360-vr-app-in-10-minutes-with-unity-51cbe41ad8f1",
     "permanent": true
   },
   {
@@ -7662,11 +8366,6 @@
     "permanent": true
   },
   {
-    "from": "/4f3343c50aa2",
-    "to": "/how-apache-nifi-works-surf-on-your-dataflow-dont-drown-in-it-4f3343c50aa2",
-    "permanent": true
-  },
-  {
     "from": "/8c3978238324",
     "to": "/how-apple-pay-works-under-the-hood-8c3978238324",
     "permanent": true
@@ -7714,11 +8413,6 @@
   {
     "from": "/f944356c267e",
     "to": "/how-blockchain-works-and-how-it-powers-bitcoin-f944356c267e",
-    "permanent": true
-  },
-  {
-    "from": "/d24fd555b8c3",
-    "to": "/how-build-community-network-hackhorizon-d24fd555b8c3",
     "permanent": true
   },
   {
@@ -8237,16 +8931,6 @@
     "permanent": true
   },
   {
-    "from": "/654d3d394ca6",
-    "to": "/how-i-got-1000-️-on-my-github-project-654d3d394ca6",
-    "permanent": true
-  },
-  {
-    "from": "/654d3d394ca6",
-    "to": "/how-i-got-1000-%EF%B8%8F-on-my-github-project-654d3d394ca6",
-    "permanent": true
-  },
-  {
     "from": "/fdf75e610c1",
     "to": "/how-i-got-a-developer-job-abroad-my-journey-from-marketing-to-tech-fdf75e610c1",
     "permanent": true
@@ -8517,11 +9201,6 @@
     "permanent": true
   },
   {
-    "from": "/7be7bfd6a46c",
-    "to": "/how-i-transitioned-from-a-graphic-designer-to-front-end-developer-in-5-months-7be7bfd6a46c",
-    "permanent": true
-  },
-  {
     "from": "/33e8a0fc7caf",
     "to": "/how-i-turned-a-rejected-conference-talk-into-250k-views-on-medium-and-youtube-33e8a0fc7caf",
     "permanent": true
@@ -8664,11 +9343,6 @@
   {
     "from": "/a6ab18ac29b2",
     "to": "/how-im-working-to-overcome-my-struggles-as-a-junior-developer-a6ab18ac29b2",
-    "permanent": true
-  },
-  {
-    "from": "/558d9f449e3",
-    "to": "/how-image-optimization-decreased-my-websites-page-weight-by-62-558d9f449e3",
     "permanent": true
   },
   {
@@ -9317,11 +9991,6 @@
     "permanent": true
   },
   {
-    "from": "/d354944308c0",
-    "to": "/how-to-break-into-product-management-d354944308c0",
-    "permanent": true
-  },
-  {
     "from": "/70a419842e29",
     "to": "/how-to-bridge-stateful-and-event-sourced-systems-70a419842e29",
     "permanent": true
@@ -9409,11 +10078,6 @@
   {
     "from": "/10f7e4fbea2",
     "to": "/how-to-build-a-debuggable-styled-component-10f7e4fbea2",
-    "permanent": true
-  },
-  {
-    "from": "/42cd59a1972d",
-    "to": "/how-to-build-a-deep-learning-image-classifier-for-game-of-thrones-dragons-42cd59a1972d",
     "permanent": true
   },
   {
@@ -9832,11 +10496,6 @@
     "permanent": true
   },
   {
-    "from": "/f2eb9bfbb40a",
-    "to": "/how-to-build-an-ai-game-bot-using-openai-gym-and-universe-f2eb9bfbb40a",
-    "permanent": true
-  },
-  {
     "from": "/fdcb3ea9e73b",
     "to": "/how-to-build-an-android-messenger-app-with-online-presence-using-kotlin-fdcb3ea9e73b",
     "permanent": true
@@ -9884,11 +10543,6 @@
   {
     "from": "/4454b8714b98",
     "to": "/how-to-build-an-html-calculator-app-from-scratch-using-javascript-4454b8714b98",
-    "permanent": true
-  },
-  {
-    "from": "/3c72010b3d55",
-    "to": "/how-to-build-an-image-classifier-with-greater-than-97-accuracy-3c72010b3d55",
     "permanent": true
   },
   {
@@ -9999,11 +10653,6 @@
   {
     "from": "/47ad3c5c8e47",
     "to": "/how-to-build-sturdy-react-apps-with-tdd-and-the-react-testing-library-47ad3c5c8e47",
-    "permanent": true
-  },
-  {
-    "from": "/3c72010b3d55",
-    "to": "/how-to-build-the-best-image-classifier-3c72010b3d55",
     "permanent": true
   },
   {
@@ -10172,11 +10821,6 @@
     "permanent": true
   },
   {
-    "from": "/9ae77fd3504a",
-    "to": "/how-to-choose-the-right-online-course-or-platform-when-youre-learning-to-code-9ae77fd3504a",
-    "permanent": true
-  },
-  {
     "from": "/60abef241012",
     "to": "/how-to-choose-which-programming-language-you-should-learn-in-2019-60abef241012",
     "permanent": true
@@ -10227,11 +10871,6 @@
     "permanent": true
   },
   {
-    "from": "/f1364e2e77ba",
-    "to": "/how-to-columnize-your-code-to-improve-readability-f1364e2e77ba",
-    "permanent": true
-  },
-  {
     "from": "/265183e0854",
     "to": "/how-to-combine-multiple-csv-files-with-8-lines-of-code-265183e0854",
     "permanent": true
@@ -10259,11 +10898,6 @@
   {
     "from": "/e2c49022c448",
     "to": "/how-to-conditionally-build-an-object-in-javascript-with-es6-e2c49022c448",
-    "permanent": true
-  },
-  {
-    "from": "/d3a16396266",
-    "to": "/how-to-configure-multiple-camel-context-in-spring-boot-application-d3a16396266",
     "permanent": true
   },
   {
@@ -10892,18 +11526,8 @@
     "permanent": true
   },
   {
-    "from": "/922d864365c9",
-    "to": "/how-to-design-apis-that-dont-suck-922d864365c9",
-    "permanent": true
-  },
-  {
     "from": "/3b213d909387",
     "to": "/how-to-design-terrible-graphs-3b213d909387",
-    "permanent": true
-  },
-  {
-    "from": "/fb420ca53215",
-    "to": "/how-to-design-ui-states-and-communicate-effectively-with-developers-using-the-finite-state-machine-fb420ca53215",
     "permanent": true
   },
   {
@@ -11087,11 +11711,6 @@
     "permanent": true
   },
   {
-    "from": "/21bb035f7260",
-    "to": "/how-to-explain-object-oriented-programming-concepts-to-a-6-year-old-21bb035f7260",
-    "permanent": true
-  },
-  {
     "from": "/b2a0f3d7e667",
     "to": "/how-to-extract-keywords-from-text-with-tf-idf-and-pythons-scikit-learn-b2a0f3d7e667",
     "permanent": true
@@ -11154,16 +11773,6 @@
   {
     "from": "/eac9e9cb4dde",
     "to": "/how-to-generate-dynamic-pdfs-using-react-and-nodejs-eac9e9cb4dde",
-    "permanent": true
-  },
-  {
-    "from": "/77310125dca0",
-    "to": "/how-to-generate-readme-badges-with-express-77310125dca0",
-    "permanent": true
-  },
-  {
-    "from": "/77310125dca0",
-    "to": "/how-to-generate-readme-badges-with-express-and-squirrelly-77310125dca0",
     "permanent": true
   },
   {
@@ -11482,11 +12091,6 @@
     "permanent": true
   },
   {
-    "from": "/c051ca570324",
-    "to": "/how-to-get-your-site-on-https-for-free-in-10-minutes-c051ca570324",
-    "permanent": true
-  },
-  {
     "from": "/e185256a1115",
     "to": "/how-to-go-beyond-console-log-and-get-the-most-out-of-your-browsers-debugging-console-e185256a1115",
     "permanent": true
@@ -11499,16 +12103,6 @@
   {
     "from": "/11a8b8a52b5f",
     "to": "/how-to-go-from-hobbyist-to-professional-developer-11a8b8a52b5f",
-    "permanent": true
-  },
-  {
-    "from": "/289ceae4226a",
-    "to": "/how-to-go-from-idea-to-live-marketplace-mvp-with-no-software-development-skills-️-289ceae4226a",
-    "permanent": true
-  },
-  {
-    "from": "/289ceae4226a",
-    "to": "/how-to-go-from-idea-to-live-marketplace-mvp-with-no-software-development-skills-%EF%B8%8F-289ceae4226a",
     "permanent": true
   },
   {
@@ -11652,11 +12246,6 @@
     "permanent": true
   },
   {
-    "from": "/60fbc2bac2bf",
-    "to": "/how-to-implement-dependency-injection-in-your-app-with-dagger-2-60fbc2bac2bf",
-    "permanent": true
-  },
-  {
     "from": "/9f91d263ec51",
     "to": "/how-to-implement-javascript-interop-in-blazor-9f91d263ec51",
     "permanent": true
@@ -11754,11 +12343,6 @@
   {
     "from": "/acb6759c66da",
     "to": "/how-to-increase-your-chances-of-landing-a-development-job-acb6759c66da",
-    "permanent": true
-  },
-  {
-    "from": "/261fee015f80",
-    "to": "/how-to-incrementally-add-flow-to-an-existing-react-app-261fee015f80",
     "permanent": true
   },
   {
@@ -12022,11 +12606,6 @@
     "permanent": true
   },
   {
-    "from": "/51cbe41ad8f1",
-    "to": "/how-to-make-a-360-vr-app-with-unity-51cbe41ad8f1",
-    "permanent": true
-  },
-  {
     "from": "/8abc81c6b7a2",
     "to": "/how-to-make-a-badass-matrix-terminal-and-maybe-learn-something-about-code-8abc81c6b7a2",
     "permanent": true
@@ -12277,11 +12856,6 @@
     "permanent": true
   },
   {
-    "from": "/7432bd23e395",
-    "to": "/how-to-make-your-kotlin-android-animations-accessible-7432bd23e395",
-    "permanent": true
-  },
-  {
     "from": "/2762841e9481",
     "to": "/how-to-make-your-launch-process-a-walk-in-the-park-2762841e9481",
     "permanent": true
@@ -12332,11 +12906,6 @@
     "permanent": true
   },
   {
-    "from": "/cf55c98ac0a2",
-    "to": "/how-to-make-your-website-load-lightning-fast-with-webp-images-cf55c98ac0a2",
-    "permanent": true
-  },
-  {
     "from": "/b48ed6a6498c",
     "to": "/how-to-manage-file-uploads-in-graphql-mutations-using-apollo-graphene-b48ed6a6498c",
     "permanent": true
@@ -12344,11 +12913,6 @@
   {
     "from": "/332b5fc4c346",
     "to": "/how-to-manage-more-containers-with-docker-swarm-332b5fc4c346",
-    "permanent": true
-  },
-  {
-    "from": "/a29fb00c296f",
-    "to": "/how-to-manage-multiple-python-versions-and-virtual-environments-a29fb00c296f",
     "permanent": true
   },
   {
@@ -12377,11 +12941,6 @@
     "permanent": true
   },
   {
-    "from": "/f747e99744ab",
-    "to": "/how-to-master-advanced-typescript-patterns-f747e99744ab",
-    "permanent": true
-  },
-  {
     "from": "/19107e7558ad",
     "to": "/how-to-master-async-await-with-this-real-world-example-19107e7558ad",
     "permanent": true
@@ -12389,16 +12948,6 @@
   {
     "from": "/44b9da20c556",
     "to": "/how-to-master-intellij-to-boost-your-productivity-44b9da20c556",
-    "permanent": true
-  },
-  {
-    "from": "/e6d9bdafaaf9",
-    "to": "/how-to-measure-hearthstone-e6d9bdafaaf9",
-    "permanent": true
-  },
-  {
-    "from": "/e6d9bdafaaf9",
-    "to": "/how-to-measure-hearthstone-performance-e6d9bdafaaf9",
     "permanent": true
   },
   {
@@ -12562,16 +13111,6 @@
     "permanent": true
   },
   {
-    "from": "/3655b0c04c05",
-    "to": "/how-to-pimp-out-your-developer-profile-and-leave-your-old-r%C3%A9sum%C3%A9-in-the-dust-3655b0c04c05",
-    "permanent": true
-  },
-  {
-    "from": "/3655b0c04c05",
-    "to": "/how-to-pimp-out-your-developer-profile-and-leave-your-old-résumé-in-the-dust-3655b0c04c05",
-    "permanent": true
-  },
-  {
     "from": "/b0742b99065d",
     "to": "/how-to-play-quidditch-using-the-tensorflow-object-detection-api-b0742b99065d",
     "permanent": true
@@ -12594,11 +13133,6 @@
   {
     "from": "/47f98f0612ea",
     "to": "/how-to-predict-likes-and-shares-based-on-your-articles-title-using-machine-learning-47f98f0612ea",
-    "permanent": true
-  },
-  {
-    "from": "/5cf35145d398",
-    "to": "/how-to-predict-rent-and-select-the-best-lease-duration-to-save-money-5cf35145d398",
     "permanent": true
   },
   {
@@ -12699,16 +13233,6 @@
   {
     "from": "/1a6e7923e105",
     "to": "/how-to-quickly-set-up-a-build-process-for-a-static-site-1a6e7923e105",
-    "permanent": true
-  },
-  {
-    "from": "/708e75efc560",
-    "to": "/how-to-read-a-regression-table-708e75efc560",
-    "permanent": true
-  },
-  {
-    "from": "/232b65118fe2",
-    "to": "/how-to-read-and-write-mindful-minutes-from-ioss-healthkit-with-swift-232b65118fe2",
     "permanent": true
   },
   {
@@ -12857,11 +13381,6 @@
     "permanent": true
   },
   {
-    "from": "/3fe08c69f499",
-    "to": "/how-to-secure-and-manage-secrets-using-google-cloud-kms-3fe08c69f499",
-    "permanent": true
-  },
-  {
     "from": "/4bfaa7a6583c",
     "to": "/how-to-secure-microservices-on-aws-with-cognito-api-gateway-and-lambda-4bfaa7a6583c",
     "permanent": true
@@ -12994,11 +13513,6 @@
   {
     "from": "/d07abdd5a4f4",
     "to": "/how-to-set-up-gatsbyjs-authentication-with-auth0-d07abdd5a4f4",
-    "permanent": true
-  },
-  {
-    "from": "/d3e02a429ac3",
-    "to": "/how-to-set-up-graphql-with-golang-a-deep-dive-from-basics-to-advanced-d3e02a429ac3",
     "permanent": true
   },
   {
@@ -13232,11 +13746,6 @@
     "permanent": true
   },
   {
-    "from": "/580ccb4d8cf6",
-    "to": "/how-to-start-building-your-android-app-creating-mockups-ui-and-xml-layouts-580ccb4d8cf6",
-    "permanent": true
-  },
-  {
     "from": "/ea1c913caaaa",
     "to": "/how-to-start-using-curl-and-why-a-hands-on-introduction-ea1c913caaaa",
     "permanent": true
@@ -13264,11 +13773,6 @@
   {
     "from": "/44dddc11697e",
     "to": "/how-to-strategically-accomplish-your-machine-learning-models-performance-goals-44dddc11697e",
-    "permanent": true
-  },
-  {
-    "from": "/c25f1ce83ec2",
-    "to": "/how-to-streamline-developer-onboarding-the-dev-environment-as-code-c25f1ce83ec2",
     "permanent": true
   },
   {
@@ -13327,11 +13831,6 @@
     "permanent": true
   },
   {
-    "from": "/dda63ed27e26",
-    "to": "/how-to-system-design-dda63ed27e26",
-    "permanent": true
-  },
-  {
     "from": "/b54123995e1a",
     "to": "/how-to-tackle-css-specificity-issues-and-when-to-use-the-important-keyword-b54123995e1a",
     "permanent": true
@@ -13364,11 +13863,6 @@
   {
     "from": "/2ecd43846f0d",
     "to": "/how-to-teach-programming-to-teenagers-2ecd43846f0d",
-    "permanent": true
-  },
-  {
-    "from": "/490468af3a99",
-    "to": "/how-to-teach-your-projects-to-talk-with-aws-polly-490468af3a99",
     "permanent": true
   },
   {
@@ -13519,11 +14013,6 @@
   {
     "from": "/14db6e1e360d",
     "to": "/how-to-unit-test-your-first-vue-js-component-14db6e1e360d",
-    "permanent": true
-  },
-  {
-    "from": "/b84e2372c5e6",
-    "to": "/how-to-unleash-the-power-of-feature-based-js-development-with-feature-u-v1-b84e2372c5e6",
     "permanent": true
   },
   {
@@ -14012,16 +14501,6 @@
     "permanent": true
   },
   {
-    "from": "/316010db80ec",
-    "to": "/how-to-write-an-awesome-junior-developer-r%C3%A9sum%C3%A9-in-a-few-simple-steps-316010db80ec",
-    "permanent": true
-  },
-  {
-    "from": "/316010db80ec",
-    "to": "/how-to-write-an-awesome-junior-developer-résumé-in-a-few-simple-steps-316010db80ec",
-    "permanent": true
-  },
-  {
     "from": "/341d5e2ffb35",
     "to": "/how-to-write-and-deploy-your-first-smart-contract-341d5e2ffb35",
     "permanent": true
@@ -14182,16 +14661,6 @@
     "permanent": true
   },
   {
-    "from": "/4068f6423830",
-    "to": "/how-we-can-build-schr%C3%B6dingers-div-with-vue-4068f6423830",
-    "permanent": true
-  },
-  {
-    "from": "/4068f6423830",
-    "to": "/how-we-can-build-schrödingers-div-with-vue-4068f6423830",
-    "permanent": true
-  },
-  {
     "from": "/30de78a6548d",
     "to": "/how-we-can-empower-moms-by-helping-them-learn-how-to-code-30de78a6548d",
     "permanent": true
@@ -14329,11 +14798,6 @@
   {
     "from": "/55e2ff67d70d",
     "to": "/how-you-can-build-a-hello-world-api-with-scala-and-akka-http-55e2ff67d70d",
-    "permanent": true
-  },
-  {
-    "from": "/7606c81c3822",
-    "to": "/how-you-can-build-a-strong-coding-community-in-your-city-and-how-i-did-it-7606c81c3822",
     "permanent": true
   },
   {
@@ -14489,86 +14953,6 @@
   {
     "from": "/7029d2193351",
     "to": "/https-explained-with-carrier-pigeons-7029d2193351",
-    "permanent": true
-  },
-  {
-    "from": "/5e008fc46451",
-    "to": "/https-medium-com-anshap1719-graphql-subscriptions-with-go-gqlgen-and-mongodb-5e008fc46451",
-    "permanent": true
-  },
-  {
-    "from": "/922d864365c9",
-    "to": "/https-medium-com-anupcowkur-how-to-design-apis-that-dont-suck-922d864365c9",
-    "permanent": true
-  },
-  {
-    "from": "/d9526a93eaef",
-    "to": "/https-medium-com-bobberry-guide-your-coding-and-your-coding-career-with-real-users-in-the-real-world-d9526a93eaef",
-    "permanent": true
-  },
-  {
-    "from": "/5b19add8e2ed",
-    "to": "/https-medium-com-colin-gabriel-smith-swift-vs-objective-c-5b19add8e2ed",
-    "permanent": true
-  },
-  {
-    "from": "/2a8dcb8603a9",
-    "to": "/https-medium-com-deckee-tech-mitigating-monoliths-2a8dcb8603a9",
-    "permanent": true
-  },
-  {
-    "from": "/a1b80cb372b",
-    "to": "/https-medium-com-gladchinda-hacks-for-creating-javascript-arrays-a1b80cb372b",
-    "permanent": true
-  },
-  {
-    "from": "/9e2b9c75165c",
-    "to": "/https-medium-com-hadrienj-preprocessing-for-deep-learning-9e2b9c75165c",
-    "permanent": true
-  },
-  {
-    "from": "/abfca3668786",
-    "to": "/https-medium-com-henry-little-a-reactive-joystick-built-with-rxjs-abfca3668786",
-    "permanent": true
-  },
-  {
-    "from": "/8e0ea8f03e83",
-    "to": "/https-medium-com-nakayama-shingo-creating-responsive-tables-with-pure-css-using-the-grid-layout-module-8e0ea8f03e83",
-    "permanent": true
-  },
-  {
-    "from": "/6fc42ba7c4a3",
-    "to": "/https-medium-com-rahman-sameeha-whats-flutter-an-intro-to-dart-6fc42ba7c4a3",
-    "permanent": true
-  },
-  {
-    "from": "/8098e22d878d",
-    "to": "/https-medium-com-samwcoding-deconstructing-the-hemingway-app-8098e22d878d",
-    "permanent": true
-  },
-  {
-    "from": "/708e75efc560",
-    "to": "/https-medium-com-sharadvm-how-to-read-a-regression-table-661d391e9bd7-708e75efc560",
-    "permanent": true
-  },
-  {
-    "from": "/6cf58fdc2d9b",
-    "to": "/https-medium-com-srinathperera-blockchain-patterns-6cf58fdc2d9b",
-    "permanent": true
-  },
-  {
-    "from": "/7606c81c3822",
-    "to": "/https-medium-com-xgee-whiz-tips-for-building-an-amazing-coding-community-7606c81c3822",
-    "permanent": true
-  },
-  {
-    "from": "/a65b514b0f2d",
-    "to": "/https-medium-freecodecamp-org-best-free-open-data-sources-anyone-can-use-a65b514b0f2d",
-    "permanent": true
-  },
-  {
-    "from": "/5cf35145d398",
-    "to": "/https-medium-freecodecamp-org-how-to-predict-rent-and-select-the-best-lease-duration-to-save-money-5cf35145d398",
     "permanent": true
   },
   {
@@ -14792,11 +15176,6 @@
     "permanent": true
   },
   {
-    "from": "/6d84cdb30da",
-    "to": "/i-uncovered-1-150-coursera-courses-that-are-still-completely-free-6d84cdb30da",
-    "permanent": true
-  },
-  {
     "from": "/7ecefdb1b8d4",
     "to": "/i-used-programming-to-figure-out-how-card-counting-really-works-7ecefdb1b8d4",
     "permanent": true
@@ -14842,11 +15221,6 @@
     "permanent": true
   },
   {
-    "from": "/94dd26ed5dbd",
-    "to": "/if-you-a-developer-whos-obsessed-with-learning-check-out-these-resources-94dd26ed5dbd",
-    "permanent": true
-  },
-  {
     "from": "/3a39e03b6f35",
     "to": "/if-you-have-slow-loops-in-python-you-can-fix-it-until-you-cant-3a39e03b6f35",
     "permanent": true
@@ -14884,11 +15258,6 @@
   {
     "from": "/3940c9fd419f",
     "to": "/if-you-want-to-stay-up-to-speed-with-cybersecurity-subscribe-to-these-six-newsletters-in-a-hurry-3940c9fd419f",
-    "permanent": true
-  },
-  {
-    "from": "/82d24841ac7e",
-    "to": "/if-you-want-to-talk-about-accessibility-then-we-need-to-talk-about-readability-issues-82d24841ac7e",
     "permanent": true
   },
   {
@@ -14947,11 +15316,6 @@
     "permanent": true
   },
   {
-    "from": "/558d9f449e3",
-    "to": "/image-optimization-558d9f449e3",
-    "permanent": true
-  },
-  {
     "from": "/fc9c89b894ce",
     "to": "/image-recognition-demystified-fc9c89b894ce",
     "permanent": true
@@ -15002,18 +15366,8 @@
     "permanent": true
   },
   {
-    "from": "/664a4b749fb8",
-    "to": "/imposter-syndrome-what-it-is-why-it-happens-and-how-to-stop-the-madness-664a4b749fb8",
-    "permanent": true
-  },
-  {
     "from": "/d9af80a58a5a",
     "to": "/impostor-syndrome-strikes-men-just-as-hard-as-women-and-other-findings-from-thousands-of-d9af80a58a5a",
-    "permanent": true
-  },
-  {
-    "from": "/664a4b749fb8",
-    "to": "/impposter-syndrome-664a4b749fb8",
     "permanent": true
   },
   {
@@ -15079,11 +15433,6 @@
   {
     "from": "/366ef25ce9b3",
     "to": "/incredibly-fast-prototyping-with-material-theme-plugin-for-sketch-and-vuetify-js-366ef25ce9b3",
-    "permanent": true
-  },
-  {
-    "from": "/261fee015f80",
-    "to": "/incrementally-add-flow-type-checking-react-261fee015f80",
     "permanent": true
   },
   {
@@ -15239,11 +15588,6 @@
   {
     "from": "/74e5c0a2e77",
     "to": "/introducing-grid-wiz-make-a-css-grid-framework-with-custom-browser-support-at-the-snap-of-a-74e5c0a2e77",
-    "permanent": true
-  },
-  {
-    "from": "/5751775ed435",
-    "to": "/introducing-modulz-the-next-step-in-visual-coding-5751775ed435",
     "permanent": true
   },
   {
@@ -15407,16 +15751,6 @@
     "permanent": true
   },
   {
-    "from": "/eeac2af0743a",
-    "to": "/ismael-venegas-castell%C3%B3-is-a-data-analyst-and-organizer-of-the-julialanges-community-from-mexico-eeac2af0743a",
-    "permanent": true
-  },
-  {
-    "from": "/eeac2af0743a",
-    "to": "/ismael-venegas-castelló-is-a-data-analyst-and-organizer-of-the-julialanges-community-from-mexico-eeac2af0743a",
-    "permanent": true
-  },
-  {
     "from": "/4ddcabeb3df9",
     "to": "/isnt-tdd-test-driven-development-twice-the-work-why-should-you-care-4ddcabeb3df9",
     "permanent": true
@@ -15482,11 +15816,6 @@
     "permanent": true
   },
   {
-    "from": "/a0d7ae675869",
-    "to": "/ivy-league-free-online-courses-a0d7ae675869",
-    "permanent": true
-  },
-  {
     "from": "/4e757c2cbf42",
     "to": "/jasmine-unit-testing-tutorial-4e757c2cbf42",
     "permanent": true
@@ -15494,11 +15823,6 @@
   {
     "from": "/a09f089585be",
     "to": "/java-archunit-testing-the-architecture-a09f089585be",
-    "permanent": true
-  },
-  {
-    "from": "/1a04f395d8c7",
-    "to": "/java-async-io-async-request-processing-in-http-request-1a04f395d8c7",
     "permanent": true
   },
   {
@@ -15742,16 +16066,6 @@
     "permanent": true
   },
   {
-    "from": "/c8b852c31f02",
-    "to": "/keras-vs-pytorch-alien-vs-predator-recognition-with-transfer-learning-c8b852c31f02",
-    "permanent": true
-  },
-  {
-    "from": "/c8b852c31f02",
-    "to": "/keras-vs-pytorch-avp-transfer-learning-c8b852c31f02",
-    "permanent": true
-  },
-  {
     "from": "/abef7f401d23",
     "to": "/key-based-authentication-not-working-after-ssh-copy-id-abef7f401d23",
     "permanent": true
@@ -15927,11 +16241,6 @@
     "permanent": true
   },
   {
-    "from": "/18f88346ed0f",
-    "to": "/learn-flutter-best-resources-18f88346ed0f",
-    "permanent": true
-  },
-  {
     "from": "/539ce17007be",
     "to": "/learn-from-indias-brightest-minds-here-are-300-free-courses-from-iits-that-are-starting-soon-539ce17007be",
     "permanent": true
@@ -15997,11 +16306,6 @@
     "permanent": true
   },
   {
-    "from": "/19134461ab85",
-    "to": "/learn-linux-vim-basic-features-19134461ab85",
-    "permanent": true
-  },
-  {
     "from": "/e-7ec8d353eb",
     "to": "/learn-modern-javascript-in-this-free-28-part-course-7ec8d353eb",
     "permanent": true
@@ -16014,11 +16318,6 @@
   {
     "from": "/ddaaf4d3c928",
     "to": "/learn-more-about-javascripts-promises-from-zero-to-hero-in-25-tests-ddaaf4d3c928",
-    "permanent": true
-  },
-  {
-    "from": "/8edfdb9be811",
-    "to": "/learn-node-js-by-building-a-timestamp-microservice-app-8edfdb9be811",
     "permanent": true
   },
   {
@@ -16552,11 +16851,6 @@
     "permanent": true
   },
   {
-    "from": "/a85558cb90e8",
-    "to": "/level-you-up-to-awesome-commit-messages-a85558cb90e8",
-    "permanent": true
-  },
-  {
     "from": "/44b5045a2667",
     "to": "/leveling-up-css-44b5045a2667",
     "permanent": true
@@ -16629,11 +16923,6 @@
   {
     "from": "/55efa68e11df",
     "to": "/logistic-regression-the-good-parts-55efa68e11df",
-    "permanent": true
-  },
-  {
-    "from": "/bf840492f34f",
-    "to": "/lokalise-co-blog-bf840492f34f",
     "permanent": true
   },
   {
@@ -16747,11 +17036,6 @@
     "permanent": true
   },
   {
-    "from": "/cf55c98ac0a2",
-    "to": "/make-your-website-load-lightning-fast-with-webp-images-cf55c98ac0a2",
-    "permanent": true
-  },
-  {
     "from": "/69d2ccc3f25e",
     "to": "/makefiles-101-how-to-use-make-as-a-task-automation-tool-69d2ccc3f25e",
     "permanent": true
@@ -16799,11 +17083,6 @@
   {
     "from": "/2dadc30ccaca",
     "to": "/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca",
-    "permanent": true
-  },
-  {
-    "from": "/a29fb00c296f",
-    "to": "/manage-multiple-python-versions-and-virtual-environments-venv-pyenv-pyvenv-a29fb00c296f",
     "permanent": true
   },
   {
@@ -16968,11 +17247,6 @@
     "permanent": true
   },
   {
-    "from": "/8edfdb9be811",
-    "to": "/microservice-8edfdb9be811",
-    "permanent": true
-  },
-  {
     "from": "/ae5317a6ff02",
     "to": "/microservices-from-idea-to-starting-line-ae5317a6ff02",
     "permanent": true
@@ -16998,18 +17272,8 @@
     "permanent": true
   },
   {
-    "from": "/1de862421981",
-    "to": "/mindset-lessons-from-a-year-with-react-1de862421981",
-    "permanent": true
-  },
-  {
     "from": "/919972dfd9e0",
     "to": "/minimum-viable-devops-919972dfd9e0",
-    "permanent": true
-  },
-  {
-    "from": "/8553262e8ff0",
-    "to": "/misconceptions-about-blockchain-8553262e8ff0",
     "permanent": true
   },
   {
@@ -17030,11 +17294,6 @@
   {
     "from": "/28e6db6a68ad",
     "to": "/mistakes-youve-probably-made-in-your-coding-task-for-a-job-interview-28e6db6a68ad",
-    "permanent": true
-  },
-  {
-    "from": "/2a8dcb8603a9",
-    "to": "/mitigating-monoliths-2a8dcb8603a9",
     "permanent": true
   },
   {
@@ -17070,11 +17329,6 @@
   {
     "from": "/1d96979bb32",
     "to": "/monadic-composition-and-kleisli-arrows-1d96979bb32",
-    "permanent": true
-  },
-  {
-    "from": "/565000c7309",
-    "to": "/mongodb-data-visualization-tools-565000c7309",
     "permanent": true
   },
   {
@@ -17165,36 +17419,6 @@
   {
     "from": "/9cb2f6238177",
     "to": "/my-best-tips-for-new-developers-advice-from-a-mostly-self-taught-software-engineer-9cb2f6238177",
-    "permanent": true
-  },
-  {
-    "from": "/61be4f8af906",
-    "to": "/my-crypto-coins-app-series-61be4f8af906",
-    "permanent": true
-  },
-  {
-    "from": "/36fe781a75c1",
-    "to": "/my-crypto-coins-app-series-part-1-36fe781a75c1",
-    "permanent": true
-  },
-  {
-    "from": "/580ccb4d8cf6",
-    "to": "/my-crypto-coins-app-series-part-2-580ccb4d8cf6",
-    "permanent": true
-  },
-  {
-    "from": "/df57f86daf74",
-    "to": "/my-crypto-coins-app-series-part-3-df57f86daf74",
-    "permanent": true
-  },
-  {
-    "from": "/60fbc2bac2bf",
-    "to": "/my-crypto-coins-app-series-part-4-60fbc2bac2bf",
-    "permanent": true
-  },
-  {
-    "from": "/160e7aaa6382",
-    "to": "/my-crypto-coins-app-series-part-5-160e7aaa6382",
     "permanent": true
   },
   {
@@ -17328,11 +17552,6 @@
     "permanent": true
   },
   {
-    "from": "/ff7f29b71341",
-    "to": "/my-personal-favorite-visual-studio-code-extensions-ff7f29b71341",
-    "permanent": true
-  },
-  {
     "from": "/948d0f1ceac1",
     "to": "/my-role-as-a-front-end-web-engineer-explained-948d0f1ceac1",
     "permanent": true
@@ -17405,11 +17624,6 @@
   {
     "from": "/128fe9e0126c",
     "to": "/nginx-rate-limiting-in-a-nutshell-128fe9e0126c",
-    "permanent": true
-  },
-  {
-    "from": "/4f3343c50aa2",
-    "to": "/nifi-surf-on-your-dataflow-4f3343c50aa2",
     "permanent": true
   },
   {
@@ -17503,11 +17717,6 @@
     "permanent": true
   },
   {
-    "from": "/5f6639ed9574",
-    "to": "/nosql-databases-5f6639ed9574",
-    "permanent": true
-  },
-  {
     "from": "/d27124f023f2",
     "to": "/not-quite-100-days-of-code-a-postmortem-d27124f023f2",
     "permanent": true
@@ -17540,11 +17749,6 @@
   {
     "from": "/efed36ac4af3",
     "to": "/object-detection-in-colab-with-fizyr-retinanet-efed36ac4af3",
-    "permanent": true
-  },
-  {
-    "from": "/21bb035f7260",
-    "to": "/object-oriented-programming-concepts-21bb035f7260",
     "permanent": true
   },
   {
@@ -17813,18 +18017,8 @@
     "permanent": true
   },
   {
-    "from": "/618814e35843",
-    "to": "/portfolio-app-using-react-618814e35843",
-    "permanent": true
-  },
-  {
     "from": "/8f2008ca1470",
     "to": "/potatoes-pirates-and-programming-8f2008ca1470",
-    "permanent": true
-  },
-  {
-    "from": "/565000c7309",
-    "to": "/powerful-tools-for-mongodb-data-visualization-565000c7309",
     "permanent": true
   },
   {
@@ -17865,11 +18059,6 @@
   {
     "from": "/250e4a484ee0",
     "to": "/pregx-for-those-who-wish-to-dodge-regex-250e4a484ee0",
-    "permanent": true
-  },
-  {
-    "from": "/9e2b9c75165c",
-    "to": "/preprocessing-for-deep-learning-from-covariance-matrix-to-image-whitening-9e2b9c75165c",
     "permanent": true
   },
   {
@@ -17958,11 +18147,6 @@
     "permanent": true
   },
   {
-    "from": "/6c8c5aea3e32",
-    "to": "/promise-all-in-javascript-with-example-6c8c5aea3e32",
-    "permanent": true
-  },
-  {
     "from": "/2ec098c2c90d",
     "to": "/promises-and-pokemon-how-i-learned-to-think-in-async-2ec098c2c90d",
     "permanent": true
@@ -18028,11 +18212,6 @@
     "permanent": true
   },
   {
-    "from": "/6cdf425bab80",
-    "to": "/qa-documentation-ultimate-guide-6cdf425bab80",
-    "permanent": true
-  },
-  {
     "from": "/621f4094f5ab",
     "to": "/qualities-of-great-software-engineers-621f4094f5ab",
     "permanent": true
@@ -18083,11 +18262,6 @@
     "permanent": true
   },
   {
-    "from": "/9e8f78194993",
-    "to": "/rabbitmq-9e8f78194993",
-    "permanent": true
-  },
-  {
     "from": "/8e40ce10cefe",
     "to": "/rage-against-the-machine-learning-my-battle-with-recommendation-engines-8e40ce10cefe",
     "permanent": true
@@ -18095,11 +18269,6 @@
   {
     "from": "/a3d1afcb8fd2",
     "to": "/rails-authorization-with-pundit-a3d1afcb8fd2",
-    "permanent": true
-  },
-  {
-    "from": "/bf840492f34f",
-    "to": "/rails-internationalization-i18n-the-complete-guide-bf840492f34f",
     "permanent": true
   },
   {
@@ -18263,16 +18432,6 @@
     "permanent": true
   },
   {
-    "from": "/232b65118fe2",
-    "to": "/read-write-mindful-minutes-from-healthkit-with-swift-232b65118fe2",
-    "permanent": true
-  },
-  {
-    "from": "/82d24841ac7e",
-    "to": "/reading-accessibility-82d24841ac7e",
-    "permanent": true
-  },
-  {
     "from": "/417125212638",
     "to": "/real-integration-tests-with-react-redux-and-react-router-417125212638",
     "permanent": true
@@ -18280,11 +18439,6 @@
   {
     "from": "/a5bb493e9452",
     "to": "/real-time-applications-using-websockets-with-aws-api-gateway-and-lambda-a5bb493e9452",
-    "permanent": true
-  },
-  {
-    "from": "/eddb554eaefb",
-    "to": "/real-time-dynamic-cover-system-in-unreal-engine-4-eddb554eaefb",
     "permanent": true
   },
   {
@@ -18363,21 +18517,10 @@
     "permanent": true
   },
   {
-    "from": "/b3d7b11046e0",
-    "to": "/reddit-uptime-2008-2016-b3d7b11046e0",
-    "permanent": true
-  },
-  {
-    "from": "/b3d7b11046e0",
-    "to": "/reddit-uptime-2008-2016-bigquery-b3d7b11046e0",
-    "permanent": true
-  },
-  {
     "from": "/537cc8bb9f52",
     "to": "/redis-hash-table-scan-explained-537cc8bb9f52",
     "permanent": true
   },
-  { "from": "/f47a7da511a9", "to": "/reduce-f47a7da511a9", "permanent": true },
   {
     "from": "/625440de600b",
     "to": "/reducing-css-bundle-size-70-by-cutting-the-class-names-and-using-scope-isolation-625440de600b",
@@ -18484,11 +18627,6 @@
     "permanent": true
   },
   {
-    "from": "/94dd26ed5dbd",
-    "to": "/resources-for-software-developers-who-are-obsessed-with-learning-94dd26ed5dbd",
-    "permanent": true
-  },
-  {
     "from": "/f47c0252ae4d",
     "to": "/responsible-disclosure-how-i-could-have-hacked-all-facebook-accounts-f47c0252ae4d",
     "permanent": true
@@ -18559,11 +18697,6 @@
     "permanent": true
   },
   {
-    "from": "/2e725e47bfab",
-    "to": "/room-sqlite-beginner-tutorial-2e725e47bfab",
-    "permanent": true
-  },
-  {
     "from": "/300b787d8401",
     "to": "/rosetta-code-unlocking-the-mysteries-of-the-programming-languages-that-power-our-world-300b787d8401",
     "permanent": true
@@ -18571,11 +18704,6 @@
   {
     "from": "/411a68afa21a",
     "to": "/routes-in-ruby-on-rails-5-using-resources-and-records-to-define-urls-411a68afa21a",
-    "permanent": true
-  },
-  {
-    "from": "/fd8da8149877",
-    "to": "/rtdb-to-firestore-fd8da8149877",
     "permanent": true
   },
   {
@@ -18739,11 +18867,6 @@
     "permanent": true
   },
   {
-    "from": "/3fe08c69f499",
-    "to": "/securing-managing-secrets-using-google-cloud-kms-3fe08c69f499",
-    "permanent": true
-  },
-  {
     "from": "/9f811a92bb52",
     "to": "/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52",
     "permanent": true
@@ -18886,11 +19009,6 @@
   {
     "from": "/1fc27985ae8a",
     "to": "/setting-up-and-getting-used-to-gatsby-1fc27985ae8a",
-    "permanent": true
-  },
-  {
-    "from": "/c04fdca8d14d",
-    "to": "/setting-up-flow-when-youve-already-got-babel-in-place-c04fdca8d14d",
     "permanent": true
   },
   {
@@ -19111,11 +19229,6 @@
   {
     "from": "/391bcc714c81",
     "to": "/so-yeah-we-tried-slack-and-we-deeply-regretted-it-391bcc714c81",
-    "permanent": true
-  },
-  {
-    "from": "/d354944308c0",
-    "to": "/so-you-want-to-be-a-product-manager-this-is-where-i-started-d354944308c0",
     "permanent": true
   },
   {
@@ -19340,11 +19453,6 @@
     "permanent": true
   },
   {
-    "from": "/92a0825b8178",
-    "to": "/startup-content-toolbox-ecosystem-community-92a0825b8178",
-    "permanent": true
-  },
-  {
     "from": "/c0706dec6ace",
     "to": "/startup-shabbat-c0706dec6ace",
     "permanent": true
@@ -19352,16 +19460,6 @@
   {
     "from": "/2baf10a787ee",
     "to": "/state-in-javascript-explained-by-cooking-a-simple-meal-2baf10a787ee",
-    "permanent": true
-  },
-  {
-    "from": "/d42855debc66",
-    "to": "/state-machines-basics-of-computer-science-d42855debc66",
-    "permanent": true
-  },
-  {
-    "from": "/d42855debc66",
-    "to": "/state-machines-d42855debc66",
     "permanent": true
   },
   {
@@ -19515,21 +19613,6 @@
     "permanent": true
   },
   {
-    "from": "/fd8da8149877",
-    "to": "/survival-guide-migrating-from-the-firebase-realtime-database-to-cloud-firestore-fd8da8149877",
-    "permanent": true
-  },
-  {
-    "from": "/a800824c0a2f",
-    "to": "/swayam-india-moocs-a800824c0a2f",
-    "permanent": true
-  },
-  {
-    "from": "/a800824c0a2f",
-    "to": "/swayam-inside-indias-massive-bet-on-online-courses-a800824c0a2f",
-    "permanent": true
-  },
-  {
     "from": "/ce6aa89f8574",
     "to": "/swift-4-working-with-reference-types-in-closures-and-capture-lists-ce6aa89f8574",
     "permanent": true
@@ -19537,11 +19620,6 @@
   {
     "from": "/5b5e7089bd8f",
     "to": "/swift-networking-with-siesta-5b5e7089bd8f",
-    "permanent": true
-  },
-  {
-    "from": "/5b19add8e2ed",
-    "to": "/swift-vs-objective-c-the-trending-up-and-comer-vs-the-dinosaur-5b19add8e2ed",
     "permanent": true
   },
   {
@@ -19730,11 +19808,6 @@
     "permanent": true
   },
   {
-    "from": "/c479b55ed851",
-    "to": "/the-10-best-free-online-courses-of-2016-according-to-data-c479b55ed851",
-    "permanent": true
-  },
-  {
     "from": "/189750600fa4",
     "to": "/the-10-github-repos-people-mention-the-most-in-freecodecamps-main-chat-room-189750600fa4",
     "permanent": true
@@ -19802,11 +19875,6 @@
   {
     "from": "/deb6fe34ef30",
     "to": "/the-50-best-free-online-university-courses-according-to-data-deb6fe34ef30",
-    "permanent": true
-  },
-  {
-    "from": "/e67d0da38e95",
-    "to": "/the-50-best-free-online-university-courses-according-to-the-data-e67d0da38e95",
     "permanent": true
   },
   {
@@ -19892,11 +19960,6 @@
   {
     "from": "/a196696f5477",
     "to": "/the-basics-of-destructuring-props-in-react-a196696f5477",
-    "permanent": true
-  },
-  {
-    "from": "/5f6639ed9574",
-    "to": "/the-basics-of-nosql-databases-and-why-we-need-them-5f6639ed9574",
     "permanent": true
   },
   {
@@ -20410,11 +20473,6 @@
     "permanent": true
   },
   {
-    "from": "/2abad38022b1",
-    "to": "/the-future-of-browser-history-2abad38022b1",
-    "permanent": true
-  },
-  {
     "from": "/f33bee3288ea",
     "to": "/the-future-of-the-iphone-x-from-the-realistic-to-the-absurd-f33bee3288ea",
     "permanent": true
@@ -20570,11 +20628,6 @@
     "permanent": true
   },
   {
-    "from": "/8e4371fc5261",
-    "to": "/the-moment-when-you-realize-every-server-in-the-world-is-vulnerable-8e4371fc5261",
-    "permanent": true
-  },
-  {
     "from": "/b24ac8c3c23a",
     "to": "/the-most-difficult-things-about-learning-to-code-by-yourself-b24ac8c3c23a",
     "permanent": true
@@ -20592,11 +20645,6 @@
   {
     "from": "/3a95279eea04",
     "to": "/the-most-important-lessons-i-learned-from-working-at-an-amazing-startup-3a95279eea04",
-    "permanent": true
-  },
-  {
-    "from": "/1de862421981",
-    "to": "/the-most-important-lessons-ive-learned-after-a-year-of-working-with-react-1de862421981",
     "permanent": true
   },
   {
@@ -20657,11 +20705,6 @@
   {
     "from": "/ada82f247725",
     "to": "/the-necessary-rise-of-emotional-design-ada82f247725",
-    "permanent": true
-  },
-  {
-    "from": "/bcd24a07dc3e",
-    "to": "/the-new-meme-order-changing-the-game-with-simple-browser-caching-bcd24a07dc3e",
     "permanent": true
   },
   {
@@ -21140,16 +21183,6 @@
     "permanent": true
   },
   {
-    "from": "/1dbc7a6c65f1",
-    "to": "/the-voice-memos-bff-how-to-make-speech2text-easy-with-machine-learning-1dbc7a6c65f1",
-    "permanent": true
-  },
-  {
-    "from": "/1dbc7a6c65f1",
-    "to": "/the-voice-memos-bff-speech-to-text-powered-by-machine-learning-1dbc7a6c65f1",
-    "permanent": true
-  },
-  {
     "from": "/1e86835d8446",
     "to": "/the-vue-handbook-a-thorough-introduction-to-vue-js-1e86835d8446",
     "permanent": true
@@ -21177,11 +21210,6 @@
   {
     "from": "/4d52f0d6b35a",
     "to": "/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a",
-    "permanent": true
-  },
-  {
-    "from": "/a65b514b0f2d",
-    "to": "/these-are-the-best-free-open-data-sources-anyone-can-use-a65b514b0f2d",
     "permanent": true
   },
   {
@@ -21312,16 +21340,6 @@
   {
     "from": "/4252e93cb73",
     "to": "/this-is-my-story-about-how-i-went-from-being-a-carpenter-with-zero-experience-in-the-tech-world-to-4252e93cb73",
-    "permanent": true
-  },
-  {
-    "from": "/8b7b52d80b3a",
-    "to": "/this-is-the-only-r%C3%A9sum%C3%A9-objective-advice-you-need-to-get-hired-8b7b52d80b3a",
-    "permanent": true
-  },
-  {
-    "from": "/8b7b52d80b3a",
-    "to": "/this-is-the-only-résumé-objective-advice-you-need-to-get-hired-8b7b52d80b3a",
     "permanent": true
   },
   {
@@ -21595,11 +21613,6 @@
     "permanent": true
   },
   {
-    "from": "/e67d0da38e95",
-    "to": "/top-50-free-online-courses-2018-e67d0da38e95",
-    "permanent": true
-  },
-  {
     "from": "/e4afdc4693e7",
     "to": "/top-7-online-data-science-courses-for-2019-e4afdc4693e7",
     "permanent": true
@@ -21772,11 +21785,6 @@
   {
     "from": "/f509d799947d",
     "to": "/typescript-and-its-types-f509d799947d",
-    "permanent": true
-  },
-  {
-    "from": "/f747e99744ab",
-    "to": "/typescript-curry-ramda-types-f747e99744ab",
     "permanent": true
   },
   {
@@ -21976,11 +21984,6 @@
     "permanent": true
   },
   {
-    "from": "/a85558cb90e8",
-    "to": "/up-to-awesome-commit-messages-a85558cb90e8",
-    "permanent": true
-  },
-  {
     "from": "/d1882f2fbb7",
     "to": "/updated-for-apollo-v2-1-managing-local-state-with-apollo-d1882f2fbb7",
     "permanent": true
@@ -22111,11 +22114,6 @@
     "permanent": true
   },
   {
-    "from": "/c04fdca8d14d",
-    "to": "/using-flow-with-babel-c04fdca8d14d",
-    "permanent": true
-  },
-  {
     "from": "/3acdfd0f027c",
     "to": "/using-github-native-features-for-a-mid-size-distributed-team-3acdfd0f027c",
     "permanent": true
@@ -22226,16 +22224,6 @@
     "permanent": true
   },
   {
-    "from": "/16970919ebb2",
-    "to": "/virtual-reality-harvard-cs50-16970919ebb2",
-    "permanent": true
-  },
-  {
-    "from": "/ff7f29b71341",
-    "to": "/visual-studio-code-extensions-ff7f29b71341",
-    "permanent": true
-  },
-  {
     "from": "/dfaff6a76273",
     "to": "/visual-variants-for-react-components-with-styled-components-dfaff6a76273",
     "permanent": true
@@ -22253,11 +22241,6 @@
   {
     "from": "/264bc2caff8d",
     "to": "/vital-questions-to-ask-an-interviewer-bonus-question-at-the-end-264bc2caff8d",
-    "permanent": true
-  },
-  {
-    "from": "/5210e27da996",
-    "to": "/vote-best-online-courses-2017-5210e27da996",
     "permanent": true
   },
   {
@@ -22496,16 +22479,6 @@
     "permanent": true
   },
   {
-    "from": "/c22e0ec44e15",
-    "to": "/we-need-a-new-document-markup-language-c22e0ec44e15",
-    "permanent": true
-  },
-  {
-    "from": "/c22e0ec44e15",
-    "to": "/we-need-a-new-document-markup-language-here-is-why-c22e0ec44e15",
-    "permanent": true
-  },
-  {
     "from": "/f5d5209de785",
     "to": "/we-studied-1-000-students-performance-on-technical-interviews-f5d5209de785",
     "permanent": true
@@ -22513,11 +22486,6 @@
   {
     "from": "/ce3c4067a9ac",
     "to": "/we-want-instant-gratification-how-do-we-deliver-it-ce3c4067a9ac",
-    "permanent": true
-  },
-  {
-    "from": "/5ca00c2848d9",
-    "to": "/weather-and-bigquery-rainiest-cities-united-states-5ca00c2848d9",
     "permanent": true
   },
   {
@@ -22676,11 +22644,6 @@
     "permanent": true
   },
   {
-    "from": "/932b6cd5cfee",
-    "to": "/what-does-choosing-and-applying-eyeshadow-teach-us-about-coding-932b6cd5cfee",
-    "permanent": true
-  },
-  {
     "from": "/397effebd62e",
     "to": "/what-does-it-mean-to-graduate-from-an-elite-bootcamp-397effebd62e",
     "permanent": true
@@ -22743,11 +22706,6 @@
   {
     "from": "/50907c864ef4",
     "to": "/what-i-did-this-year-to-advance-my-career-and-why-you-should-do-these-things-too-50907c864ef4",
-    "permanent": true
-  },
-  {
-    "from": "/99b673a032e2",
-    "to": "/what-i-learned-about-front-end-development-from-12-to-22-99b673a032e2",
     "permanent": true
   },
   {
@@ -22996,11 +22954,6 @@
     "permanent": true
   },
   {
-    "from": "/99b673a032e2",
-    "to": "/what-ive-learned-about-front-end-development-from-age-12-to-22-99b673a032e2",
-    "permanent": true
-  },
-  {
     "from": "/4005a1e71b7d",
     "to": "/what-ive-learned-from-18-weeks-of-vlogging-my-coding-journey-4005a1e71b7d",
     "permanent": true
@@ -23076,28 +23029,8 @@
     "permanent": true
   },
   {
-    "from": "/19a33b0a467d",
-    "to": "/what-programming-language-should-i-learn-first-%CA%87d%C4%B1%C9%B9%C9%94s%C9%90%CA%8C%C9%90%C9%BE-%C9%B9%C7%9D%CA%8Dsu%C9%90-19a33b0a467d",
-    "permanent": true
-  },
-  {
-    "from": "/19a33b0a467d",
-    "to": "/what-programming-language-should-i-learn-first-ʇdıɹɔsɐʌɐɾ-ɹǝʍsuɐ-19a33b0a467d",
-    "permanent": true
-  },
-  {
     "from": "/fc0f8f9e158b",
     "to": "/what-programming-language-should-i-pick-should-i-focus-on-front-end-back-end-machine-learning-fc0f8f9e158b",
-    "permanent": true
-  },
-  {
-    "from": "/e0eace2ca268",
-    "to": "/what-ren%C3%A9-descartes-can-teach-you-about-design-e0eace2ca268",
-    "permanent": true
-  },
-  {
-    "from": "/e0eace2ca268",
-    "to": "/what-rené-descartes-can-teach-you-about-design-e0eace2ca268",
     "permanent": true
   },
   {
@@ -23211,11 +23144,6 @@
     "permanent": true
   },
   {
-    "from": "/5210e27da996",
-    "to": "/what-were-the-best-free-online-courses-of-2017-you-decide-5210e27da996",
-    "permanent": true
-  },
-  {
     "from": "/abaecd042b0b",
     "to": "/what-you-can-learn-from-a-30-year-olds-first-coding-interview-abaecd042b0b",
     "permanent": true
@@ -23226,11 +23154,6 @@
     "permanent": true
   },
   {
-    "from": "/92a0825b8178",
-    "to": "/what-you-havent-published-a-toolbox-yet-92a0825b8178",
-    "permanent": true
-  },
-  {
     "from": "/35a95457cb06",
     "to": "/what-you-learn-in-a-4-year-computer-science-degree-35a95457cb06",
     "permanent": true
@@ -23238,11 +23161,6 @@
   {
     "from": "/c30c3ad663c2",
     "to": "/what-you-missed-because-you-were-too-cocky-to-use-a-checklist-c30c3ad663c2",
-    "permanent": true
-  },
-  {
-    "from": "/cc6936ba0b99",
-    "to": "/what-you-need-to-know-about-the-future-of-bitcoin-technology-cc6936ba0b99",
     "permanent": true
   },
   {
@@ -23433,11 +23351,6 @@
   {
     "from": "/e7ccb6629ba7",
     "to": "/which-projects-need-react-all-of-them-e7ccb6629ba7",
-    "permanent": true
-  },
-  {
-    "from": "/5ca00c2848d9",
-    "to": "/which-us-cities-are-really-the-rainiest-i-crunched-the-data-5ca00c2848d9",
     "permanent": true
   },
   {
@@ -23693,11 +23606,6 @@
   {
     "from": "/2df2f3a9780f",
     "to": "/why-i-left-my-medical-career-for-the-tech-world-2df2f3a9780f",
-    "permanent": true
-  },
-  {
-    "from": "/19134461ab85",
-    "to": "/why-i-love-vim-19134461ab85",
     "permanent": true
   },
   {
@@ -24096,11 +24004,6 @@
     "permanent": true
   },
   {
-    "from": "/f1364e2e77ba",
-    "to": "/why-you-should-use-column-indentation-to-improve-your-codes-readability-f1364e2e77ba",
-    "permanent": true
-  },
-  {
     "from": "/eb7b702ffd4a",
     "to": "/why-you-should-use-functional-composition-for-your-full-applications-eb7b702ffd4a",
     "permanent": true
@@ -24228,16 +24131,6 @@
   {
     "from": "/f396ea1a363a",
     "to": "/working-with-unpublished-node-dependencies-f396ea1a363a",
-    "permanent": true
-  },
-  {
-    "from": "/b52e5ef53e0a",
-    "to": "/world-cup-all-the-goals-in-2018-b52e5ef53e0a",
-    "permanent": true
-  },
-  {
-    "from": "/b52e5ef53e0a",
-    "to": "/world-cup-visualized-all-the-goals-b52e5ef53e0a",
     "permanent": true
   },
   {
@@ -24386,16 +24279,6 @@
     "permanent": true
   },
   {
-    "from": "/fd7757740802",
-    "to": "/you-in-6-seconds-how-to-write-a-r%C3%A9sum%C3%A9-that-employers-will-actually-read-fd7757740802",
-    "permanent": true
-  },
-  {
-    "from": "/fd7757740802",
-    "to": "/you-in-6-seconds-how-to-write-a-résumé-that-employers-will-actually-read-fd7757740802",
-    "permanent": true
-  },
-  {
     "from": "/a06aca6087e9",
     "to": "/you-just-need-to-know-these-properties-to-start-loving-css-a06aca6087e9",
     "permanent": true
@@ -24471,11 +24354,6 @@
     "permanent": true
   },
   {
-    "from": "/d24fd555b8c3",
-    "to": "/you-wont-build-a-community-out-of-networking-drinking-events-d24fd555b8c3",
-    "permanent": true
-  },
-  {
     "from": "/a7896c28d3eb",
     "to": "/your-best-work-will-be-invisible-a7896c28d3eb",
     "permanent": true
@@ -24503,11 +24381,6 @@
   {
     "from": "/b467d022d640",
     "to": "/your-ui-is-your-products-humble-compensation-for-not-being-telepathic-b467d022d640",
-    "permanent": true
-  },
-  {
-    "from": "/6cdf425bab80",
-    "to": "/your-ultimate-guide-to-writing-a-qa-documentation-6cdf425bab80",
     "permanent": true
   },
   {
