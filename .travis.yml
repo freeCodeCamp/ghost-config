@@ -1,0 +1,11 @@
+language: node_js
+
+node_js:
+  - 'lts/*'
+
+env:
+  global:
+    - NO_UPDATE_NOTIFIER=1
+    - NODE_NO_WARNINGS=1
+
+script: node test.js
