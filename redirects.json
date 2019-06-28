@@ -3,6 +3,16 @@
   { "from": "/tagged/(.*)$", "to": "/tag/$1", "permanent": true },
   { "from": "/archive/(.*)$", "to": "/", "permanent": false },
   {
+    "from": "/d7c6e997c63f",
+    "to": "/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f",
+    "permanent": true
+  },
+  {
+    "from": "/the-ultimate-intermediate-ruby-on-rails-tutorial-lets-create-an-entire-app-d7c6e997c63f",
+    "to": "/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f",
+    "permanent": true
+  },
+  {
     "from": "/66544710b50c",
     "to": "/an-introduction-to-tdd-with-vue-js-66544710b50c",
     "permanent": true
@@ -378,8 +388,8 @@
     "permanent": true
   },
   {
-    "from": "/8edfdb9be811",
-    "to": "/learn-node-js-by-building-a-timestamp-microservice-app-8edfdb9be811",
+    "from": "/learn-node-js-by-building-a-timestamp-microservice-app-8edfdb9be811",
+    "to": "/microservice-8edfdb9be811",
     "permanent": true
   },
   {
@@ -16726,11 +16736,6 @@
     "permanent": true
   },
   {
-    "from": "/d7c6e997c63f",
-    "to": "/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f",
-    "permanent": true
-  },
-  {
     "from": "/4e7774f8eee6",
     "to": "/lets-debunk-the-main-myths-about-learning-how-to-code-4e7774f8eee6",
     "permanent": true
@@ -21140,11 +21145,6 @@
   {
     "from": "/daa2027dcd3",
     "to": "/the-ultimate-guide-to-web-scraping-with-node-js-daa2027dcd3",
-    "permanent": true
-  },
-  {
-    "from": "/d7c6e997c63f",
-    "to": "/the-ultimate-intermediate-ruby-on-rails-tutorial-lets-create-an-entire-app-d7c6e997c63f",
     "permanent": true
   },
   {
