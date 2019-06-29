@@ -3,8 +3,23 @@
   { "from": "/tagged/(.*)$", "to": "/tag/$1", "permanent": true },
   { "from": "/archive/(.*)$", "to": "/", "permanent": false },
   {
-    "from": "/how-to-continuously-deploy-a-static-website-in-style-using-github-and-aws-3df7ecb58d9c/",
-    "to": "/how-to-set-up-continuous-deployment-in-your-home-project-the-easy-way-41b84a467eed",
+    "from": "/58347b06a508",
+    "to": "/tag/privacy",
+    "permanent": true
+  },
+  {
+    "from": "/github-privacy-101-how-to-remove-personal-emails-from-your-public-repos-58347b06a508",
+    "to": "/tag/privacy",
+    "permanent": true
+  },
+  {
+    "from": "/4d5d7850c3a1",
+    "to": "/tag/artificial-intelligence",
+    "permanent": true
+  },
+  {
+    "from": "/wavenet-4d5d7850c3a1",
+    "to": "/tag/artificial-intelligence",
     "permanent": true
   },
   {
@@ -12,10 +27,9 @@
     "to": "/how-to-set-up-continuous-deployment-in-your-home-project-the-easy-way-41b84a467eed",
     "permanent": true
   },
-
   {
-    "from": "the-aws-guide-to-a-zombie-apocalypse-an-explanation-of-regions-and-availability-zones-5fd4b7c2b896",
-    "to": "/the-reality-of-running-a-production-node-app-on-aws-elastic-beanstalk-55c78b5dad0b",
+    "from": "/how-to-continuously-deploy-a-static-website-in-style-using-github-and-aws-3df7ecb58d9c",
+    "to": "/how-to-set-up-continuous-deployment-in-your-home-project-the-easy-way-41b84a467eed",
     "permanent": true
   },
   {
@@ -24,8 +38,8 @@
     "permanent": true
   },
   {
-    "from": "/how-to-make-use-of-cloudfront-for-secure-delivery-of-static-websites-to-the-world-d2f54e8b096",
-    "to": "/how-to-host-a-static-website-with-s3-cloudfront-and-route53-7cbb11d4aeea",
+    "from": "/the-aws-guide-to-a-zombie-apocalypse-an-explanation-of-regions-and-availability-zones-5fd4b7c2b896",
+    "to": "/the-reality-of-running-a-production-node-app-on-aws-elastic-beanstalk-55c78b5dad0b",
     "permanent": true
   },
   {
@@ -34,12 +48,17 @@
     "permanent": true
   },
   {
-    "from": "/how-to-host-a-website-on-s3-without-getting-lost-in-the-sea-e2b82aa6cd38",
-    "to": "/simple-site-hosting-with-amazon-s3-and-https-5e78017f482a",
+    "from": "/how-to-make-use-of-cloudfront-for-secure-delivery-of-static-websites-to-the-world-d2f54e8b096",
+    "to": "/how-to-host-a-static-website-with-s3-cloudfront-and-route53-7cbb11d4aeea",
     "permanent": true
   },
   {
     "from": "/e2b82aa6cd38",
+    "to": "/simple-site-hosting-with-amazon-s3-and-https-5e78017f482a",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-host-a-website-on-s3-without-getting-lost-in-the-sea-e2b82aa6cd38",
     "to": "/simple-site-hosting-with-amazon-s3-and-https-5e78017f482a",
     "permanent": true
   },
@@ -1242,8 +1261,6 @@
     "to": "/python-interview-question-guide-how-to-code-a-linked-list-fd77cbbd367d",
     "permanent": true
   },
-  { "from": "/4d5d7850c3a1", "to": "/", "permanent": true },
-  { "from": "/wavenet-4d5d7850c3a1", "to": "/", "permanent": true },
   {
     "from": "/f499234d48bc",
     "to": "/jazz-up-your-bash-terminal-a-step-by-step-guide-with-pictures-80267554cb22",
@@ -7588,16 +7605,6 @@
     "from": "/da46661c551a",
     "to": "/github-just-released-a-massive-guide-to-contributing-to-open-source-da46661c551a",
     "permanent": true
-  },
-  {
-    "from": "/58347b06a508",
-    "to": "/",
-    "permanent": true
-  },
-  {
-    "from": "/58347b06a508",
-    "to": "/tag/privacy",
-    "permanent": true
   },  
   {
     "from": "/40a2761e6336",
@@ -11020,11 +11027,6 @@
     "permanent": true
   },
   {
-    "from": "/3df7ecb58d9c",
-    "to": "/how-to-continuously-deploy-a-static-website-in-style-using-github-and-aws-3df7ecb58d9c",
-    "permanent": true
-  },
-  {
     "from": "/b86bce4c865",
     "to": "/how-to-contribute-to-the-freecodecamp-community-youtube-channel-b86bce4c865",
     "permanent": true
@@ -12265,11 +12267,6 @@
     "permanent": true
   },
   {
-    "from": "/e2b82aa6cd38",
-    "to": "/how-to-host-a-website-on-s3-without-getting-lost-in-the-sea-e2b82aa6cd38",
-    "permanent": true
-  },
-  {
     "from": "/a29773e5f39e",
     "to": "/how-to-host-lightweight-apps-for-free-a29773e5f39e",
     "permanent": true
@@ -12882,11 +12879,6 @@
   {
     "from": "/776cd6e0de49",
     "to": "/how-to-make-time-for-100-days-of-code-776cd6e0de49",
-    "permanent": true
-  },
-  {
-    "from": "/d2f54e8b096",
-    "to": "/how-to-make-use-of-cloudfront-for-secure-delivery-of-static-websites-to-the-world-d2f54e8b096",
     "permanent": true
   },
   {
@@ -20059,11 +20051,6 @@
   {
     "from": "/855ab65b58bc",
     "to": "/the-authoritative-guide-to-blockchain-development-855ab65b58bc",
-    "permanent": true
-  },
-  {
-    "from": "/5fd4b7c2b896",
-    "to": "/the-aws-guide-to-a-zombie-apocalypse-an-explanation-of-regions-and-availability-zones-5fd4b7c2b896",
     "permanent": true
   },
   {
