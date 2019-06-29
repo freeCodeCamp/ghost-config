@@ -3,6 +3,46 @@
   { "from": "/tagged/(.*)$", "to": "/tag/$1", "permanent": true },
   { "from": "/archive/(.*)$", "to": "/", "permanent": false },
   {
+    "from": "/how-to-continuously-deploy-a-static-website-in-style-using-github-and-aws-3df7ecb58d9c/",
+    "to": "/how-to-set-up-continuous-deployment-in-your-home-project-the-easy-way-41b84a467eed",
+    "permanent": true
+  },
+  {
+    "from": "/3df7ecb58d9c",
+    "to": "/how-to-set-up-continuous-deployment-in-your-home-project-the-easy-way-41b84a467eed",
+    "permanent": true
+  },
+  {
+    "from": "the-aws-guide-to-a-zombie-apocalypse-an-explanation-of-regions-and-availability-zones-5fd4b7c2b896",
+    "to": "/the-reality-of-running-a-production-node-app-on-aws-elastic-beanstalk-55c78b5dad0b",
+    "permanent": true
+  },
+  {
+    "from": "/5fd4b7c2b896",
+    "to": "/the-reality-of-running-a-production-node-app-on-aws-elastic-beanstalk-55c78b5dad0b",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-make-use-of-cloudfront-for-secure-delivery-of-static-websites-to-the-world-d2f54e8b096",
+    "to": "/how-to-host-a-static-website-with-s3-cloudfront-and-route53-7cbb11d4aeea",
+    "permanent": true
+  },
+  {
+    "from": "/d2f54e8b096",
+    "to": "/how-to-host-a-static-website-with-s3-cloudfront-and-route53-7cbb11d4aeea",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-host-a-website-on-s3-without-getting-lost-in-the-sea-e2b82aa6cd38",
+    "to": "/simple-site-hosting-with-amazon-s3-and-https-5e78017f482a",
+    "permanent": true
+  },
+  {
+    "from": "/e2b82aa6cd38",
+    "to": "/simple-site-hosting-with-amazon-s3-and-https-5e78017f482a",
+    "permanent": true
+  },
+  {
     "from": "/d7c6e997c63f",
     "to": "/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f",
     "permanent": true
@@ -1204,10 +1244,8 @@
     "to": "/",
     "permanent": true
   },
-
   { "from": "/4d5d7850c3a1", "to": "/", "permanent": true },
   { "from": "/wavenet-4d5d7850c3a1", "to": "/", "permanent": true },
-
   {
     "from": "/f499234d48bc",
     "to": "/",
@@ -1218,7 +1256,6 @@
     "to": "/",
     "permanent": true
   },
-
   {
     "from": "/16f4d9499ac7",
     "to": "/",
@@ -1231,17 +1268,17 @@
   },
   {
     "from": "/c6f9e64c0955",
-    "to": "/",
+    "to": "/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11",
     "permanent": true
   },
   {
     "from": "/style-webpage-or-markdown-like-medium-article-using-html-css-sass-bootstrap-c6f9e64c0955",
-    "to": "/",
+    "to": "/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11",
     "permanent": true
   },
   {
     "from": "/how-to-style-your-webpage-or-markdown-like-a-medium-article-or-however-you-want-c6f9e64c0955",
-    "to": "/",
+    "to": "/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11",
     "permanent": true
   },
   {
@@ -5757,7 +5794,12 @@
   },
   {
     "from": "/67c631475a94",
-    "to": "/custom-urls-in-ruby-on-rails-use-descriptive-slugs-instead-of-ids-67c631475a94",
+    "to": "/understanding-the-basics-of-ruby-on-rails-http-mvc-and-routes-359b8d809c7a",
+    "permanent": true
+  },
+  {
+    "from": "/custom-urls-in-ruby-on-rails-use-descriptive-slugs-instead-of-ids-67c631475a94",
+    "to": "/understanding-the-basics-of-ruby-on-rails-http-mvc-and-routes-359b8d809c7a",
     "permanent": true
   },
   {
@@ -6902,9 +6944,14 @@
   },
   {
     "from": "/c5e95b9e704e",
-    "to": "/find-and-kill-port-processes-on-a-mac-using-bash-c5e95b9e704e",
+    "to": "/linux-command-line-bash-tutorial",
     "permanent": true
   },
+  {
+    "from": "/find-and-kill-port-processes-on-a-mac-using-bash-c5e95b9e704e",
+    "to": "/linux-command-line-bash-tutorial",
+    "permanent": true
+  },  
   {
     "from": "/46e6eeb50c8c",
     "to": "/finding-memory-leaks-react-native-app-ios-46e6eeb50c8c",
@@ -8927,9 +8974,14 @@
   },
   {
     "from": "/a60e52bf7784",
-    "to": "/how-i-filter-and-grep-docker-containers-images-and-volumes-and-how-you-can-too-a60e52bf7784",
+    "to": "/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f",
     "permanent": true
   },
+  {
+    "from": "/how-i-filter-and-grep-docker-containers-images-and-volumes-and-how-you-can-too-a60e52bf7784",
+    "to": "/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f",
+    "permanent": true
+  },  
   {
     "from": "/f3b10d04e02e",
     "to": "/how-i-finished-the-entire-freecodecamp-curriculum-in-9-months-while-working-full-time-f3b10d04e02e",
@@ -13882,9 +13934,14 @@
   },
   {
     "from": "/c3f879445eeb",
-    "to": "/how-to-test-logs-using-rspec-expectations-and-stringio-in-ruby-c3f879445eeb",
+    "to": "/how-to-dry-out-your-rspec-tests-using-shared-examples-d5cc5d33fd76",
     "permanent": true
   },
+  {
+    "from": "/how-to-test-logs-using-rspec-expectations-and-stringio-in-ruby-c3f879445eeb",
+    "to": "/how-to-dry-out-your-rspec-tests-using-shared-examples-d5cc5d33fd76",
+    "permanent": true
+  },  
   {
     "from": "/f048070f4330",
     "to": "/how-to-test-your-frontend-with-the-cypress-io-framework-f048070f4330",
@@ -14882,7 +14939,7 @@
   },
   {
     "from": "/7e36d560610e",
-    "to": "/how-you-can-make-a-progressive-web-app-in-an-hour-7e36d560610e",
+    "to": "/progressive-web-apps-101-the-what-why-and-how-4aa5e9065ac2",
     "permanent": true
   },
   {
@@ -18708,7 +18765,12 @@
   },
   {
     "from": "/411a68afa21a",
-    "to": "/routes-in-ruby-on-rails-5-using-resources-and-records-to-define-urls-411a68afa21a",
+    "to": "/understanding-the-basics-of-ruby-on-rails-http-mvc-and-routes-359b8d809c7a",
+    "permanent": true
+  },
+  {
+    "from": "/routes-in-ruby-on-rails-5-using-resources-and-records-to-define-urls-411a68afa21a",
+    "to": "/understanding-the-basics-of-ruby-on-rails-http-mvc-and-routes-359b8d809c7a",
     "permanent": true
   },
   {
@@ -19038,9 +19100,14 @@
   },
   {
     "from": "/c7e9f8b668a4",
-    "to": "/sh-silence-your-bash-scripts-by-coding-your-own-silent-flag-c7e9f8b668a4",
+    "to": "/linux-command-line-bash-tutorial",
     "permanent": true
   },
+  {
+    "from": "/sh-silence-your-bash-scripts-by-coding-your-own-silent-flag-c7e9f8b668a4",
+    "to": "/linux-command-line-bash-tutorial",
+    "permanent": true
+  },  
   {
     "from": "/159f8bc37f50",
     "to": "/shared-element-transition-with-react-native-159f8bc37f50",
@@ -21169,9 +21236,14 @@
   },
   {
     "from": "/bf7a8e33017e",
-    "to": "/the-ups-and-downs-of-docker-compose-how-to-run-multi-container-applications-bf7a8e33017e",
+    "to": "/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f",
     "permanent": true
   },
+  {
+    "from": "/the-ups-and-downs-of-docker-compose-how-to-run-multi-container-applications-bf7a8e33017e",
+    "to": "/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f",
+    "permanent": true
+  },  
   {
     "from": "/bb19f546cc52",
     "to": "/the-virtual-dom-is-slow-meet-the-memoized-dom-bb19f546cc52",
