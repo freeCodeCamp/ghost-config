@@ -12,6 +12,7 @@
     "to": "/how-to-set-up-continuous-deployment-in-your-home-project-the-easy-way-41b84a467eed",
     "permanent": true
   },
+
   {
     "from": "the-aws-guide-to-a-zombie-apocalypse-an-explanation-of-regions-and-availability-zones-5fd4b7c2b896",
     "to": "/the-reality-of-running-a-production-node-app-on-aws-elastic-beanstalk-55c78b5dad0b",
@@ -1124,146 +1125,143 @@
   },
   {
     "from": "/b7c295452a3c",
-    "to": "/",
+    "to": "/code-review-the-ultimate-guide-aa45c358bbf5",
     "permanent": true
   },
   {
     "from": "/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c",
-    "to": "/",
+    "to": "/code-review-the-ultimate-guide-aa45c358bbf5",
     "permanent": true
   },
-
   {
     "from": "/339102b62a8f",
-    "to": "/",
+    "to": "/how-my-first-project-won-6000-stars-on-github-in-5-days-6340ec99829e",
     "permanent": true
   },
   {
     "from": "/how-to-get-up-to-3500-github-stars-in-one-week-339102b62a8f",
-    "to": "/",
+    "to": "/how-my-first-project-won-6000-stars-on-github-in-5-days-6340ec99829e",
     "permanent": true
   },
   {
     "from": "/how-to-get-up-to-3500-github-stars-in-one-week",
-    "to": "/",
+    "to": "/how-my-first-project-won-6000-stars-on-github-in-5-days-6340ec99829e",
     "permanent": true
   },
 
   {
     "from": "/ebabc87c8b8",
-    "to": "/",
+    "to": "/cryptography-and-lfsr",
     "permanent": true
   },
   {
     "from": "/learning-new-things-like-cryptography-ebabc87c8b8",
-    "to": "/",
+    "to": "/cryptography-and-lfsr",
     "permanent": true
   },
   {
     "from": "/cccc165a27a2",
-    "to": "/",
+    "to": "/review-udacity-data-analyst-nanodegree-1e16ae2b6d12",
     "permanent": true
   },
   {
     "from": "/a-review-of-udacitys-self-driving-car-nanodegree-third-term-and-beyond-cccc165a27a2",
-    "to": "/",
+    "to": "/review-udacity-data-analyst-nanodegree-1e16ae2b6d12",
     "permanent": true
   },
 
   {
     "from": "/79bf5a45b3d",
-    "to": "/",
+    "to": "/designing-in-color-abd358660a7b",
     "permanent": true
   },
   {
     "from": "/an-intro-to-color-theory-how-to-combine-colors-and-set-the-mood-of-your-designs-79bf5a45b3d",
-    "to": "/",
+    "to": "/designing-in-color-abd358660a7b",
     "permanent": true
   },
 
   {
     "from": "/af0c48ab9922",
-    "to": "/",
+    "to": "/how-to-make-a-beautiful-tiny-npm-package-and-publish-it-2881d4307f78",
     "permanent": true
   },
   {
     "from": "/npm-package-hijacking-from-the-hijackers-perspective-af0c48ab9922",
-    "to": "/",
+    "to": "/how-to-make-a-beautiful-tiny-npm-package-and-publish-it-2881d4307f78",
     "permanent": true
   },
-
   {
     "from": "/2f5568a99231",
-    "to": "/",
+    "to": "/the-well-kept-secret-behind-great-ux-usability-testing-b788178a64c3",
     "permanent": true
   },
   {
     "from": "/how-to-find-users-for-your-usability-test-2f5568a99231",
-    "to": "/",
+    "to": "/the-well-kept-secret-behind-great-ux-usability-testing-b788178a64c3",
     "permanent": true
   },
-
   {
     "from": "/d0d23fa06ba4",
-    "to": "/",
+    "to": "/javascript-closures-explained-by-mailing-a-package-4f23e9885039",
     "permanent": true
   },
   {
     "from": "/javascript-closures-simplified-d0d23fa06ba4",
-    "to": "/",
+    "to": "/javascript-closures-explained-by-mailing-a-package-4f23e9885039",
     "permanent": true
   },
   {
     "from": "/277b98850de",
-    "to": "/",
+    "to": "/how-javascript-promises-actually-work-from-the-inside-out-76698bb7210b",
     "permanent": true
   },
   {
     "from": "/promises-in-javascript-explained-277b98850de",
-    "to": "/",
+    "to": "/how-javascript-promises-actually-work-from-the-inside-out-76698bb7210b",
     "permanent": true
   },
   {
     "from": "/e0d7e091e062",
-    "to": "/",
+    "to": "/how-to-create-an-ethereum-wallet-address-from-a-private-key-ae72b0eee27b",
     "permanent": true
   },
   {
     "from": "/how-to-set-up-a-multi-node-private-ethereum-blockchain-from-scratch-in-20-mins-or-less-e0d7e091e062",
-    "to": "/",
+    "to": "/how-to-create-an-ethereum-wallet-address-from-a-private-key-ae72b0eee27b",
     "permanent": true
   },
 
   {
     "from": "/d46d1f3f52b1",
-    "to": "/",
+    "to": "/python-interview-question-guide-how-to-code-a-linked-list-fd77cbbd367d",
     "permanent": true
   },
   {
     "from": "/everything-you-should-be-able-to-do-with-lists-in-a-python-interview-d46d1f3f52b1",
-    "to": "/",
+    "to": "/python-interview-question-guide-how-to-code-a-linked-list-fd77cbbd367d",
     "permanent": true
   },
   { "from": "/4d5d7850c3a1", "to": "/", "permanent": true },
   { "from": "/wavenet-4d5d7850c3a1", "to": "/", "permanent": true },
   {
     "from": "/f499234d48bc",
-    "to": "/",
+    "to": "/jazz-up-your-bash-terminal-a-step-by-step-guide-with-pictures-80267554cb22",
     "permanent": true
   },
   {
     "from": "/how-you-can-style-your-terminal-like-medium-freecodecamp-or-any-way-you-want-f499234d48bc",
-    "to": "/",
+    "to": "/jazz-up-your-bash-terminal-a-step-by-step-guide-with-pictures-80267554cb22",
     "permanent": true
   },
   {
     "from": "/16f4d9499ac7",
-    "to": "/",
+    "to": "/jazz-up-your-bash-terminal-a-step-by-step-guide-with-pictures-80267554cb22",
     "permanent": true
   },
   {
     "from": "/lolcat-colorls-catpix-and-other-ruby-gems-to-add-color-to-your-terminal-16f4d9499ac7",
-    "to": "/",
+    "to": "/jazz-up-your-bash-terminal-a-step-by-step-guide-with-pictures-80267554cb22",
     "permanent": true
   },
   {
@@ -1283,22 +1281,22 @@
   },
   {
     "from": "/38e340a430a1",
-    "to": "/",
+    "to": "/what-programming-language-should-i-learn-first-19a33b0a467d",
     "permanent": true
   },
   {
     "from": "/mind-your-programming-language-38e340a430a1",
-    "to": "/",
+    "to": "/what-programming-language-should-i-learn-first-19a33b0a467d",
     "permanent": true
   },
   {
     "from": "/ef1a8d26e7ab",
-    "to": "/",
+    "to": "/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f",
     "permanent": true
   },
   {
     "from": "/add-callbacks-to-a-concern-in-ruby-on-rails-ef1a8d26e7ab",
-    "to": "/",
+    "to": "/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f",
     "permanent": true
   },
 
@@ -14939,6 +14937,11 @@
   },
   {
     "from": "/7e36d560610e",
+    "to": "/progressive-web-apps-101-the-what-why-and-how-4aa5e9065ac2",
+    "permanent": true
+  },
+  {
+    "from": "/how-you-can-make-a-progressive-web-app-in-an-hour-7e36d560610e",
     "to": "/progressive-web-apps-101-the-what-why-and-how-4aa5e9065ac2",
     "permanent": true
   },
