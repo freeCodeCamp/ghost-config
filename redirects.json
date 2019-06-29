@@ -1299,7 +1299,6 @@
     "to": "/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f",
     "permanent": true
   },
-
   {
     "from": "/516ae619686",
     "to": "/7-important-lessons-about-programming-that-ive-learned-at-17-516ae619686",
@@ -5492,9 +5491,14 @@
   },
   {
     "from": "/11e82ad5a69",
-    "to": "/contributing-to-ruby-on-rails-is-not-hard-heres-how-you-can-suggest-a-new-feature-11e82ad5a69",
+    "to": "/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282",
     "permanent": true
   },
+  {
+    "from": "/contributing-to-ruby-on-rails-is-not-hard-heres-how-you-can-suggest-a-new-feature-11e82ad5a69",
+    "to": "/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282",
+    "permanent": true
+  },  
   {
     "from": "/b9fb4f4539c",
     "to": "/control-flow-in-programming-b9fb4f4539c",
@@ -6397,9 +6401,14 @@
   },
   {
     "from": "/c53095193ee9",
-    "to": "/dockers-detached-mode-for-beginners-c53095193ee9",
+    "to": "/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f",
     "permanent": true
   },
+  {
+    "from": "/dockers-detached-mode-for-beginners-c53095193ee9",
+    "to": "/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f",
+    "permanent": true
+  },  
   {
     "from": "/89454654a318",
     "to": "/doctests-the-shy-giant-of-testing-modules-89454654a318",
@@ -7582,9 +7591,14 @@
   },
   {
     "from": "/58347b06a508",
-    "to": "/github-privacy-101-how-to-remove-personal-emails-from-your-public-repos-58347b06a508",
+    "to": "/",
     "permanent": true
   },
+  {
+    "from": "/58347b06a508",
+    "to": "/tag/privacy",
+    "permanent": true
+  },  
   {
     "from": "/40a2761e6336",
     "to": "/give-it-a-rest-use-graphql-for-your-apis-40a2761e6336",
@@ -10886,10 +10900,15 @@
     "permanent": true
   },
   {
-    "from": "/7405d748dee2",
-    "to": "/how-to-christmassify-your-terminal-and-shell-7405d748dee2",
+    "from": "/how-to-christmassify-your-terminal-and-shell-7405d748dee2",
+    "to": "/linux-command-line-bash-tutorial",
     "permanent": true
   },
+  {
+    "from": "/7405d748dee2",
+    "to": "/linux-command-line-bash-tutorial",
+    "permanent": true
+  },  
   {
     "from": "/65847da1a319",
     "to": "/how-to-classify-photos-in-600-classes-using-nine-million-open-images-65847da1a319",
@@ -12586,15 +12605,25 @@
     "permanent": true
   },
   {
-    "from": "/615ed159da3f",
-    "to": "/how-to-learn-ruby-on-rails-a-guide-to-resources-from-beginner-to-master-615ed159da3f",
+    "from": "/how-to-learn-ruby-on-rails-a-guide-to-resources-from-beginner-to-master-615ed159da3f",
+    "to": "/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f",
     "permanent": true
   },
   {
+    "from": "/615ed159da3f",
+    "to": "/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f",
+    "permanent": true
+  },  
+  {
     "from": "/124ce18ea898",
-    "to": "/how-to-learn-ruby-recommended-resources-for-beginners-124ce18ea898",
+    "to": "/learning-ruby-from-zero-to-hero-90ad4eecc82d",
     "permanent": true
   },
+  {
+    "from": "/how-to-learn-ruby-recommended-resources-for-beginners-124ce18ea898",
+    "to": "/learning-ruby-from-zero-to-hero-90ad4eecc82d",
+    "permanent": true
+  },  
   {
     "from": "/a22c0452c99e",
     "to": "/how-to-learn-web-design-when-you-have-the-creativity-of-homer-simpson-a22c0452c99e",
@@ -13117,9 +13146,14 @@
   },
   {
     "from": "/42d5c307d1c2",
-    "to": "/how-to-parse-command-line-arguments-using-bash-case-statements-42d5c307d1c2",
+    "to": "/functional-and-flexible-shell-scripting-tricks-a2d693be2dd4",
     "permanent": true
   },
+  {
+    "from": "/how-to-parse-command-line-arguments-using-bash-case-statements-42d5c307d1c2",
+    "to": "/functional-and-flexible-shell-scripting-tricks-a2d693be2dd4",
+    "permanent": true
+  },  
   {
     "from": "/541df9d2eec1",
     "to": "/how-to-parse-pdfs-at-scale-in-nodejs-what-to-do-and-what-not-to-do-541df9d2eec1",
@@ -18778,14 +18812,24 @@
   },
   {
     "from": "/475fbf11046a",
-    "to": "/rubocop-enable-disable-and-configure-linter-checks-for-your-ruby-code-475fbf11046a",
+    "to": "/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f",
     "permanent": true
   },
   {
+    "from": "/rubocop-enable-disable-and-configure-linter-checks-for-your-ruby-code-475fbf11046a",
+    "to": "/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f",
+    "permanent": true
+  },  
+  {
     "from": "/1c73148cc715",
-    "to": "/ruby-on-rails-how-to-extract-code-to-service-objects-1c73148cc715",
+    "to": "/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f",
     "permanent": true
   },
+  {
+    "from": "/ruby-on-rails-how-to-extract-code-to-service-objects-1c73148cc715",
+    "to": "/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f",
+    "permanent": true
+  },  
   {
     "from": "/a9b2af30804b",
     "to": "/ruby-using-the-select-map-and-reduce-methods-together-a9b2af30804b",
