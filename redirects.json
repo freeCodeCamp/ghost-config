@@ -24,42 +24,42 @@
   },
   {
     "from": "/3df7ecb58d9c",
-    "to": "/how-to-set-up-continuous-deployment-in-your-home-project-the-easy-way-41b84a467eed",
+    "to": "https://medium.com/@kyle.galbraith/how-to-continuously-deploy-a-static-website-in-style-using-github-and-aws-3df7ecb58d9c",
     "permanent": true
   },
   {
     "from": "/how-to-continuously-deploy-a-static-website-in-style-using-github-and-aws-3df7ecb58d9c",
-    "to": "/how-to-set-up-continuous-deployment-in-your-home-project-the-easy-way-41b84a467eed",
+    "to": "https://medium.com/@kyle.galbraith/how-to-continuously-deploy-a-static-website-in-style-using-github-and-aws-3df7ecb58d9c",
     "permanent": true
   },
   {
     "from": "/5fd4b7c2b896",
-    "to": "/the-reality-of-running-a-production-node-app-on-aws-elastic-beanstalk-55c78b5dad0b",
+    "to": "https://medium.com/@kyle.galbraith/the-aws-guide-to-a-zombie-apocalypse-an-explanation-of-regions-and-availability-zones-5fd4b7c2b896",
     "permanent": true
   },
   {
     "from": "/the-aws-guide-to-a-zombie-apocalypse-an-explanation-of-regions-and-availability-zones-5fd4b7c2b896",
-    "to": "/the-reality-of-running-a-production-node-app-on-aws-elastic-beanstalk-55c78b5dad0b",
+    "to": "https://medium.com/@kyle.galbraith/the-aws-guide-to-a-zombie-apocalypse-an-explanation-of-regions-and-availability-zones-5fd4b7c2b896",
     "permanent": true
   },
   {
     "from": "/d2f54e8b096",
-    "to": "/how-to-host-a-static-website-with-s3-cloudfront-and-route53-7cbb11d4aeea",
+    "to": "https://medium.com/@kyle.galbraith/how-to-make-use-of-cloudfront-for-secure-delivery-of-static-websites-to-the-world-d2f54e8b096",
     "permanent": true
   },
   {
     "from": "/how-to-make-use-of-cloudfront-for-secure-delivery-of-static-websites-to-the-world-d2f54e8b096",
-    "to": "/how-to-host-a-static-website-with-s3-cloudfront-and-route53-7cbb11d4aeea",
+    "to": "https://medium.com/@kyle.galbraith/how-to-make-use-of-cloudfront-for-secure-delivery-of-static-websites-to-the-world-d2f54e8b096",
     "permanent": true
   },
   {
     "from": "/e2b82aa6cd38",
-    "to": "/simple-site-hosting-with-amazon-s3-and-https-5e78017f482a",
+    "to": "https://medium.com/@kyle.galbraith/how-to-host-a-website-on-s3-without-getting-lost-in-the-sea-e2b82aa6cd38",
     "permanent": true
   },
   {
     "from": "/how-to-host-a-website-on-s3-without-getting-lost-in-the-sea-e2b82aa6cd38",
-    "to": "/simple-site-hosting-with-amazon-s3-and-https-5e78017f482a",
+    "to": "https://medium.com/@kyle.galbraith/how-to-host-a-website-on-s3-without-getting-lost-in-the-sea-e2b82aa6cd38",
     "permanent": true
   },
   {
