@@ -3,6 +3,21 @@
   { "from": "/tagged/(.*)$", "to": "/tag/$1", "permanent": true },
   { "from": "/archive/(.*)$", "to": "/", "permanent": false },
   {
+    "from": "/9e2e13d7480d",
+    "to": "/using-data-science-to-understand-what-makes-wine-taste-good-669b496c67ee",
+    "permanent": true
+  },
+  {
+    "from": "/669b496c67ee",
+    "to": "/using-data-science-to-understand-what-makes-wine-taste-good-669b496c67ee",
+    "permanent": true
+  },
+  {
+    "from": "/using-machine-learning-to-predict-the-quality-of-wines-9e2e13d7480d",
+    "to": "/using-data-science-to-understand-what-makes-wine-taste-good-669b496c67ee",
+    "permanent": true
+  },
+  {
     "from": "/58347b06a508",
     "to": "/tag/privacy",
     "permanent": true
@@ -22200,11 +22215,6 @@
     "permanent": true
   },
   {
-    "from": "/669b496c67ee",
-    "to": "/using-data-science-to-understand-what-makes-wine-taste-good-669b496c67ee",
-    "permanent": true
-  },
-  {
     "from": "/c386a298e179",
     "to": "/using-django-with-mongodb-by-adding-just-one-line-of-code-c386a298e179",
     "permanent": true
@@ -22232,11 +22242,6 @@
   {
     "from": "/a169a8cd69a3",
     "to": "/using-kubernetes-to-deploy-a-chat-gateway-or-when-technology-works-like-its-supposed-to-a169a8cd69a3",
-    "permanent": true
-  },
-  {
-    "from": "/9e2e13d7480d",
-    "to": "/using-machine-learning-to-predict-the-quality-of-wines-9e2e13d7480d",
     "permanent": true
   },
   {
