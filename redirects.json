@@ -313,6 +313,16 @@
     "permanent": true
   },
   {
+    "from": "/39cba7420fd5",
+    "to": "/a-simple-guide-to-building-an-amazing-technical-resume-39cba7420fd5",
+    "permanent": true
+  },
+  {
+    "from": "/a-simple-guide-to-building-an-amazing-technical-r-c3-a9sum-c3-a9-39cba7420fd5",
+    "to": "/a-simple-guide-to-building-an-amazing-technical-resume-39cba7420fd5",
+    "permanent": true
+  },
+  {
     "from": "/9e2e13d7480d",
     "to": "/using-data-science-to-understand-what-makes-wine-taste-good-669b496c67ee",
     "permanent": true
