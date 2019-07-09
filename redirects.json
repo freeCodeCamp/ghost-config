@@ -3,17 +3,327 @@
   { "from": "/tagged/(.*)$", "to": "/tag/$1", "permanent": true },
   { "from": "/archive/(.*)$", "to": "/", "permanent": false },
   {
+    "from": "/83f15970d0e3",
+    "to": "/a-detailed-tutorial-how-to-use-shopifys-storefront-api-with-react-and-redux-37f95cbab7f",
+    "permanent": true
+  },
+  {
+    "from": "/learn-how-to-build-astronomy-picture-of-the-day-app-with-nasa-api-and-react-redux-part-ii-83f15970d0e3",
+    "to": "/a-detailed-tutorial-how-to-use-shopifys-storefront-api-with-react-and-redux-37f95cbab7f",
+    "permanent": true
+  },
+  {
+    "from": "/b0e0c5ca2dca",
+    "to": "/how-i-built-my-first-react-native-app-for-my-first-freelance-client-d78bdab795e1",
+    "permanent": true
+  },
+  {
+    "from": "/learn-how-to-build-a-rn-redux-cryptocurrency-app-chapter-iv-b0e0c5ca2dca",
+    "to": "/how-i-built-my-first-react-native-app-for-my-first-freelance-client-d78bdab795e1",
+    "permanent": true
+  },
+  {
+    "from": "/df9c2566c72a",
+    "to": "/a-practical-guide-to-learning-front-end-development-for-beginners-da6516505e41",
+    "permanent": true
+  },
+  {
+    "from": "/modern-frontend-hacking-cheatsheets-df9c2566c72a",
+    "to": "/a-practical-guide-to-learning-front-end-development-for-beginners-da6516505e41",
+    "permanent": true
+  },
+  {
+    "from": "/42b54e6cdf6f",
+    "to": "/cjn-essential-gems-for-rails-applications-75fed43d2798",
+    "permanent": true
+  },
+  {
+    "from": "/10-all-time-most-downloaded-ruby-gems-42b54e6cdf6f",
+    "to": "/cjn-essential-gems-for-rails-applications-75fed43d2798",
+    "permanent": true
+  },
+  {
+    "from": "/dbe151b70082",
+    "to": "/how-to-use-parcel-to-bundle-your-react-js-application-d023979e9fe4",
+    "permanent": true
+  },
+  {
+    "from": "/all-you-need-to-know-about-parcel-dbe151b70082",
+    "to": "/how-to-use-parcel-to-bundle-your-react-js-application-d023979e9fe4",
+    "permanent": true
+  },
+  {
+    "from": "/3d469931eabb",
+    "to": "/how-to-handle-errors-with-grace-failing-silently-is-not-an-option-de6ce8f897d7",
+    "permanent": true
+  },
+  {
+    "from": "/glow-make-your-flow-errors-glow-3d469931eabb",
+    "to": "/how-to-handle-errors-with-grace-failing-silently-is-not-an-option-de6ce8f897d7",
+    "permanent": true
+  },
+  {
+    "from": "/a333b0fcabc9",
+    "to": "/want-to-learn-typescript-heres-our-free-22-part-course-21cd9bbb5ef5",
+    "permanent": true
+  },
+  {
+    "from": "/typescript-javascript-with-super-powers-a333b0fcabc9",
+    "to": "/want-to-learn-typescript-heres-our-free-22-part-course-21cd9bbb5ef5",
+    "permanent": true
+  },
+  {
+    "from": "/d3d058e4e472",
+    "to": "/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d",
+    "permanent": true
+  },
+  {
+    "from": "/the-secret-to-being-a-top-developer-is-building-things-d3d058e4e472",
+    "to": "/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d",
+    "permanent": true
+  },
+  {
+    "from": "/e251ac189649",
+    "to": "/how-to-build-blazing-fast-rest-apis-with-node-js-mongodb-fastify-and-swagger-114e062db0c9",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-setup-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-e251ac189649",
+    "to": "/how-to-build-blazing-fast-rest-apis-with-node-js-mongodb-fastify-and-swagger-114e062db0c9",
+    "permanent": true
+  },
+  {
+    "from": "/80266790a3ac",
+    "to": "/how-to-build-blazing-fast-rest-apis-with-node-js-mongodb-fastify-and-swagger-114e062db0c9",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-set-up-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-part-ii-80266790a3ac",
+    "to": "/how-to-build-blazing-fast-rest-apis-with-node-js-mongodb-fastify-and-swagger-114e062db0c9",
+    "permanent": true
+  },
+  {
+    "from": "/600e18287381",
+    "to": "/developing-an-ethereum-decentralized-voting-application-a99de24992d9",
+    "permanent": true
+  },
+  {
+    "from": "/here-are-the-best-courses-and-resources-for-learning-solidity-ethereum-dapps-600e18287381",
+    "to": "/developing-an-ethereum-decentralized-voting-application-a99de24992d9",
+    "permanent": true
+  },
+  {
+    "from": "/9cd790478530",
+    "to": "/favorite-vs-code-extensions-2017-786ea235812f",
+    "permanent": true
+  },
+  {
+    "from": "/immensely-upgrade-your-development-environment-with-these-visual-studio-code-extensions-9cd790478530",
+    "to": "/favorite-vs-code-extensions-2017-786ea235812f",
+    "permanent": true
+  },
+  {
+    "from": "/617a5b51dbb2",
+    "to": "/this-is-why-we-need-to-bind-event-handlers-in-class-components-in-react-f7ea1a6f93eb",
+    "permanent": true
+  },
+  {
+    "from": "/pointer-events-with-react-the-why-how-what-617a5b51dbb2",
+    "to": "/this-is-why-we-need-to-bind-event-handlers-in-class-components-in-react-f7ea1a6f93eb",
+    "permanent": true
+  },
+  {
+    "from": "/beefd5d441f2",
+    "to": "/do-you-want-to-learn-more-about-react-lets-build-and-then-play-a-game-218e0da5be44",
+    "permanent": true
+  },
+  {
+    "from": "/lets-build-a-customizable-rich-text-editor-with-slate-and-react-beefd5d441f2",
+    "to": "/do-you-want-to-learn-more-about-react-lets-build-and-then-play-a-game-218e0da5be44",
+    "permanent": true
+  },
+  {
+    "from": "/3d3908d89664",
+    "to": "/do-you-want-to-learn-more-about-react-lets-build-and-then-play-a-game-218e0da5be44",
+    "permanent": true
+  },
+  {
+    "from": "/lets-build-a-fast-slick-and-customizable-rich-text-editor-with-slate-and-react-part-ii-3d3908d89664",
+    "to": "/do-you-want-to-learn-more-about-react-lets-build-and-then-play-a-game-218e0da5be44",
+    "permanent": true
+  },
+  {
+    "from": "/3f0ddfaffbb2",
+    "to": "/how-to-get-started-debugging-nodejs-applications-with-ndb-a37e8747dbba",
+    "permanent": true
+  },
+  {
+    "from": "/supercharge-your-debugging-experience-for-node-js-3f0ddfaffbb2",
+    "to": "/how-to-get-started-debugging-nodejs-applications-with-ndb-a37e8747dbba",
+    "permanent": true
+  },
+  {
+    "from": "/3df170559378",
+    "to": "/web-audio-for-the-user-interface-1592687f898c",
+    "permanent": true
+  },
+  {
+    "from": "/all-you-need-to-know-about-the-web-audio-api-3df170559378",
+    "to": "/web-audio-for-the-user-interface-1592687f898c",
+    "permanent": true
+  },
+  {
+    "from": "/8c7e981b494",
+    "to": "/the-vue-handbook-a-thorough-introduction-to-vue-js-1e86835d8446",
+    "permanent": true
+  },
+  {
+    "from": "/from-zero-to-hero-with-vue-why-vue-8c7e981b494",
+    "to": "/the-vue-handbook-a-thorough-introduction-to-vue-js-1e86835d8446",
+    "permanent": true
+  },
+  {
+    "from": "/f1acd4696b71",
+    "to": "/the-vue-handbook-a-thorough-introduction-to-vue-js-1e86835d8446",
+    "permanent": true
+  },
+  {
+    "from": "/from-zero-to-hero-with-vue-up-and-running-f1acd4696b71",
+    "to": "/the-vue-handbook-a-thorough-introduction-to-vue-js-1e86835d8446",
+    "permanent": true
+  },
+  {
+    "from": "/12d9b048bf06",
+    "to": "/a-software-engineering-survival-guide-fe3eafb47166",
+    "permanent": true
+  },
+  {
+    "from": "/survival-guide-for-new-developers-12d9b048bf06",
+    "to": "/a-software-engineering-survival-guide-fe3eafb47166",
+    "permanent": true
+  },
+  {
+    "from": "/a95d7704d36d",
+    "to": "/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d",
+    "permanent": true
+  },
+  {
+    "from": "/summer-is-over-you-should-be-coding-heres-yet-another-list-of-exciting-ideas-to-build-a95d7704d36d",
+    "to": "/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d",
+    "permanent": true
+  },
+  {
+    "from": "/fde82662ca8c",
+    "to": "/how-to-build-a-single-page-application-using-vue-js-vuex-vuetify-and-firebase-838b40721a07",
+    "permanent": true
+  },
+  {
+    "from": "/demystifying-vuex-the-state-container-for-vue-fde82662ca8c",
+    "to": "/how-to-build-a-single-page-application-using-vue-js-vuex-vuetify-and-firebase-838b40721a07",
+    "permanent": true
+  },
+  {
+    "from": "/4e43063bf8a4",
+    "to": "/the-best-podcasts-for-new-coders-and-the-best-tools-for-listening-to-them-df393b1c8dc",
+    "permanent": true
+  },
+  {
+    "from": "/here-are-the-most-interesting-developer-podcasts-2019-edition-4e43063bf8a4",
+    "to": "/the-best-podcasts-for-new-coders-and-the-best-tools-for-listening-to-them-df393b1c8dc",
+    "permanent": true
+  },
+  {
+    "from": "/ec3930827226",
+    "to": "/array-destructuring-in-es6-30e398f21d10",
+    "permanent": true
+  },
+  {
+    "from": "/use-these-javascript-features-to-make-your-code-more-readable-ec3930827226",
+    "to": "/array-destructuring-in-es6-30e398f21d10",
+    "permanent": true
+  },
+  {
+    "from": "/d97aa0e48fdd",
+    "to": "/25-free-resources-for-new-javascript-developers-11342cf1f4df",
+    "permanent": true
+  },
+  {
+    "from": "/here-are-some-of-the-best-resources-to-improve-your-coding-skills-d97aa0e48fdd",
+    "to": "/25-free-resources-for-new-javascript-developers-11342cf1f4df",
+    "permanent": true
+  },
+  {
+    "from": "/c02fc3813eda",
+    "to": "/javascript-from-callbacks-to-async-await-1cc090ddad99",
+    "permanent": true
+  },
+  {
+    "from": "/improve-your-asynchronous-javascript-code-with-async-and-await-c02fc3813eda",
+    "to": "/javascript-from-callbacks-to-async-await-1cc090ddad99",
+    "permanent": true
+  },
+  {
+    "from": "/339cfae832a1",
+    "to": "/how-to-build-blazing-fast-rest-apis-with-node-js-mongodb-fastify-and-swagger-114e062db0c9",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-setup-a-powerful-api-with-graphql-koa-and-mongodb-339cfae832a1",
+    "to": "/how-to-build-blazing-fast-rest-apis-with-node-js-mongodb-fastify-and-swagger-114e062db0c9",
+    "permanent": true
+  },
+  {
+    "from": "/4459fc0720d4",
+    "to": "/how-to-build-blazing-fast-rest-apis-with-node-js-mongodb-fastify-and-swagger-114e062db0c9",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-set-up-a-powerful-api-with-graphql-koa-and-mongodb-crud-4459fc0720d4",
+    "to": "/how-to-build-blazing-fast-rest-apis-with-node-js-mongodb-fastify-and-swagger-114e062db0c9",
+    "permanent": true
+  },
+  {
+    "from": "/7d19935d849c",
+    "to": "/how-i-built-my-blog-using-gatsby-and-netlify-f921f1a9f33c",
+    "permanent": true
+  },
+  {
+    "from": "/create-a-blazing-fast-modern-blog-with-nuxt-and-prismic-7d19935d849c",
+    "to": "/how-i-built-my-blog-using-gatsby-and-netlify-f921f1a9f33c",
+    "permanent": true
+  },
+  {
+    "from": "/f6e65295fba5",
+    "to": "/make-react-fast-again-tools-and-techniques-for-speeding-up-your-react-app-7ad39d3c1b82",
+    "permanent": true
+  },
+  {
+    "from": "/5-react-performance-tips-f6e65295fba5",
+    "to": "/make-react-fast-again-tools-and-techniques-for-speeding-up-your-react-app-7ad39d3c1b82",
+    "permanent": true
+  },
+  {
+    "from": "/e0efd5040b03",
+    "to": "/first-steps-into-continuous-integration-with-circle-ci-emberjs-and-github-1e273ea62f0c",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-setup-continuous-integration-ci-with-react-circleci-and-github-e0efd5040b03",
+    "to": "/first-steps-into-continuous-integration-with-circle-ci-emberjs-and-github-1e273ea62f0c",
+    "permanent": true
+  },
+  {
     "from": "/9e2e13d7480d",
     "to": "/using-data-science-to-understand-what-makes-wine-taste-good-669b496c67ee",
     "permanent": true
   },
   {
-    "from": "/669b496c67ee",
+    "from": "/using-machine-learning-to-predict-the-quality-of-wines-9e2e13d7480d",
     "to": "/using-data-science-to-understand-what-makes-wine-taste-good-669b496c67ee",
     "permanent": true
   },
   {
-    "from": "/using-machine-learning-to-predict-the-quality-of-wines-9e2e13d7480d",
+    "from": "/669b496c67ee",
     "to": "/using-data-science-to-understand-what-makes-wine-taste-good-669b496c67ee",
     "permanent": true
   },
@@ -1482,11 +1792,6 @@
     "permanent": true
   },
   {
-    "from": "/e0efd5040b03",
-    "to": "/how-to-setup-continuous-integration-ci-with-react-circleci-and-github-e0efd5040b03",
-    "permanent": true
-  },
-  {
     "from": "/605c7e961ef1",
     "to": "/how-to-surf-the-web-to-find-motivating-and-insightful-content-605c7e961ef1",
     "permanent": true
@@ -1584,11 +1889,6 @@
   {
     "from": "/1496ec706564",
     "to": "/10-000-hours-do-you-really-need-that-much-1496ec706564",
-    "permanent": true
-  },
-  {
-    "from": "/42b54e6cdf6f",
-    "to": "/10-all-time-most-downloaded-ruby-gems-42b54e6cdf6f",
     "permanent": true
   },
   {
@@ -1944,11 +2244,6 @@
   {
     "from": "/8ece28229653",
     "to": "/5-principles-for-designing-delightful-digital-experiences-for-seniors-8ece28229653",
-    "permanent": true
-  },
-  {
-    "from": "/f6e65295fba5",
-    "to": "/5-react-performance-tips-f6e65295fba5",
     "permanent": true
   },
   {
@@ -3372,18 +3667,8 @@
     "permanent": true
   },
   {
-    "from": "/dbe151b70082",
-    "to": "/all-you-need-to-know-about-parcel-dbe151b70082",
-    "permanent": true
-  },
-  {
     "from": "/bc1c5765ff67",
     "to": "/all-you-need-to-know-about-text-preprocessing-for-nlp-and-machine-learning-bc1c5765ff67",
-    "permanent": true
-  },
-  {
-    "from": "/3df170559378",
-    "to": "/all-you-need-to-know-about-the-web-audio-api-3df170559378",
     "permanent": true
   },
   {
@@ -5572,11 +5857,6 @@
     "permanent": true
   },
   {
-    "from": "/7d19935d849c",
-    "to": "/create-a-blazing-fast-modern-blog-with-nuxt-and-prismic-7d19935d849c",
-    "permanent": true
-  },
-  {
     "from": "/6275674a12f",
     "to": "/create-a-cryptocurrency-tracking-app-with-push-notifications-using-swift-and-laravel-part-2-the-6275674a12f",
     "permanent": true
@@ -6089,11 +6369,6 @@
   {
     "from": "/cc716bb6f534",
     "to": "/demystifying-the-monad-in-scala-cc716bb6f534",
-    "permanent": true
-  },
-  {
-    "from": "/fde82662ca8c",
-    "to": "/demystifying-vuex-the-state-container-for-vue-fde82662ca8c",
     "permanent": true
   },
   {
@@ -7322,16 +7597,6 @@
     "permanent": true
   },
   {
-    "from": "/f1acd4696b71",
-    "to": "/from-zero-to-hero-with-vue-up-and-running-f1acd4696b71",
-    "permanent": true
-  },
-  {
-    "from": "/8c7e981b494",
-    "to": "/from-zero-to-hero-with-vue-why-vue-8c7e981b494",
-    "permanent": true
-  },
-  {
     "from": "/7e62f7d4427",
     "to": "/from-zero-to-interplanetary-hero-7e62f7d4427",
     "permanent": true
@@ -7639,11 +7904,6 @@
   {
     "from": "/3ae2440e1810",
     "to": "/giving-the-ipad-a-full-time-job-3ae2440e1810",
-    "permanent": true
-  },
-  {
-    "from": "/3d469931eabb",
-    "to": "/glow-make-your-flow-errors-glow-3d469931eabb",
     "permanent": true
   },
   {
@@ -8077,11 +8337,6 @@
     "permanent": true
   },
   {
-    "from": "/d97aa0e48fdd",
-    "to": "/here-are-some-of-the-best-resources-to-improve-your-coding-skills-d97aa0e48fdd",
-    "permanent": true
-  },
-  {
     "from": "/fc4c1a79c655",
     "to": "/here-are-some-practical-javascript-objects-that-have-encapsulation-fc4c1a79c655",
     "permanent": true
@@ -8099,16 +8354,6 @@
   {
     "from": "/f121af69f23e",
     "to": "/here-are-the-average-salaries-of-software-engineers-around-the-world-in-2017-f121af69f23e",
-    "permanent": true
-  },
-  {
-    "from": "/600e18287381",
-    "to": "/here-are-the-best-courses-and-resources-for-learning-solidity-ethereum-dapps-600e18287381",
-    "permanent": true
-  },
-  {
-    "from": "/4e43063bf8a4",
-    "to": "/here-are-the-most-interesting-developer-podcasts-2019-edition-4e43063bf8a4",
     "permanent": true
   },
   {
@@ -13542,16 +13787,6 @@
     "permanent": true
   },
   {
-    "from": "/4459fc0720d4",
-    "to": "/how-to-set-up-a-powerful-api-with-graphql-koa-and-mongodb-crud-4459fc0720d4",
-    "permanent": true
-  },
-  {
-    "from": "/80266790a3ac",
-    "to": "/how-to-set-up-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-part-ii-80266790a3ac",
-    "permanent": true
-  },
-  {
     "from": "/67709cba21e0",
     "to": "/how-to-set-up-a-short-feedback-loop-as-a-solo-coder-67709cba21e0",
     "permanent": true
@@ -13704,16 +13939,6 @@
   {
     "from": "/670f16244bb4",
     "to": "/how-to-setup-a-nested-html-template-in-the-go-echo-web-framework-670f16244bb4",
-    "permanent": true
-  },
-  {
-    "from": "/339cfae832a1",
-    "to": "/how-to-setup-a-powerful-api-with-graphql-koa-and-mongodb-339cfae832a1",
-    "permanent": true
-  },
-  {
-    "from": "/e251ac189649",
-    "to": "/how-to-setup-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-e251ac189649",
     "permanent": true
   },
   {
@@ -15437,11 +15662,6 @@
     "permanent": true
   },
   {
-    "from": "/9cd790478530",
-    "to": "/immensely-upgrade-your-development-environment-with-these-visual-studio-code-extensions-9cd790478530",
-    "permanent": true
-  },
-  {
     "from": "/2db1770466d6",
     "to": "/immutable-js-is-intimidating-heres-how-to-get-started-2db1770466d6",
     "permanent": true
@@ -15484,11 +15704,6 @@
   {
     "from": "/9cda15377c3b",
     "to": "/improve-development-workflow-of-your-team-with-githooks-9cda15377c3b",
-    "permanent": true
-  },
-  {
-    "from": "/c02fc3813eda",
-    "to": "/improve-your-asynchronous-javascript-code-with-async-and-await-c02fc3813eda",
     "permanent": true
   },
   {
@@ -16367,16 +16582,6 @@
     "permanent": true
   },
   {
-    "from": "/b0e0c5ca2dca",
-    "to": "/learn-how-to-build-a-rn-redux-cryptocurrency-app-chapter-iv-b0e0c5ca2dca",
-    "permanent": true
-  },
-  {
-    "from": "/83f15970d0e3",
-    "to": "/learn-how-to-build-astronomy-picture-of-the-day-app-with-nasa-api-and-react-redux-part-ii-83f15970d0e3",
-    "permanent": true
-  },
-  {
     "from": "/146201d9b5a7",
     "to": "/learn-how-to-create-your-first-angular-app-in-20-min-146201d9b5a7",
     "permanent": true
@@ -16809,16 +17014,6 @@
   {
     "from": "/1f9ef6af5415",
     "to": "/lets-backtrack-and-save-some-queens-1f9ef6af5415",
-    "permanent": true
-  },
-  {
-    "from": "/beefd5d441f2",
-    "to": "/lets-build-a-customizable-rich-text-editor-with-slate-and-react-beefd5d441f2",
-    "permanent": true
-  },
-  {
-    "from": "/3d3908d89664",
-    "to": "/lets-build-a-fast-slick-and-customizable-rich-text-editor-with-slate-and-react-part-ii-3d3908d89664",
     "permanent": true
   },
   {
@@ -17425,11 +17620,6 @@
   {
     "from": "/efcba6255053",
     "to": "/model-view-controller-mvc-explained-through-ordering-drinks-at-the-bar-efcba6255053",
-    "permanent": true
-  },
-  {
-    "from": "/df9c2566c72a",
-    "to": "/modern-frontend-hacking-cheatsheets-df9c2566c72a",
     "permanent": true
   },
   {
@@ -18110,11 +18300,6 @@
   {
     "from": "/6d8f8933a338",
     "to": "/please-dont-quit-every-expert-was-once-a-beginner-6d8f8933a338",
-    "permanent": true
-  },
-  {
-    "from": "/617a5b51dbb2",
-    "to": "/pointer-events-with-react-the-why-how-what-617a5b51dbb2",
     "permanent": true
   },
   {
@@ -19704,11 +19889,6 @@
     "permanent": true
   },
   {
-    "from": "/a95d7704d36d",
-    "to": "/summer-is-over-you-should-be-coding-heres-yet-another-list-of-exciting-ideas-to-build-a95d7704d36d",
-    "permanent": true
-  },
-  {
     "from": "/38ae80e0fbeb",
     "to": "/sunday-with-canvas-element-and-javascript-38ae80e0fbeb",
     "permanent": true
@@ -19719,11 +19899,6 @@
     "permanent": true
   },
   {
-    "from": "/3f0ddfaffbb2",
-    "to": "/supercharge-your-debugging-experience-for-node-js-3f0ddfaffbb2",
-    "permanent": true
-  },
-  {
     "from": "/99099da313b5",
     "to": "/supercharge-your-workflow-with-profiles-and-arrangements-99099da313b5",
     "permanent": true
@@ -19731,11 +19906,6 @@
   {
     "from": "/c0ecbf317089",
     "to": "/surge-vs-github-pages-deploying-a-create-react-app-project-c0ecbf317089",
-    "permanent": true
-  },
-  {
-    "from": "/12d9b048bf06",
-    "to": "/survival-guide-for-new-developers-12d9b048bf06",
     "permanent": true
   },
   {
@@ -21074,11 +21244,6 @@
     "permanent": true
   },
   {
-    "from": "/d3d058e4e472",
-    "to": "/the-secret-to-being-a-top-developer-is-building-things-d3d058e4e472",
-    "permanent": true
-  },
-  {
     "from": "/aac61ac0736c",
     "to": "/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c",
     "permanent": true
@@ -21909,11 +22074,6 @@
     "permanent": true
   },
   {
-    "from": "/a333b0fcabc9",
-    "to": "/typescript-javascript-with-super-powers-a333b0fcabc9",
-    "permanent": true
-  },
-  {
     "from": "/7be710aadcfe",
     "to": "/typography-can-make-your-design-or-break-it-7be710aadcfe",
     "permanent": true
@@ -22132,11 +22292,6 @@
   {
     "from": "/7c334d448c3c",
     "to": "/use-spaced-repetition-with-anki-to-learn-to-code-faster-7c334d448c3c",
-    "permanent": true
-  },
-  {
-    "from": "/ec3930827226",
-    "to": "/use-these-javascript-features-to-make-your-code-more-readable-ec3930827226",
     "permanent": true
   },
   {
