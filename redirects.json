@@ -3,6 +3,131 @@
   { "from": "/tagged/(.*)$", "to": "/tag/$1", "permanent": true },
   { "from": "/archive/(.*)$", "to": "/", "permanent": false },
   {
+    "from": "/8bf4396804e0",
+    "to": "/asymptotic-analysis-explained-with-pokemon-a-deep-dive-into-complexity-analysis-8bf4396804e0",
+    "permanent": true
+  },
+  {
+    "from": "/asymptotic-analysis-explained-with-pok-c3-a9mon-a-deep-dive-into-complexity-analysis-8bf4396804e0",
+    "to": "/asymptotic-analysis-explained-with-pokemon-a-deep-dive-into-complexity-analysis-8bf4396804e0",
+    "permanent": true
+  },
+  {
+    "from": "/316010db80ec",
+    "to": "/how-to-write-an-awesome-junior-developer-resume-in-a-few-simple-steps-316010db80ec",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-write-an-awesome-junior-developer-r-c3-a9sum-c3-a9-in-a-few-simple-steps-316010db80ec",
+    "to": "/how-to-write-an-awesome-junior-developer-resume-in-a-few-simple-steps-316010db80ec",
+    "permanent": true
+  },
+  {
+    "from": "/9a4cb22b93f4",
+    "to": "/get-your-npm-package-covered-with-jest-and-codecov-ef-b8-8f-9a4cb22b93f4",
+    "permanent": true
+  },
+  {
+    "from": "/get-your-npm-package-covered-with-jest-and-codecov-ef-b8-8f-9a4cb22b93f4",
+    "to": "/get-your-npm-package-covered-with-jest-and-codecov-ef-b8-8f-9a4cb22b93f4",
+    "permanent": true
+  },
+  {
+    "from": "/289ceae4226a",
+    "to": "/how-to-go-from-idea-to-live-marketplace-mvp-with-no-software-development-skills-289ceae4226a",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-go-from-idea-to-live-marketplace-mvp-with-no-software-development-skills-ef-b8-8f-289ceae4226a",
+    "to": "/how-to-go-from-idea-to-live-marketplace-mvp-with-no-software-development-skills-289ceae4226a",
+    "permanent": true
+  },
+  {
+    "from": "/4068f6423830",
+    "to": "/how-we-can-build-schrodingers-div-with-vue-4068f6423830",
+    "permanent": true
+  },
+  {
+    "from": "/how-we-can-build-schr-c3-b6dingers-div-with-vue-4068f6423830",
+    "to": "/how-we-can-build-schrodingers-div-with-vue-4068f6423830",
+    "permanent": true
+  },
+  {
+    "from": "/8b7b52d80b3a",
+    "to": "/this-is-the-only-resume-objective-advice-you-need-to-get-hired-8b7b52d80b3a",
+    "permanent": true
+  },
+  {
+    "from": "/this-is-the-only-r-c3-a9sum-c3-a9-objective-advice-you-need-to-get-hired-8b7b52d80b3a",
+    "to": "/this-is-the-only-resume-objective-advice-you-need-to-get-hired-8b7b52d80b3a",
+    "permanent": true
+  },
+  {
+    "from": "/3655b0c04c05",
+    "to": "/how-to-pimp-out-your-developer-profile-and-leave-your-old-resume-in-the-dust-3655b0c04c05",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-pimp-out-your-developer-profile-and-leave-your-old-r-c3-a9sum-c3-a9-in-the-dust-3655b0c04c05",
+    "to": "/how-to-pimp-out-your-developer-profile-and-leave-your-old-resume-in-the-dust-3655b0c04c05",
+    "permanent": true
+  },
+  {
+    "from": "/e0eace2ca268",
+    "to": "/what-rene-descartes-can-teach-you-about-design-e0eace2ca268",
+    "permanent": true
+  },
+  {
+    "from": "/what-ren-c3-a9-descartes-can-teach-you-about-design-e0eace2ca268",
+    "to": "/what-rene-descartes-can-teach-you-about-design-e0eace2ca268",
+    "permanent": true
+  },
+  {
+    "from": "/19a33b0a467d",
+    "to": "/what-programming-language-should-i-learn-first-19a33b0a467d",
+    "permanent": true
+  },
+  {
+    "from": "/what-programming-language-should-i-learn-first-tdirosa-ar-r-wsua-19a33b0a467d",
+    "to": "/what-programming-language-should-i-learn-first-19a33b0a467d",
+    "permanent": true
+  },
+  {
+    "from": "/what-programming-language-should-i-learn-first-ca-87d-c4-b1-c9-b9-c9-94s-c9-90-ca-8c-c9-90-c9-be-c9-b9-c7-9d-ca-8dsu-c9-90-19a33b0a467d",
+    "to": "/what-programming-language-should-i-learn-first-19a33b0a467d",
+    "permanent": true
+  },
+  {
+    "from": "/654d3d394ca6",
+    "to": "/how-i-got-1000-on-my-github-project-654d3d394ca6",
+    "permanent": true
+  },
+  {
+    "from": "/how-i-got-1000-ef-b8-8f-on-my-github-project-654d3d394ca6",
+    "to": "/how-i-got-1000-on-my-github-project-654d3d394ca6",
+    "permanent": true
+  },
+  {
+    "from": "/eeac2af0743a",
+    "to": "/ismael-venegas-castello-is-a-data-analyst-and-organizer-of-the-julialanges-community-from-mexico-eeac2af0743a",
+    "permanent": true
+  },
+  {
+    "from": "/ismael-venegas-castell-c3-b3-is-a-data-analyst-and-organizer-of-the-julialanges-community-from-mexico-eeac2af0743a",
+    "to": "/ismael-venegas-castello-is-a-data-analyst-and-organizer-of-the-julialanges-community-from-mexico-eeac2af0743a",
+    "permanent": true
+  },
+  {
+    "from": "/fd7757740802",
+    "to": "/you-in-6-seconds-how-to-write-a-resume-that-employers-will-actually-read-fd7757740802",
+    "permanent": true
+  },
+  {
+    "from": "/you-in-6-seconds-how-to-write-a-r-c3-a9sum-c3-a9-that-employers-will-actually-read-fd7757740802",
+    "to": "/you-in-6-seconds-how-to-write-a-resume-that-employers-will-actually-read-fd7757740802",
+    "permanent": true
+  },
+  {
     "from": "/83f15970d0e3",
     "to": "/a-detailed-tutorial-how-to-use-shopifys-storefront-api-with-react-and-redux-37f95cbab7f",
     "permanent": true
