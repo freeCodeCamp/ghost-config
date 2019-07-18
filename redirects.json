@@ -3,6 +3,426 @@
   { "from": "/tagged/(.*)$", "to": "/tag/$1", "permanent": true },
   { "from": "/archive/(.*)$", "to": "/", "permanent": false },
   {
+    "from": "/b3d7b11046e0",
+    "to": "/tag/data-science",
+    "permanent": true
+  },
+  {
+    "from": "/reddit-uptime-2008-2016-b3d7b11046e0",
+    "to": "/tag/data-science",
+    "permanent": true
+  },
+  {
+    "from": "/reddit-uptime-2008-2016-bigquery-b3d7b11046e0",
+    "to": "/tag/data-science",
+    "permanent": true
+  },
+  {
+    "from": "/2470ebcda7f",
+    "to": "/tag/big-data",
+    "permanent": true
+  },
+  {
+    "from": "/always-end-your-questions-with-a-stack-overflow-bigquery-and-other-stories-2470ebcda7f",
+    "to": "/tag/big-data",
+    "permanent": true
+  },
+  {
+    "from": "/5ca00c2848d9",
+    "to": "/tag/data-science",
+    "permanent": true
+  },
+  {
+    "from": "/which-us-cities-are-really-the-rainiest-i-crunched-the-data-5ca00c2848d9",
+    "to": "/tag/data-science",
+    "permanent": true
+  },
+  {
+    "from": "/weather-and-bigquery-rainiest-cities-united-states-5ca00c2848d9",
+    "to": "/tag/data-science",
+    "permanent": true
+  },
+  {
+    "from": "/5d3764493a5a",
+    "to": "/tag/data-science",
+    "permanent": true
+  },
+  {
+    "from": "/counting-uniques-faster-in-bigquery-with-hyperloglog-5d3764493a5a",
+    "to": "/tag/data-science",
+    "permanent": true
+  },
+  {
+    "from": "/b52e5ef53e0a",
+    "to": "/tag/data-science",
+    "permanent": true
+  },
+  {
+    "from": "/world-cup-visualized-all-the-goals-b52e5ef53e0a",
+    "to": "/tag/data-science",
+    "permanent": true
+  },
+  {
+    "from": "/world-cup-all-the-goals-in-2018-b52e5ef53e0a",
+    "to": "/tag/data-science",
+    "permanent": true
+  },
+  {
+    "from": "/648d36f2a0b1",
+    "to": "/tag/data-science",
+    "permanent": true
+  },
+  {
+    "from": "/world-cup-visualized-the-most-valuable-players-648d36f2a0b1",
+    "to": "/tag/data-science",
+    "permanent": true
+  },
+  {
+    "from": "/c613aedb6d3c",
+    "to": "/tag/data-science",
+    "permanent": true
+  },
+  {
+    "from": "/connecting-africa-nomanini-gcp-and-bigquery-c613aedb6d3c",
+    "to": "/tag/data-science",
+    "permanent": true
+  },
+  {
+    "from": "/4f4e22e4815c",
+    "to": "/tag/javascript",
+    "permanent": true
+  },
+  {
+    "from": "/why-headless-cms-and-graphql-are-a-natural-fit-4f4e22e4815c",
+    "to": "/tag/javascript",
+    "permanent": true
+  },
+  {
+    "from": "/3dd2043f89e7",
+    "to": "/tag/python",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-build-an-e-commerce-shop-with-python-django-wagtail-3dd2043f89e7",
+    "to": "/tag/python",
+    "permanent": true
+  },
+  {
+    "from": "/c8d58e438c99",
+    "to": "/tag/web-development",
+    "permanent": true
+  },
+  {
+    "from": "/exploring-netlify-cms-a-react-git-based-content-management-system-c8d58e438c99",
+    "to": "/tag/web-development",
+    "permanent": true
+  },
+  {
+    "from": "/48c02e3b0950",
+    "to": "/tag/ruby-on-rails",
+    "permanent": true
+  },
+  {
+    "from": "/the-pros-and-cons-of-ruby-on-rails-e-commerce-in-2019-48c02e3b0950",
+    "to": "/tag/ruby-on-rails",
+    "permanent": true
+  },
+  {
+    "from": "/cc7e3c6522b3",
+    "to": "/tag/react",
+    "permanent": true
+  },
+  {
+    "from": "/applied-react-seo-on-a-next-js-app-live-demo-cc7e3c6522b3",
+    "to": "/tag/react",
+    "permanent": true
+  },
+  {
+    "from": "/772006ad2e13",
+    "to": "/tag/react",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-use-react-for-e-commerce-and-why-its-a-good-idea-772006ad2e13",
+    "to": "/tag/react",
+    "permanent": true
+  },
+  {
+    "from": "/dea9acff6b61",
+    "to": "/tag/web-development",
+    "permanent": true
+  },
+  {
+    "from": "/drupal-headless-architecture-with-js-framework-live-demo-dea9acff6b61",
+    "to": "/tag/web-development",
+    "permanent": true
+  },
+  {
+    "from": "/5137c02cbb0a",
+    "to": "/tag/web-development",
+    "permanent": true
+  },
+  {
+    "from": "/pelican-tutorial-static-blog-with-search-comments-demo-5137c02cbb0a",
+    "to": "/tag/web-development",
+    "permanent": true
+  },
+  {
+    "from": "/6f94759ac429",
+    "to": "/tag/javascript",
+    "permanent": true
+  },
+  {
+    "from": "/build-an-angular-e-commerce-app-on-top-of-sanitys-headless-cms-6f94759ac429",
+    "to": "/tag/javascript",
+    "permanent": true
+  },
+  {
+    "from": "/771e974e909c",
+    "to": "/tag/vuejs",
+    "permanent": true
+  },
+  {
+    "from": "/vue-js-tutorial-a-prerendered-seo-friendly-example-live-demo-771e974e909c",
+    "to": "/tag/vuejs",
+    "permanent": true
+  },
+  {
+    "from": "/d240fc88a00c",
+    "to": "/tag/api",
+    "permanent": true
+  },
+  {
+    "from": "/a-painless-intro-to-apis-how-to-use-integrate-benefit-d240fc88a00c",
+    "to": "/tag/api",
+    "permanent": true
+  },
+  {
+    "from": "/9935a0ba074b",
+    "to": "/tag/microsoft",
+    "permanent": true
+  },
+  {
+    "from": "/why-net-technologies-are-and-will-keep-powering-our-application-9935a0ba074b",
+    "to": "/tag/microsoft",
+    "permanent": true
+  },
+  {
+    "from": "/23435f75b82a",
+    "to": "/tag/web-development",
+    "permanent": true
+  },
+  {
+    "from": "/cloudcannon-cms-for-jekyll-building-a-multilingual-site-23435f75b82a",
+    "to": "/tag/web-development",
+    "permanent": true
+  },
+  {
+    "from": "/557008ce7d47",
+    "to": "/tag/web-development",
+    "permanent": true
+  },
+  {
+    "from": "/staticman-add-dynamic-content-to-a-static-website-fast-557008ce7d47",
+    "to": "/tag/web-development",
+    "permanent": true
+  },
+  {
+    "from": "/6e5ea579fada",
+    "to": "/tag/nodejs",
+    "permanent": true
+  },
+  {
+    "from": "/node-js-for-e-commerce-benefits-tools-koa-js-demo-6e5ea579fada",
+    "to": "/tag/nodejs",
+    "permanent": true
+  },
+  {
+    "from": "/8c0804088e4e",
+    "to": "/tag/web-development",
+    "permanent": true
+  },
+  {
+    "from": "/a-guide-to-golang-e-commerce-8c0804088e4e",
+    "to": "/tag/web-development",
+    "permanent": true
+  },
+  {
+    "from": "/7a71cec16a0c",
+    "to": "/tag/javascript",
+    "permanent": true
+  },
+  {
+    "from": "/angular-seo-done-right-with-server-side-rendering-7a71cec16a0c",
+    "to": "/tag/javascript",
+    "permanent": true
+  },
+  {
+    "from": "/6a59199eb2b1",
+    "to": "/tag/javascript",
+    "permanent": true
+  },
+  {
+    "from": "/a-killer-vue-js-blog-demo-launch-in-2-hours-tops-6a59199eb2b1",
+    "to": "/tag/javascript",
+    "permanent": true
+  },
+  {
+    "from": "/65e8a5c207c0",
+    "to": "/tag/css",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-better-organize-your-css-architecture-with-oocss-bem-smacss-65e8a5c207c0",
+    "to": "/tag/css",
+    "permanent": true
+  },
+  {
+    "from": "/f048070f4330",
+    "to": "/tag/javascript",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-test-your-frontend-with-the-cypress-io-framework-f048070f4330",
+    "to": "/tag/javascript",
+    "permanent": true
+  },
+  {
+    "from": "/a4bac2514579",
+    "to": "/tag/marketing",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-set-up-five-money-saving-website-alerts-with-google-analytics-a4bac2514579",
+    "to": "/tag/marketing",
+    "permanent": true
+  },
+  {
+    "from": "/adbd0e056742",
+    "to": "/tag/software-development",
+    "permanent": true
+  },
+  {
+    "from": "/a-basic-guide-to-choosing-the-right-tech-stack-for-client-work-adbd0e056742",
+    "to": "/tag/software-development",
+    "permanent": true
+  },
+  {
+    "from": "/efaec1a2510b",
+    "to": "/tag/productivity",
+    "permanent": true
+  },
+  {
+    "from": "/a-guide-to-developer-productivity-5-healthy-habits-tools-efaec1a2510b",
+    "to": "/tag/productivity",
+    "permanent": true
+  },
+  {
+    "from": "/hands-on-with-publii-a-free-static-cms-generating-html-sites",
+    "to": "/tag/ecommerce",
+    "permanent": true
+  },
+  {
+    "from": "/6f49cdbdac4f",
+    "to": "/tag/react-native",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-develop-a-location-based-application-using-react-native-6f49cdbdac4f",
+    "to": "/tag/react-native",
+    "permanent": true
+  },
+  {
+    "from": "/7c1cace99de5",
+    "to": "/tag/javascript",
+    "permanent": true
+  },
+  {
+    "from": "/components-testing-in-react-what-and-how-to-test-with-jest-and-enzyme-7c1cace99de5",
+    "to": "/tag/javascript",
+    "permanent": true
+  },
+  {
+    "from": "/ca8492423148",
+    "to": "/tag/debugging",
+    "permanent": true
+  },
+  {
+    "from": "/how-i-use-python-debugger-to-fix-code-ca8492423148",
+    "to": "/tag/debugging",
+    "permanent": true
+  },
+  {
+    "from": "/cef70ccb49db",
+    "to": "/tag/programming",
+    "permanent": true
+  },
+  {
+    "from": "/python-list-comprehensions-vs-generator-expressions-cef70ccb49db",
+    "to": "/tag/programming",
+    "permanent": true
+  },
+  {
+    "from": "/232e2afa44f6",
+    "to": "/tag/python",
+    "permanent": true
+  },
+  {
+    "from": "/a-guide-to-asynchronous-programming-in-python-with-asyncio-232e2afa44f6",
+    "to": "/tag/python",
+    "permanent": true
+  },
+  {
+    "from": "/9c8f7d748b3e",
+    "to": "/tag/programming",
+    "permanent": true
+  },
+  {
+    "from": "/why-i-think-python-is-the-best-programming-language-for-startups-9c8f7d748b3e",
+    "to": "/tag/programming",
+    "permanent": true
+  },
+  {
+    "from": "/73ec94ca2f1",
+    "to": "/tag/docker",
+    "permanent": true
+  },
+  {
+    "from": "/docker-tutorial-getting-started-with-python-redis-and-nginx-73ec94ca2f1",
+    "to": "/tag/docker",
+    "permanent": true
+  },
+  {
+    "from": "/best-practices-of-configuring-django-settings",
+    "to": "/tag/python",
+    "permanent": true
+  },
+  {
+    "from": "/4a8164358c09",
+    "to": "/tag/django",
+    "permanent": true
+  },
+  {
+    "from": "/django-classifier-or-what-have-i-done-4a8164358c09",
+    "to": "/tag/django",
+    "permanent": true
+  },
+  {
+    "from": "/8583789e341b",
+    "to": "/tag/django",
+    "permanent": true
+  },
+  {
+    "from": "/django-performance-optimization-looking-for-the-bottlenecks-8583789e341b",
+    "to": "/tag/django",
+    "permanent": true
+  },
+  {
+    "from": "/celery-python-guide-basics-examples-and-useful-tips",
+    "to": "/tag/python",
+    "permanent": true
+  },
+  {
     "from": "/8bf4396804e0",
     "to": "/asymptotic-analysis-explained-with-pokemon-a-deep-dive-into-complexity-analysis-8bf4396804e0",
     "permanent": true
@@ -1173,16 +1593,6 @@
     "permanent": true
   },
   {
-    "from": "/b52e5ef53e0a",
-    "to": "/world-cup-all-the-goals-in-2018-b52e5ef53e0a",
-    "permanent": true
-  },
-  {
-    "from": "/world-cup-visualized-all-the-goals-b52e5ef53e0a",
-    "to": "/world-cup-all-the-goals-in-2018-b52e5ef53e0a",
-    "permanent": true
-  },
-  {
     "from": "/21bb035f7260",
     "to": "/object-oriented-programming-concepts-21bb035f7260",
     "permanent": true
@@ -1503,16 +1913,6 @@
     "permanent": true
   },
   {
-    "from": "/5ca00c2848d9",
-    "to": "/weather-and-bigquery-rainiest-cities-united-states-5ca00c2848d9",
-    "permanent": true
-  },
-  {
-    "from": "/which-us-cities-are-really-the-rainiest-i-crunched-the-data-5ca00c2848d9",
-    "to": "/weather-and-bigquery-rainiest-cities-united-states-5ca00c2848d9",
-    "permanent": true
-  },
-  {
     "from": "/c479b55ed851",
     "to": "/best-free-online-courses-of-2016-c479b55ed851",
     "permanent": true
@@ -1550,16 +1950,6 @@
   {
     "from": "/the-moment-when-you-realize-every-server-in-the-world-is-vulnerable-8e4371fc5261",
     "to": "/hash-table-attack-8e4371fc5261",
-    "permanent": true
-  },
-  {
-    "from": "/b3d7b11046e0",
-    "to": "/reddit-uptime-2008-2016-bigquery-b3d7b11046e0",
-    "permanent": true
-  },
-  {
-    "from": "/reddit-uptime-2008-2016-b3d7b11046e0",
-    "to": "/reddit-uptime-2008-2016-bigquery-b3d7b11046e0",
     "permanent": true
   },
   {
@@ -2637,11 +3027,6 @@
     "permanent": true
   },
   {
-    "from": "/adbd0e056742",
-    "to": "/a-basic-guide-to-choosing-the-right-tech-stack-for-client-work-adbd0e056742",
-    "permanent": true
-  },
-  {
     "from": "/9fc8b7e3463e",
     "to": "/a-basic-guide-to-closures-in-javascript-9fc8b7e3463e",
     "permanent": true
@@ -3062,23 +3447,8 @@
     "permanent": true
   },
   {
-    "from": "/232e2afa44f6",
-    "to": "/a-guide-to-asynchronous-programming-in-python-with-asyncio-232e2afa44f6",
-    "permanent": true
-  },
-  {
-    "from": "/efaec1a2510b",
-    "to": "/a-guide-to-developer-productivity-5-healthy-habits-tools-efaec1a2510b",
-    "permanent": true
-  },
-  {
     "from": "/72a139bfeb44",
     "to": "/a-guide-to-getting-the-most-out-of-the-push-api-72a139bfeb44",
-    "permanent": true
-  },
-  {
-    "from": "/8c0804088e4e",
-    "to": "/a-guide-to-golang-e-commerce-8c0804088e4e",
     "permanent": true
   },
   {
@@ -3149,11 +3519,6 @@
   {
     "from": "/7895dfbae657",
     "to": "/a-javascript-quirk-that-will-catch-you-out-7895dfbae657",
-    "permanent": true
-  },
-  {
-    "from": "/6a59199eb2b1",
-    "to": "/a-killer-vue-js-blog-demo-launch-in-2-hours-tops-6a59199eb2b1",
     "permanent": true
   },
   {
@@ -3229,11 +3594,6 @@
   {
     "from": "/3c796f1eb0a0",
     "to": "/a-note-on-distributed-systems-3c796f1eb0a0",
-    "permanent": true
-  },
-  {
-    "from": "/d240fc88a00c",
-    "to": "/a-painless-intro-to-apis-how-to-use-integrate-benefit-d240fc88a00c",
     "permanent": true
   },
   {
@@ -3822,11 +4182,6 @@
     "permanent": true
   },
   {
-    "from": "/2470ebcda7f",
-    "to": "/always-end-your-questions-with-a-stack-overflow-bigquery-and-other-stories-2470ebcda7f",
-    "permanent": true
-  },
-  {
     "from": "/a0f38a2248c0",
     "to": "/am-i-a-real-software-engineer-yet-a0f38a2248c0",
     "permanent": true
@@ -4362,11 +4717,6 @@
     "permanent": true
   },
   {
-    "from": "/7a71cec16a0c",
-    "to": "/angular-seo-done-right-with-server-side-rendering-7a71cec16a0c",
-    "permanent": true
-  },
-  {
     "from": "/e6837348dd3a",
     "to": "/angular-what-is-the-new-briefly-e6837348dd3a",
     "permanent": true
@@ -4454,11 +4804,6 @@
   {
     "from": "/380158b29fb3",
     "to": "/applied-introduction-to-lstms-for-text-generation-380158b29fb3",
-    "permanent": true
-  },
-  {
-    "from": "/cc7e3c6522b3",
-    "to": "/applied-react-seo-on-a-next-js-app-live-demo-cc7e3c6522b3",
     "permanent": true
   },
   {
@@ -5062,11 +5407,6 @@
     "permanent": true
   },
   {
-    "from": "/6f94759ac429",
-    "to": "/build-an-angular-e-commerce-app-on-top-of-sanitys-headless-cms-6f94759ac429",
-    "permanent": true
-  },
-  {
     "from": "/3c339d05184f",
     "to": "/build-an-apollo-graphql-server-with-typescript-and-webpack-hot-module-replacement-hmr-3c339d05184f",
     "permanent": true
@@ -5492,11 +5832,6 @@
     "permanent": true
   },
   {
-    "from": "/23435f75b82a",
-    "to": "/cloudcannon-cms-for-jekyll-building-a-multilingual-site-23435f75b82a",
-    "permanent": true
-  },
-  {
     "from": "/e1d03d02c610",
     "to": "/cloudflare-has-been-leaking-https-data-from-thousands-of-major-websites-for-months-e1d03d02c610",
     "permanent": true
@@ -5852,11 +6187,6 @@
     "permanent": true
   },
   {
-    "from": "/7c1cace99de5",
-    "to": "/components-testing-in-react-what-and-how-to-test-with-jest-and-enzyme-7c1cace99de5",
-    "permanent": true
-  },
-  {
     "from": "/e2a9afce09fb",
     "to": "/comprehensive-guide-for-color-usage-in-web-design-e2a9afce09fb",
     "permanent": true
@@ -5899,11 +6229,6 @@
   {
     "from": "/78aaee6b8e74",
     "to": "/congrats-youre-giving-a-talk-so-where-do-you-start-78aaee6b8e74",
-    "permanent": true
-  },
-  {
-    "from": "/c613aedb6d3c",
-    "to": "/connecting-africa-nomanini-gcp-and-bigquery-c613aedb6d3c",
     "permanent": true
   },
   {
@@ -5964,11 +6289,6 @@
   {
     "from": "/b6d8c1ef09cd",
     "to": "/copying-stuff-in-javascript-how-to-differentiate-between-deep-and-shallow-copies-b6d8c1ef09cd",
-    "permanent": true
-  },
-  {
-    "from": "/5d3764493a5a",
-    "to": "/counting-uniques-faster-in-bigquery-with-hyperloglog-5d3764493a5a",
     "permanent": true
   },
   {
@@ -6732,18 +7052,8 @@
     "permanent": true
   },
   {
-    "from": "/4a8164358c09",
-    "to": "/django-classifier-or-what-have-i-done-4a8164358c09",
-    "permanent": true
-  },
-  {
     "from": "/9b491081c2e4",
     "to": "/django-in-the-wild-tips-for-deployment-survival-9b491081c2e4",
-    "permanent": true
-  },
-  {
-    "from": "/8583789e341b",
-    "to": "/django-performance-optimization-looking-for-the-bottlenecks-8583789e341b",
     "permanent": true
   },
   {
@@ -6832,11 +7142,6 @@
     "permanent": true
   },
   {
-    "from": "/73ec94ca2f1",
-    "to": "/docker-tutorial-getting-started-with-python-redis-and-nginx-73ec94ca2f1",
-    "permanent": true
-  },
-  {
     "from": "/9570c4592e9e",
     "to": "/dockerfile-copy-vs-add-key-differences-and-best-practices-9570c4592e9e",
     "permanent": true
@@ -6909,11 +7214,6 @@
   {
     "from": "/5a4e759793db",
     "to": "/dont-worry-be-happy-how-to-build-your-future-tech-career-in-5-simple-steps-5a4e759793db",
-    "permanent": true
-  },
-  {
-    "from": "/dea9acff6b61",
-    "to": "/drupal-headless-architecture-with-js-framework-live-demo-dea9acff6b61",
     "permanent": true
   },
   {
@@ -7284,11 +7584,6 @@
   {
     "from": "/6de19342f35a",
     "to": "/exploring-kotlin-useful-standard-library-functions-6de19342f35a",
-    "permanent": true
-  },
-  {
-    "from": "/c8d58e438c99",
-    "to": "/exploring-netlify-cms-a-react-git-based-content-management-system-c8d58e438c99",
     "permanent": true
   },
   {
@@ -9682,11 +9977,6 @@
     "permanent": true
   },
   {
-    "from": "/ca8492423148",
-    "to": "/how-i-use-python-debugger-to-fix-code-ca8492423148",
-    "permanent": true
-  },
-  {
     "from": "/5f996b0e6895",
     "to": "/how-i-used-algorithms-to-solve-the-knapsack-problem-for-my-real-life-carry-on-knapsack-5f996b0e6895",
     "permanent": true
@@ -10417,11 +10707,6 @@
     "permanent": true
   },
   {
-    "from": "/65e8a5c207c0",
-    "to": "/how-to-better-organize-your-css-architecture-with-oocss-bem-smacss-65e8a5c207c0",
-    "permanent": true
-  },
-  {
     "from": "/3a694f5d1b34",
     "to": "/how-to-bind-this-in-react-without-a-constructor-3a694f5d1b34",
     "permanent": true
@@ -10994,11 +11279,6 @@
   {
     "from": "/f945b3137a42",
     "to": "/how-to-build-an-awesome-stocks-spreadsheet-with-react-16-f945b3137a42",
-    "permanent": true
-  },
-  {
-    "from": "/3dd2043f89e7",
-    "to": "/how-to-build-an-e-commerce-shop-with-python-django-wagtail-3dd2043f89e7",
     "permanent": true
   },
   {
@@ -12039,11 +12319,6 @@
   {
     "from": "/ab9faf41b9a",
     "to": "/how-to-develop-a-hyper-personalized-recommendation-system-ab9faf41b9a",
-    "permanent": true
-  },
-  {
-    "from": "/6f49cdbdac4f",
-    "to": "/how-to-develop-a-location-based-application-using-react-native-6f49cdbdac4f",
     "permanent": true
   },
   {
@@ -13977,11 +14252,6 @@
     "permanent": true
   },
   {
-    "from": "/a4bac2514579",
-    "to": "/how-to-set-up-five-money-saving-website-alerts-with-google-analytics-a4bac2514579",
-    "permanent": true
-  },
-  {
     "from": "/d07abdd5a4f4",
     "to": "/how-to-set-up-gatsbyjs-authentication-with-auth0-d07abdd5a4f4",
     "permanent": true
@@ -14340,11 +14610,6 @@
     "from": "/how-to-test-logs-using-rspec-expectations-and-stringio-in-ruby-c3f879445eeb",
     "to": "/how-to-dry-out-your-rspec-tests-using-shared-examples-d5cc5d33fd76",
     "permanent": true
-  },  
-  {
-    "from": "/f048070f4330",
-    "to": "/how-to-test-your-frontend-with-the-cypress-io-framework-f048070f4330",
-    "permanent": true
   },
   {
     "from": "/c7ed74279311",
@@ -14684,11 +14949,6 @@
   {
     "from": "/51a04c6279a3",
     "to": "/how-to-use-react-and-react-sentinel-to-make-responsive-dumb-components-51a04c6279a3",
-    "permanent": true
-  },
-  {
-    "from": "/772006ad2e13",
-    "to": "/how-to-use-react-for-e-commerce-and-why-its-a-good-idea-772006ad2e13",
     "permanent": true
   },
   {
@@ -18093,11 +18353,6 @@
     "permanent": true
   },
   {
-    "from": "/6e5ea579fada",
-    "to": "/node-js-for-e-commerce-benefits-tools-koa-js-demo-6e5ea579fada",
-    "permanent": true
-  },
-  {
     "from": "/ec7e254d63ac",
     "to": "/node-js-module-exports-vs-exports-ec7e254d63ac",
     "permanent": true
@@ -18368,11 +18623,6 @@
     "permanent": true
   },
   {
-    "from": "/5137c02cbb0a",
-    "to": "/pelican-tutorial-static-blog-with-search-comments-demo-5137c02cbb0a",
-    "permanent": true
-  },
-  {
     "from": "/96cd51601437",
     "to": "/people-cant-gauge-their-own-interview-performance-and-that-makes-them-harder-to-hire-96cd51601437",
     "permanent": true
@@ -18630,11 +18880,6 @@
   {
     "from": "/fd77cbbd367d",
     "to": "/python-interview-question-guide-how-to-code-a-linked-list-fd77cbbd367d",
-    "permanent": true
-  },
-  {
-    "from": "/cef70ccb49db",
-    "to": "/python-list-comprehensions-vs-generator-expressions-cef70ccb49db",
     "permanent": true
   },
   {
@@ -19911,11 +20156,6 @@
   {
     "from": "/24d01a01f11a",
     "to": "/static-sites-are-back-24d01a01f11a",
-    "permanent": true
-  },
-  {
-    "from": "/557008ce7d47",
-    "to": "/staticman-add-dynamic-content-to-a-static-website-fast-557008ce7d47",
     "permanent": true
   },
   {
@@ -21281,11 +21521,6 @@
   {
     "from": "/f526ad3fa964",
     "to": "/the-pros-and-cons-of-different-data-formats-key-values-vs-tuples-f526ad3fa964",
-    "permanent": true
-  },
-  {
-    "from": "/48c02e3b0950",
-    "to": "/the-pros-and-cons-of-ruby-on-rails-e-commerce-in-2019-48c02e3b0950",
     "permanent": true
   },
   {
@@ -22655,11 +22890,6 @@
     "permanent": true
   },
   {
-    "from": "/771e974e909c",
-    "to": "/vue-js-tutorial-a-prerendered-seo-friendly-example-live-demo-771e974e909c",
-    "permanent": true
-  },
-  {
     "from": "/22360ee7a7bf",
     "to": "/vuejs-pwa-on-nginx-22360ee7a7bf",
     "permanent": true
@@ -23920,11 +24150,6 @@
     "permanent": true
   },
   {
-    "from": "/4f4e22e4815c",
-    "to": "/why-headless-cms-and-graphql-are-a-natural-fit-4f4e22e4815c",
-    "permanent": true
-  },
-  {
     "from": "/e93346b3c1f0",
     "to": "/why-i-asked-my-friends-to-stop-using-whatsapp-and-telegram-e93346b3c1f0",
     "permanent": true
@@ -24050,11 +24275,6 @@
     "permanent": true
   },
   {
-    "from": "/9c8f7d748b3e",
-    "to": "/why-i-think-python-is-the-best-programming-language-for-startups-9c8f7d748b3e",
-    "permanent": true
-  },
-  {
     "from": "/aa8f131aaf6f",
     "to": "/why-i-told-my-friends-to-stop-using-whatsapp-and-telegram-aa8f131aaf6f",
     "permanent": true
@@ -24122,11 +24342,6 @@
   {
     "from": "/d98d89144223",
     "to": "/why-most-startups-should-outsource-their-machine-learning-work-d98d89144223",
-    "permanent": true
-  },
-  {
-    "from": "/9935a0ba074b",
-    "to": "/why-net-technologies-are-and-will-keep-powering-our-application-9935a0ba074b",
     "permanent": true
   },
   {
@@ -24532,11 +24747,6 @@
   {
     "from": "/f396ea1a363a",
     "to": "/working-with-unpublished-node-dependencies-f396ea1a363a",
-    "permanent": true
-  },
-  {
-    "from": "/648d36f2a0b1",
-    "to": "/world-cup-visualized-the-most-valuable-players-648d36f2a0b1",
     "permanent": true
   },
   {
