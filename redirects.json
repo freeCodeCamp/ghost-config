@@ -3,6 +3,46 @@
   { "from": "/tagged/(.*)$", "to": "/tag/$1", "permanent": true },
   { "from": "/archive/(.*)$", "to": "/", "permanent": false },
   {
+    "from": "/aac61ac0736c",
+    "to": "/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d",
+    "permanent": true
+  },
+  {
+    "from": "/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c",
+    "to": "/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d",
+    "permanent": true
+  },
+  {
+    "from": "/ec86da6e5d9a",
+    "to": "/getting-your-first-developer-job-with-little-experience-ff7b18299d6c",
+    "permanent": true
+  },
+  {
+    "from": "/https-medium-com-samwcoding-how-to-get-your-first-developer-job-in-4-months-ec86da6e5d9a",
+    "to": "/getting-your-first-developer-job-with-little-experience-ff7b18299d6c",
+    "permanent": true
+  },
+  {
+    "from": "/abc591c30e21",
+    "to": "/leveraging-docker-multi-stage-builds-to-optimize-dockerfile-image-1e708a591940",
+    "permanent": true
+  },
+  {
+    "from": "/docker-entrypoint-cmd-dockerfile-best-practices-abc591c30e21",
+    "to": "/leveraging-docker-multi-stage-builds-to-optimize-dockerfile-image-1e708a591940",
+    "permanent": true
+  },
+  {
+    "from": "/434593dbc9a3",
+    "to": "/a-beginners-guide-to-docker-how-to-create-a-client-server-side-with-docker-compose-12c8cf0ae0aa",
+    "permanent": true
+  },
+  {
+    "from": "/expose-vs-publish-docker-port-commands-explained-simply-434593dbc9a3",
+    "to": "/a-beginners-guide-to-docker-how-to-create-a-client-server-side-with-docker-compose-12c8cf0ae0aa",
+    "permanent": true
+  },
+  {
     "from": "/b3d7b11046e0",
     "to": "/tag/data-science",
     "permanent": true
@@ -7122,11 +7162,6 @@
     "permanent": true
   },
   {
-    "from": "/abc591c30e21",
-    "to": "/docker-entrypoint-cmd-dockerfile-best-practices-abc591c30e21",
-    "permanent": true
-  },
-  {
     "from": "/40165ba3aee2",
     "to": "/docker-nginx-letsencrypt-easy-secure-reverse-proxy-40165ba3aee2",
     "permanent": true
@@ -7609,11 +7644,6 @@
   {
     "from": "/2564ecf53755",
     "to": "/exporting-assets-for-android-using-affinity-designer-2564ecf53755",
-    "permanent": true
-  },
-  {
-    "from": "/434593dbc9a3",
-    "to": "/expose-vs-publish-docker-port-commands-explained-simply-434593dbc9a3",
     "permanent": true
   },
   {
@@ -21611,11 +21641,6 @@
   {
     "from": "/ec5669a9deeb",
     "to": "/the-savvy-digital-marketers-guide-to-productivity-in-2019-how-to-learn-sql-python-and-ec5669a9deeb",
-    "permanent": true
-  },
-  {
-    "from": "/aac61ac0736c",
-    "to": "/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c",
     "permanent": true
   },
   {
