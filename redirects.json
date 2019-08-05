@@ -3,6 +3,56 @@
   { "from": "/tagged/(.*)$", "to": "/tag/$1", "permanent": true },
   { "from": "/archive/(.*)$", "to": "/", "permanent": false },
   {
+    "from": "/bb9a0778696c",
+    "to": "/laravel-continuous-deployment-with-circleci-and-deployer-c70b27fa70d2",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-deploy-laravel-the-easy-way-with-kubernetes-bb9a0778696c",
+    "to": "/laravel-continuous-deployment-with-circleci-and-deployer-c70b27fa70d2",
+    "permanent": true
+  },
+  {
+    "from": "/73c328c6f89a",
+    "to": "/docker-swarm-vs-kubernetes-how-to-setup-both-in-two-virtual-machines-f8897fce7967",
+    "permanent": true
+  },
+  {
+    "from": "/get-started-with-docker-and-kubernetes-on-windows-10-73c328c6f89a",
+    "to": "/docker-swarm-vs-kubernetes-how-to-setup-both-in-two-virtual-machines-f8897fce7967",
+    "permanent": true
+  },
+  {
+    "from": "/605c7e961ef1",
+    "to": "/9-books-for-junior-developers-in-2019-e41fc7ecc586",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-surf-the-web-to-find-motivating-and-insightful-content-605c7e961ef1",
+    "to": "/9-books-for-junior-developers-in-2019-e41fc7ecc586",
+    "permanent": true
+  },
+  {
+    "from": "/46f265eaf38",
+    "to": "/how-i-went-from-no-coding-experience-to-launching-my-first-product-7d3a6812b4e3",
+    "permanent": true
+  },
+  {
+    "from": "/how-and-why-to-start-building-useful-real-world-software-with-no-experience-46f265eaf38",
+    "to": "/how-i-went-from-no-coding-experience-to-launching-my-first-product-7d3a6812b4e3",
+    "permanent": true
+  },
+  {
+    "from": "/74a67a568c50",
+    "to": "/how-i-built-a-web-crawler-to-automate-my-job-search-f825fb5af718",
+    "permanent": true
+  },
+  {
+    "from": "/learn-how-to-be-a-better-programmer-by-automating-the-boring-stuff-74a67a568c50",
+    "to": "/how-i-built-a-web-crawler-to-automate-my-job-search-f825fb5af718",
+    "permanent": true
+  },
+  {
     "from": "/aac61ac0736c",
     "to": "/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d",
     "permanent": true
@@ -2354,11 +2404,6 @@
   {
     "from": "/dd07cab51cd4",
     "to": "/how-to-set-up-a-serious-kubernetes-terminal-dd07cab51cd4",
-    "permanent": true
-  },
-  {
-    "from": "/605c7e961ef1",
-    "to": "/how-to-surf-the-web-to-find-motivating-and-insightful-content-605c7e961ef1",
     "permanent": true
   },
   {
@@ -8212,11 +8257,6 @@
     "permanent": true
   },
   {
-    "from": "/73c328c6f89a",
-    "to": "/get-started-with-docker-and-kubernetes-on-windows-10-73c328c6f89a",
-    "permanent": true
-  },
-  {
     "from": "/b37b6aaca1e4",
     "to": "/get-started-with-webassembly-using-only-14-lines-of-javascript-b37b6aaca1e4",
     "permanent": true
@@ -9114,11 +9154,6 @@
   {
     "from": "/153dc35b7812",
     "to": "/how-and-why-to-get-started-with-google-analytics-153dc35b7812",
-    "permanent": true
-  },
-  {
-    "from": "/46f265eaf38",
-    "to": "/how-and-why-to-start-building-useful-real-world-software-with-no-experience-46f265eaf38",
     "permanent": true
   },
   {
@@ -12234,11 +12269,6 @@
   {
     "from": "/d6436e65d1d9",
     "to": "/how-to-deploy-an-object-detection-model-with-tensorflow-serving-d6436e65d1d9",
-    "permanent": true
-  },
-  {
-    "from": "/bb9a0778696c",
-    "to": "/how-to-deploy-laravel-the-easy-way-with-kubernetes-bb9a0778696c",
     "permanent": true
   },
   {
@@ -16999,11 +17029,6 @@
   {
     "from": "/59ea82fbd99a",
     "to": "/learn-google-analytics-from-santa-and-his-elves-59ea82fbd99a",
-    "permanent": true
-  },
-  {
-    "from": "/74a67a568c50",
-    "to": "/learn-how-to-be-a-better-programmer-by-automating-the-boring-stuff-74a67a568c50",
     "permanent": true
   },
   {
