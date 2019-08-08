@@ -20,7 +20,11 @@ redirects.forEach((obj, i) => {
       // First characters are '/'
       assert.deepStrictEqual(from[0], '/');
       assert.deepStrictEqual(to[0], '/');
+    }
 
+    // 'to' is not redirecting to News
+    // front page
+    if (!to.length === 1) {
       // Last characters are not '/'
       assert.notStrictEqual(from[from.length - 1], '/');
       assert.notStrictEqual(to[to.length - 1], '/');
