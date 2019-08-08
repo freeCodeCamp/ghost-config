@@ -3,6 +3,16 @@
   { "from": "/tagged/(.*)$", "to": "/tag/$1", "permanent": true },
   { "from": "/archive/(.*)$", "to": "/", "permanent": false },
   {
+    "from": "/775fe7aa517c",
+    "to": "/",
+    "permanent": true
+  },
+  {
+    "from": "/intellijs-serial-code-transformations-775fe7aa517c",
+    "to": "/",
+    "permanent": true
+  },
+  {
     "from": "/bb9a0778696c",
     "to": "/laravel-continuous-deployment-with-circleci-and-deployer-c70b27fa70d2",
     "permanent": true
@@ -16304,11 +16314,6 @@
   {
     "from": "/bc4ca181cbb5",
     "to": "/intel-xdk-or-how-i-finally-built-my-first-multi-platform-app-bc4ca181cbb5",
-    "permanent": true
-  },
-  {
-    "from": "/775fe7aa517c",
-    "to": "/intellijs-serial-code-transformations-775fe7aa517c",
     "permanent": true
   },
   {
