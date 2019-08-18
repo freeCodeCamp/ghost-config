@@ -4,6 +4,7 @@
   { "from": "/archive/(.*)$", "to": "/", "permanent": false },
   { "from": "/our-sponsors", "to": "/sponsors", "permanent": true },
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
+  { "from": "/freecodecamps-terms-of-service", "to": "/terms-of-service", "permanent": true },
   {
     "from": "/775fe7aa517c",
     "to": "/",
