@@ -2,6 +2,8 @@
   { "from": "/@(.*)$", "to": "/author/$1", "permanent": true },
   { "from": "/tagged/(.*)$", "to": "/tag/$1", "permanent": true },
   { "from": "/archive/(.*)$", "to": "/", "permanent": false },
+  { "from": "/our-sponsors", "to": "/sponsors", "permanent": true },
+  { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   {
     "from": "/775fe7aa517c",
     "to": "/",
@@ -1787,7 +1789,7 @@
     "to": "/graphic-designer-to-front-end-developer-7be7bfd6a46c",
     "permanent": true
   },
-    {
+  {
     "from": "/how-i-transitioned-from-a-graphic-designer-to-front-end-developer-in-5-months-7be7bfd6a46c",
     "to": "/graphic-designer-to-front-end-developer-7be7bfd6a46c",
     "permanent": true
@@ -1992,12 +1994,12 @@
     "to": "/how-to-make-a-360-vr-app-with-unity-51cbe41ad8f1",
     "permanent": true
   },
-  { 
+  {
     "from": "/f47a7da511a9",
     "to": "/reduce-f47a7da511a9",
     "permanent": true
   },
-  { 
+  {
     "from": "/a-guide-to-the-reduce-method-in-javascript-f47a7da511a9",
     "to": "/reduce-f47a7da511a9",
     "permanent": true
@@ -6370,7 +6372,7 @@
     "from": "/contributing-to-ruby-on-rails-is-not-hard-heres-how-you-can-suggest-a-new-feature-11e82ad5a69",
     "to": "/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282",
     "permanent": true
-  },  
+  },
   {
     "from": "/b9fb4f4539c",
     "to": "/control-flow-in-programming-b9fb4f4539c",
@@ -7245,7 +7247,7 @@
     "from": "/dockers-detached-mode-for-beginners-c53095193ee9",
     "to": "/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f",
     "permanent": true
-  },  
+  },
   {
     "from": "/89454654a318",
     "to": "/doctests-the-shy-giant-of-testing-modules-89454654a318",
@@ -7780,7 +7782,7 @@
     "from": "/find-and-kill-port-processes-on-a-mac-using-bash-c5e95b9e704e",
     "to": "/linux-command-line-bash-tutorial",
     "permanent": true
-  },  
+  },
   {
     "from": "/46e6eeb50c8c",
     "to": "/finding-memory-leaks-react-native-app-ios-46e6eeb50c8c",
@@ -8395,7 +8397,7 @@
     "from": "/da46661c551a",
     "to": "/github-just-released-a-massive-guide-to-contributing-to-open-source-da46661c551a",
     "permanent": true
-  },  
+  },
   {
     "from": "/40a2761e6336",
     "to": "/give-it-a-rest-use-graphql-for-your-apis-40a2761e6336",
@@ -9765,7 +9767,7 @@
     "from": "/how-i-filter-and-grep-docker-containers-images-and-volumes-and-how-you-can-too-a60e52bf7784",
     "to": "/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f",
     "permanent": true
-  },  
+  },
   {
     "from": "/f3b10d04e02e",
     "to": "/how-i-finished-the-entire-freecodecamp-curriculum-in-9-months-while-working-full-time-f3b10d04e02e",
@@ -11665,7 +11667,7 @@
     "from": "/7405d748dee2",
     "to": "/linux-command-line-bash-tutorial",
     "permanent": true
-  },  
+  },
   {
     "from": "/65847da1a319",
     "to": "/how-to-classify-photos-in-600-classes-using-nine-million-open-images-65847da1a319",
@@ -13350,7 +13352,7 @@
     "from": "/615ed159da3f",
     "to": "/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f",
     "permanent": true
-  },  
+  },
   {
     "from": "/124ce18ea898",
     "to": "/learning-ruby-from-zero-to-hero-90ad4eecc82d",
@@ -13360,7 +13362,7 @@
     "from": "/how-to-learn-ruby-recommended-resources-for-beginners-124ce18ea898",
     "to": "/learning-ruby-from-zero-to-hero-90ad4eecc82d",
     "permanent": true
-  },  
+  },
   {
     "from": "/a22c0452c99e",
     "to": "/how-to-learn-web-design-when-you-have-the-creativity-of-homer-simpson-a22c0452c99e",
@@ -13885,7 +13887,7 @@
     "from": "/how-to-parse-command-line-arguments-using-bash-case-statements-42d5c307d1c2",
     "to": "/functional-and-flexible-shell-scripting-tricks-a2d693be2dd4",
     "permanent": true
-  },  
+  },
   {
     "from": "/541df9d2eec1",
     "to": "/how-to-parse-pdfs-at-scale-in-nodejs-what-to-do-and-what-not-to-do-541df9d2eec1",
@@ -19451,7 +19453,7 @@
     "from": "/rubocop-enable-disable-and-configure-linter-checks-for-your-ruby-code-475fbf11046a",
     "to": "/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f",
     "permanent": true
-  },  
+  },
   {
     "from": "/1c73148cc715",
     "to": "/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f",
@@ -19461,7 +19463,7 @@
     "from": "/ruby-on-rails-how-to-extract-code-to-service-objects-1c73148cc715",
     "to": "/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f",
     "permanent": true
-  },  
+  },
   {
     "from": "/a9b2af30804b",
     "to": "/ruby-using-the-select-map-and-reduce-methods-together-a9b2af30804b",
@@ -19786,7 +19788,7 @@
     "from": "/sh-silence-your-bash-scripts-by-coding-your-own-silent-flag-c7e9f8b668a4",
     "to": "/linux-command-line-bash-tutorial",
     "permanent": true
-  },  
+  },
   {
     "from": "/159f8bc37f50",
     "to": "/shared-element-transition-with-react-native-159f8bc37f50",
@@ -21882,7 +21884,7 @@
     "from": "/the-ups-and-downs-of-docker-compose-how-to-run-multi-container-applications-bf7a8e33017e",
     "to": "/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f",
     "permanent": true
-  },  
+  },
   {
     "from": "/bb19f546cc52",
     "to": "/the-virtual-dom-is-slow-meet-the-memoized-dom-bb19f546cc52",
