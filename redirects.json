@@ -3,6 +3,11 @@
   { "from": "/tagged/(.*)$", "to": "/tag/$1", "permanent": true },
   { "from": "/archive/(.*)$", "to": "/", "permanent": false },
   {
+    "from": "/programmers-arent-supposed-to-be-socially-awkward",
+    "to": "/programmers-dont-have-to-be-socially-awkward",
+    "permanent": true
+  },
+  {
     "from": "/775fe7aa517c",
     "to": "/",
     "permanent": true
