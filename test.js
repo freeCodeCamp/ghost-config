@@ -8,9 +8,8 @@ redirects.forEach((obj, i) => {
   const to = obj.to;
   const mediumRedirect = to.includes('https://medium.com/');
 
-  // Skip the first three redirect objects
-  // and DMCA redirects to Medium
-  if (i > 2) {
+  // Skip the first six redirect objects
+  if (i > 5) {
     
     // 'from' is not '/' or '/ghost'
     assert.notStrictEqual(from, '/');
@@ -22,11 +21,10 @@ redirects.forEach((obj, i) => {
       assert.deepStrictEqual(to[0], '/');
     }
 
-    // 'to' is not redirecting to News
-    // front page
+    // Last characters are not '/'
+    assert.notStrictEqual(from[from.length - 1], '/');
+    // 'to' is not News front page
     if (!to.length === 1) {
-      // Last characters are not '/'
-      assert.notStrictEqual(from[from.length - 1], '/');
       assert.notStrictEqual(to[to.length - 1], '/');
     }
 
