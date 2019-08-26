@@ -6,6 +6,11 @@
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   { "from": "/freecodecamps-terms-of-service", "to": "/terms-of-service", "permanent": true },
   {
+    "from": "/android-storage",
+    "to": "/an-overview-of-android-storage",
+    "permanent": true
+  },
+  {
     "from": "/programmers-arent-supposed-to-be-socially-awkward",
     "to": "/programmers-dont-have-to-be-socially-awkward",
     "permanent": true
