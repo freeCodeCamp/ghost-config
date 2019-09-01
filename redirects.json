@@ -6,6 +6,71 @@
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   { "from": "/freecodecamps-terms-of-service", "to": "/terms-of-service", "permanent": true },
   {
+    "from": "/ff7f29b71341",
+    "to": "/favorite-vs-code-extensions-2017-786ea235812f",
+    "permanent": true
+  },
+  {
+    "from": "/visual-studio-code-extensions-ff7f29b71341",
+    "to": "/favorite-vs-code-extensions-2017-786ea235812f",
+    "permanent": true
+  },
+  {
+    "from": "/my-personal-favorite-visual-studio-code-extensions-ff7f29b71341",
+    "to": "/favorite-vs-code-extensions-2017-786ea235812f",
+    "permanent": true
+  },
+  {
+    "from": "/19107e7558ad",
+    "to": "/the-evolution-of-async-javascript-from-callbacks-to-promises-to-async-await-e73b047f2f40",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-master-async-await-with-this-real-world-example-19107e7558ad",
+    "to": "/the-evolution-of-async-javascript-from-callbacks-to-promises-to-async-await-e73b047f2f40",
+    "permanent": true
+  },
+  {
+    "from": "/eac9e9cb4dde",
+    "to": "/how-to-generate-an-html-table-and-a-pdf-with-node-google-puppeteer-32f94d9e39f6",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-generate-dynamic-pdfs-using-react-and-nodejs-eac9e9cb4dde",
+    "to": "/how-to-generate-an-html-table-and-a-pdf-with-node-google-puppeteer-32f94d9e39f6",
+    "permanent": true
+  },
+  {
+    "from": "/javascript-maps-and-sets-explained",
+    "to": "/lets-learn-about-set-and-its-unique-functionality-in-javascript-5654c5c03de2",
+    "permanent": true
+  },
+  {
+    "from": "/git-commands",
+    "to": "/understanding-git-basics-commands-tips-tricks",
+    "permanent": true
+  },
+  {
+    "from": "/absolute-guide-to-html",
+    "to": "/the-html-handbook",
+    "permanent": true
+  },
+  {
+    "from": "/youtube-clone-app",
+    "to": "/react-firebase-todoist-clone",
+    "permanent": true
+  },
+  {
+    "from": "/react-hooks",
+    "to": "/why-react-hooks",
+    "permanent": true
+  },
+  {
+    "from": "/javascript-naming-convention",
+    "to": "/the-junior-developers-guide-to-writing-super-clean-and-readable-code-cd2568e08aae",
+    "permanent": true
+  },
+  {
     "from": "/android-storage",
     "to": "/an-overview-of-android-storage",
     "permanent": true
@@ -1253,16 +1318,6 @@
   {
     "from": "/up-to-awesome-commit-messages-a85558cb90e8",
     "to": "/level-you-up-to-awesome-commit-messages-a85558cb90e8",
-    "permanent": true
-  },
-  {
-    "from": "/ff7f29b71341",
-    "to": "/visual-studio-code-extensions-ff7f29b71341",
-    "permanent": true
-  },
-  {
-    "from": "/my-personal-favorite-visual-studio-code-extensions-ff7f29b71341",
-    "to": "/visual-studio-code-extensions-ff7f29b71341",
     "permanent": true
   },
   {
@@ -12605,11 +12660,6 @@
     "permanent": true
   },
   {
-    "from": "/eac9e9cb4dde",
-    "to": "/how-to-generate-dynamic-pdfs-using-react-and-nodejs-eac9e9cb4dde",
-    "permanent": true
-  },
-  {
     "from": "/7ad0f4936e6c",
     "to": "/how-to-generate-your-very-own-bitcoin-private-key-7ad0f4936e6c",
     "permanent": true
@@ -13772,11 +13822,6 @@
   {
     "from": "/97812fd9dd4d",
     "to": "/how-to-market-your-new-project-incorporate-design-create-a-landing-page-and-get-your-users-97812fd9dd4d",
-    "permanent": true
-  },
-  {
-    "from": "/19107e7558ad",
-    "to": "/how-to-master-async-await-with-this-real-world-example-19107e7558ad",
     "permanent": true
   },
   {
