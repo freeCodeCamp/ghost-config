@@ -24,7 +24,7 @@ redirects.forEach((obj, i) => {
     // Last characters are not '/'
     assert.notStrictEqual(from[from.length - 1], '/');
     // 'to' is not News front page
-    if (!to.length === 1) {
+    if (to.length > 1) {
       assert.notStrictEqual(to[to.length - 1], '/');
     }
 
