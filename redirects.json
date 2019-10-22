@@ -16,6 +16,11 @@
     "permanent": true
   },
   {
+    "from": "/react-redux-architecture-part-1-separation-of-concerns-812da3b08b46-2",
+    "to": "/the-best-way-to-architect-your-redux-app-ad9bd16c8e2d",
+    "permanent": true
+  },
+  {
     "from": "/untitled-17",
     "to": "/how-apps-stay-safe",
     "permanent": true
