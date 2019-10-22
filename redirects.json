@@ -6,6 +6,16 @@
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   { "from": "/freecodecamps-terms-of-service", "to": "/terms-of-service", "permanent": true },
   {
+    "from": "/812da3b08b46",
+    "to": "/the-best-way-to-architect-your-redux-app-ad9bd16c8e2d",
+    "permanent": true
+  },
+  {
+    "from": "/react-redux-architecture-part-1-separation-of-concerns-812da3b08b46",
+    "to": "/the-best-way-to-architect-your-redux-app-ad9bd16c8e2d",
+    "permanent": true
+  },
+  {
     "from": "/untitled-17",
     "to": "/how-apps-stay-safe",
     "permanent": true
@@ -19158,11 +19168,6 @@
   {
     "from": "/8ee486576492",
     "to": "/react-props-state-explained-through-darth-vaders-hunt-for-the-rebels-8ee486576492",
-    "permanent": true
-  },
-  {
-    "from": "/812da3b08b46",
-    "to": "/react-redux-architecture-part-1-separation-of-concerns-812da3b08b46",
     "permanent": true
   },
   {
