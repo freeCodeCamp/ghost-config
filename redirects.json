@@ -6,6 +6,11 @@
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   { "from": "/freecodecamps-terms-of-service", "to": "/terms-of-service", "permanent": true },
   {
+    "from": "/untitled-3",
+    "to": "/4-ways-to-implement-data-for-a-better-user-experience-design",
+    "permanent": true
+  },
+  {
     "from": "/untitled-13",
     "to": "/you-cant-get-there-from-here-how-netlify-lambda-and-firebase-led-me-to-a-serverless-dead-end",
     "permanent": true
