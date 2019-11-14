@@ -4,7 +4,16 @@
   { "from": "/archive/(.*)$", "to": "/", "permanent": false },
   { "from": "/our-sponsors", "to": "/sponsors", "permanent": true },
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
-  { "from": "/freecodecamps-terms-of-service", "to": "/terms-of-service", "permanent": true },
+  {
+    "from": "/freecodecamps-terms-of-service",
+    "to": "/terms-of-service",
+    "permanent": true
+  },
+  {
+    "from": "/angular-ngtemplate-in-depth",
+    "to": "/everything-you-need-to-know-about-ng-template-ng-content-ng-container-and-ngtemplateoutlet-4b7b51223691",
+    "permanent": true
+  },
   {
     "from": "/untitled-3",
     "to": "/4-ways-to-implement-data-for-a-better-user-experience-design",
