@@ -6,6 +6,31 @@
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   { "from": "/freecodecamps-terms-of-service", "to": "/terms-of-service", "permanent": true },
   {
+    "from": "/a1732c32a72f",
+    "to": "/7-important-tips-for-writing-better-css",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-get-better-at-writing-css-a1732c32a72f",
+    "to": "/7-important-tips-for-writing-better-css",
+    "permanent": true
+  },
+  {
+    "from": "/fb2fd0083844",
+    "to": "/how-to-create-a-music-bot-using-discord-js-4436f5f3f0f8",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-create-a-discord-bot-under-15-minutes-fb2fd0083844",
+    "to": "/how-to-create-a-music-bot-using-discord-js-4436f5f3f0f8",
+    "permanent": true
+  },
+  {
+    "from": "/soft-skills-every-developer-should-have",
+    "to": "/what-soft-skills-do-successful-developer-have-in-their-backpacks-e4b71e90329a",
+    "permanent": true
+  },
+  {
     "from": "/untitled-3",
     "to": "/4-ways-to-implement-data-for-a-better-user-experience-design",
     "permanent": true
@@ -11965,11 +11990,6 @@
     "permanent": true
   },
   {
-    "from": "/fb2fd0083844",
-    "to": "/how-to-create-a-discord-bot-under-15-minutes-fb2fd0083844",
-    "permanent": true
-  },
-  {
     "from": "/eeabe8a99045",
     "to": "/how-to-create-a-documentation-website-using-vuepress-eeabe8a99045",
     "permanent": true
@@ -12752,11 +12772,6 @@
   {
     "from": "/18a7d097b23f",
     "to": "/how-to-get-better-at-testing-with-test-driven-development-18a7d097b23f",
-    "permanent": true
-  },
-  {
-    "from": "/a1732c32a72f",
-    "to": "/how-to-get-better-at-writing-css-a1732c32a72f",
     "permanent": true
   },
   {
