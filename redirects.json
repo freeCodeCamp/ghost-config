@@ -5,6 +5,11 @@
   { "from": "/our-sponsors", "to": "/sponsors", "permanent": true },
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   {
+    "from": "/understanding-tcp-internals-step-by-step-for-software-engineers-system-designers-part-1-2",
+    "to": "/computer-networks-and-how-to-actually-understand-them-c1401908172d",
+    "permanent": true
+  },
+  {
     "from": "/freecodecamps-terms-of-service",
     "to": "/terms-of-service",
     "permanent": true
