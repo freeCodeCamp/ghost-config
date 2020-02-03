@@ -5,6 +5,16 @@
   { "from": "/our-sponsors", "to": "/sponsors", "permanent": true },
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   {
+    "from": "/4280b643451",
+    "to": "/the-next-js-handbook",
+    "permanent": true
+  },
+  {
+    "from": "/use-react-with-next-js-framework-and-how-it-made-my-life-easier-4280b643451",
+    "to": "/the-next-js-handbook",
+    "permanent": true
+  },
+  {
     "from": "/understanding-tcp-internals-step-by-step-for-software-engineers-system-designers-part-1-2",
     "to": "/computer-networks-and-how-to-actually-understand-them-c1401908172d",
     "permanent": true
