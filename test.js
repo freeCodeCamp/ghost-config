@@ -8,8 +8,8 @@ redirects.forEach((obj, i) => {
   const to = obj.to;
   const mediumRedirect = to.includes('https://medium.com/');
 
-  // Skip the first six redirect objects
-  if (i > 5) {
+  // Skip the first five redirect objects
+  if (i > 4) {
     
     // 'from' is not '/' or '/ghost'
     assert.notStrictEqual(from, '/');
