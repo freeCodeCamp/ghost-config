@@ -5,6 +5,11 @@
   { "from": "/our-sponsors", "to": "/sponsors", "permanent": true },
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   {
+    "from": "/learn-unity-by-making-a-2d-card-game",
+    "to": "/how-to-build-a-multiplayer-card-game-with-unity-2d-and-mirror",
+    "permanent": true
+  },
+  {
     "from": "/4280b643451",
     "to": "/the-next-js-handbook",
     "permanent": true
