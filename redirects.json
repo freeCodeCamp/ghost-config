@@ -5,13 +5,13 @@
   { "from": "/our-sponsors", "to": "/sponsors", "permanent": true },
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   {
-    "from": "/news/flex-vs-grid",
-    "to": "/news/differences-between-css-flex-and-grid",
+    "from": "/flex-vs-grid",
+    "to": "/differences-between-css-flex-and-grid",
     "permanent": true
   },
   {
-    "from": "/news/aws-polly-tutorial-490468af3a99",
-    "to": "/news/how-to-make-scavenger-hunts-more-fun-with-artificial-intelligence-74a184f3db33",
+    "from": "/aws-polly-tutorial-490468af3a99",
+    "to": "/how-to-make-scavenger-hunts-more-fun-with-artificial-intelligence-74a184f3db33",
     "permanent": true
   },
   {
