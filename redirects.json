@@ -5,6 +5,56 @@
   { "from": "/our-sponsors", "to": "/sponsors", "permanent": true },
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   {
+    "from": "/how-to-make-and-test-your-own-react-drag-and-drop-list-with-0-dependencies-6fb461603780",
+    "to": "/reactjs-implement-drag-and-drop-feature-without-using-external-libraries-ad8994429f1a",
+    "permanent": true
+  },
+  {
+    "from": "/6fb461603780",
+    "to": "/reactjs-implement-drag-and-drop-feature-without-using-external-libraries-ad8994429f1a",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-taste-reasonml-by-building-something-useful-7b1189b94637",
+    "to": "/learn-reasonml-by-building-tic-tac-toe-in-react-334203dd513c",
+    "permanent": true
+  },
+  {
+    "from": "/7b1189b94637",
+    "to": "/learn-reasonml-by-building-tic-tac-toe-in-react-334203dd513c",
+    "permanent": true
+  },
+  {
+    "from": "/yeah-hooks-are-good-but-have-you-tried-faster-react-components-e698a8db468c",
+    "to": "/a-few-questions-on-functional-components",
+    "permanent": true
+  },
+  {
+    "from": "/e698a8db468c",
+    "to": "/a-few-questions-on-functional-components",
+    "permanent": true
+  },
+  {
+    "from": "/reasonml-typescript-comparing-their-type-systems-620e4343221c",
+    "to": "/learn-reasonml-full-course",
+    "permanent": true
+  },
+  {
+    "from": "/620e4343221c",
+    "to": "/learn-reasonml-full-course",
+    "permanent": true
+  },
+  {
+    "from": "/reasonml-the-functional-parts-675d17caa63f",
+    "to": "/learn-reasonml-full-course",
+    "permanent": true
+  },
+  {
+    "from": "/675d17caa63f",
+    "to": "/learn-reasonml-full-course",
+    "permanent": true
+  },
+  {
     "from": "/flex-vs-grid",
     "to": "/differences-between-css-flex-and-grid",
     "permanent": true
@@ -13659,11 +13709,6 @@
     "permanent": true
   },
   {
-    "from": "/6fb461603780",
-    "to": "/how-to-make-and-test-your-own-react-drag-and-drop-list-with-0-dependencies-6fb461603780",
-    "permanent": true
-  },
-  {
     "from": "/cc15df3f2228",
     "to": "/how-to-make-authentication-easier-with-json-web-token-cc15df3f2228",
     "permanent": true
@@ -14796,11 +14841,6 @@
   {
     "from": "/18b96f192817",
     "to": "/how-to-talk-about-your-side-projects-18b96f192817",
-    "permanent": true
-  },
-  {
-    "from": "/7b1189b94637",
-    "to": "/how-to-taste-reasonml-by-building-something-useful-7b1189b94637",
     "permanent": true
   },
   {
@@ -19327,16 +19367,6 @@
   {
     "from": "/d7cad5e3f5d5",
     "to": "/really-really-basic-routing-in-nodejs-with-express-d7cad5e3f5d5",
-    "permanent": true
-  },
-  {
-    "from": "/675d17caa63f",
-    "to": "/reasonml-the-functional-parts-675d17caa63f",
-    "permanent": true
-  },
-  {
-    "from": "/620e4343221c",
-    "to": "/reasonml-typescript-comparing-their-type-systems-620e4343221c",
     "permanent": true
   },
   {
@@ -25009,11 +25039,6 @@
   {
     "from": "/b68e5345788d",
     "to": "/xiki-one-developers-quest-to-turbocharge-the-command-line-interface-b68e5345788d",
-    "permanent": true
-  },
-  {
-    "from": "/e698a8db468c",
-    "to": "/yeah-hooks-are-good-but-have-you-tried-faster-react-components-e698a8db468c",
     "permanent": true
   },
   {
