@@ -5,6 +5,11 @@
   { "from": "/our-sponsors", "to": "/sponsors", "permanent": true },
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   {
+    "from": "/untitled-37",
+    "to": "/learn-how-to-build-tic-tac-toe-with-react-hooks",
+    "permanent": true
+  },
+  {
     "from": "/how-to-make-and-test-your-own-react-drag-and-drop-list-with-0-dependencies-6fb461603780",
     "to": "/reactjs-implement-drag-and-drop-feature-without-using-external-libraries-ad8994429f1a",
     "permanent": true
