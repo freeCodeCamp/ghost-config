@@ -5,6 +5,286 @@
   { "from": "/our-sponsors", "to": "/sponsors", "permanent": true },
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   {
+    "from": "/the-ultimate-guide-to-css-flex",
+    "to": "/flexbox-the-ultimate-css-flex-cheatsheet",
+    "permanent": true
+  },
+  {
+    "from": "/complete-css-grid-tutorial",
+    "to": "/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/#css-grid",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-properly-send-secure-tls-email-from-your-ubuntu-server-using-postfix-spf-dkim-and-dmarc",
+    "to": "/aws-simple-email-service-email-server",
+    "permanent": true
+  },
+  {
+    "from": "/adding-ssl-to-your-site-with-certbot-and-letsencrypt-on-ubuntu",
+    "to": "/going-https-on-amazon-ec2-ubuntu-14-04-with-lets-encrypt-certbot-on-nginx-696770649e76",
+    "permanent": true
+  },
+  {
+    "from": "/tetris-turns-36",
+    "to": "/learn-javascript-by-creating-a-tetris-game",
+    "permanent": true
+  },
+  {
+    "from": "/a-complete-mongodb-tutorial",
+    "to": "/mongodb-crud-app",
+    "permanent": true
+  },
+  {
+    "from": "/make-server-logs-fun-again",
+    "to": "/how-to-save-hours-of-debugging-with-logs-6989cc533370",
+    "permanent": true
+  },
+  {
+    "from": "/making-vanilla-js-router-in-javascript",
+    "to": "/react-router-tutorial",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-make-emoji-finder-in-javascript",
+    "to": "/vanilla-javascript-basics-tutorial-video-build-a-game",
+    "permanent": true
+  },
+  {
+    "from": "/the-complete-flex-animated-tutorial",
+    "to": "/flexbox-the-ultimate-css-flex-cheatsheet",
+    "permanent": true
+  },
+  {
+    "from": "/the-visual-guide-to-javascript-variable-definitions-scope-2717ad9f0169",
+    "to": "/an-introduction-to-scope-in-javascript-cbd957022652",
+    "permanent": true
+  },
+  {
+    "from": "/2717ad9f0169",
+    "to": "/an-introduction-to-scope-in-javascript-cbd957022652",
+    "permanent": true
+  },
+  {
+    "from": "/the-magic-of-the-this-keyword-in-javascript-ce3ce571013e",
+    "to": "/how-to-understand-the-keyword-this-and-context-in-javascript-cd624c6b74b8",
+    "permanent": true
+  },
+  {
+    "from": "/ce3ce571013e",
+    "to": "/how-to-understand-the-keyword-this-and-context-in-javascript-cd624c6b74b8",
+    "permanent": true
+  },
+  {
+    "from": "/the-complete-guide-to-loops-in-javascript-f5e242921d8c",
+    "to": "/javascript-loops-explained-for-loop-for",
+    "permanent": true
+  },
+  {
+    "from": "/f5e242921d8c",
+    "to": "/javascript-loops-explained-for-loop-for",
+    "permanent": true
+  },
+  {
+    "from": "/the-complete-guide-to-es10-features-5fd0feb9513a",
+    "to": "/a-taste-of-whats-new-in-es10-68d28ba22f92",
+    "permanent": true
+  },
+  {
+    "from": "/5fd0feb9513a",
+    "to": "/a-taste-of-whats-new-in-es10-68d28ba22f92",
+    "permanent": true
+  },
+  {
+    "from": "/a-basic-introduction-to-javascript-variable-definitions-and-hoisting-93aa38e742eb",
+    "to": "/the-ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript-876478dd4fbc",
+    "permanent": true
+  },
+  {
+    "from": "/93aa38e742eb",
+    "to": "/the-ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript-876478dd4fbc",
+    "permanent": true
+  },
+  {
+    "from": "/a-guide-to-prototype-based-class-inheritance-in-javascript-84953db26df0",
+    "to": "/javascript-inheritance-vs-composition-ec8ca848b6",
+    "permanent": true
+  },
+  {
+    "from": "/84953db26df0",
+    "to": "/javascript-inheritance-vs-composition-ec8ca848b6",
+    "permanent": true
+  },
+  {
+    "from": "/the-complete-guide-to-scss-sass-30053c266b23",
+    "to": "/give-your-css-superpowers-by-learning-sass",
+    "permanent": true
+  },
+  {
+    "from": "/30053c266b23",
+    "to": "/give-your-css-superpowers-by-learning-sass",
+    "permanent": true
+  },
+  {
+    "from": "/a-simple-css-animation-tutorial-8a35aa8e87ff",
+    "to": "/how-to-use-css-to-create-a-beautiful-loading-animation-for-your-app",
+    "permanent": true
+  },
+  {
+    "from": "/8a35aa8e87ff",
+    "to": "/how-to-use-css-to-create-a-beautiful-loading-animation-for-your-app",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-write-your-own-custom-mouse-ui-class-in-vanilla-javascript-287115be0729",
+    "to": "/learn-ui-design-in-5-minutes-tutorial",
+    "permanent": true
+  },
+  {
+    "from": "/287115be0729",
+    "to": "/learn-ui-design-in-5-minutes-tutorial",
+    "permanent": true
+  },
+  {
+    "from": "/ai-and-machine-learning-how-to-learn-them-visually-79a56d9b7dbb",
+    "to": "/machine-learning-crash-course",
+    "permanent": true
+  },
+  {
+    "from": "/79a56d9b7dbb",
+    "to": "/machine-learning-crash-course",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-code-your-first-algorithm-draw-a-line-ca121f9a1395",
+    "to": "/data-structures-and-algorithms-in-javascript",
+    "permanent": true
+  },
+  {
+    "from": "/ca121f9a1395",
+    "to": "/data-structures-and-algorithms-in-javascript",
+    "permanent": true
+  },
+  {
+    "from": "/an-introduction-to-functional-programming-style-in-javascript-71fcc050f064",
+    "to": "/functional-programming-principles-in-javascript-1b8fc6c3563f",
+    "permanent": true
+  },
+  {
+    "from": "/71fcc050f064",
+    "to": "/functional-programming-principles-in-javascript-1b8fc6c3563f",
+    "permanent": true
+  },
+  {
+    "from": "/a-birds-eye-vue-how-to-get-started-with-vue-js-dd1b82795908",
+    "to": "/vue-js-full-course",
+    "permanent": true
+  },
+  {
+    "from": "/dd1b82795908",
+    "to": "/vue-js-full-course",
+    "permanent": true
+  },
+  {
+    "from": "/execution-context-and-the-call-stack-visually-illustrated-by-a-slice-of-tasty-cake-14f9a64dc460",
+    "to": "/understanding-the-javascript-call-stack-861e41ae61d4",
+    "permanent": true
+  },
+  {
+    "from": "/14f9a64dc460",
+    "to": "/understanding-the-javascript-call-stack-861e41ae61d4",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-create-an-interactive-flex-layout-designer-in-javascript-54863b837b5",
+    "to": "/flexbox-the-ultimate-css-flex-cheatsheet",
+    "permanent": true
+  },
+  {
+    "from": "/54863b837b5",
+    "to": "/flexbox-the-ultimate-css-flex-cheatsheet",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-call-javascript-code-on-multiple-div-elements-without-the-id-attribute-59596e570fcf",
+    "to": "/how-to-avoid-frustration-by-choosing-the-right-javascript-selector-73c64c3906b6",
+    "permanent": true
+  },
+  {
+    "from": "/59596e570fcf",
+    "to": "/how-to-avoid-frustration-by-choosing-the-right-javascript-selector-73c64c3906b6",
+    "permanent": true
+  },
+  {
+    "from": "/css-flex-an-interactive-tutorial-19ff6e93558",
+    "to": "/flexbox-the-ultimate-css-flex-cheatsheet",
+    "permanent": true
+  },
+  {
+    "from": "/19ff6e93558",
+    "to": "/flexbox-the-ultimate-css-flex-cheatsheet",
+    "permanent": true
+  },
+  {
+    "from": "/css-grid-a-simple-layout-design-tutorial-5312a4a8bcaf",
+    "to": "/css-grid-changes-how-we-can-think-about-structuring-our-content",
+    "permanent": true
+  },
+  {
+    "from": "/5312a4a8bcaf",
+    "to": "/css-grid-changes-how-we-can-think-about-structuring-our-content",
+    "permanent": true
+  },
+  {
+    "from": "/how-i-designed-an-animated-book-store-with-javascript-jquery-and-css-9e7102ca7689",
+    "to": "/how-to-use-css-to-create-a-beautiful-loading-animation-for-your-app",
+    "permanent": true
+  },
+  {
+    "from": "/9e7102ca7689",
+    "to": "/how-to-use-css-to-create-a-beautiful-loading-animation-for-your-app",
+    "permanent": true
+  },
+  {
+    "from": "/flexbox-the-animated-tutorial-263e7d8864e5",
+    "to": "/flexbox-the-ultimate-css-flex-cheatsheet",
+    "permanent": true
+  },
+  {
+    "from": "/263e7d8864e5",
+    "to": "/flexbox-the-ultimate-css-flex-cheatsheet",
+    "permanent": true
+  },
+  {
+    "from": "/css-grid-layout-multiply-conquer-or-how-to-actually-design-using-the-grid-745dfc51e114",
+    "to": "/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/#css-grid",
+    "permanent": true
+  },
+  {
+    "from": "/745dfc51e114",
+    "to": "/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/#css-grid",
+    "permanent": true
+  },
+  {
+    "from": "/css-grid-the-beginners-guide-45998e6f6b8",
+    "to": "/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/#css-grid",
+    "permanent": true
+  },
+  {
+    "from": "/45998e6f6b8",
+    "to": "/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/#css-grid",
+    "permanent": true
+  },
+  {
+    "from": "/the-complete-illustrated-flexbox-tutorial-d35c085dbf35",
+    "to": "/flexbox-the-ultimate-css-flex-cheatsheet",
+    "permanent": true
+  },
+  {
+    "from": "/d35c085dbf35",
+    "to": "/flexbox-the-ultimate-css-flex-cheatsheet",
+    "permanent": true
+  },
+  {
     "from": "/untitled-37",
     "to": "/learn-how-to-build-tic-tac-toe-with-react-hooks",
     "permanent": true
@@ -3344,11 +3624,6 @@
     "permanent": true
   },
   {
-    "from": "/93aa38e742eb",
-    "to": "/a-basic-introduction-to-javascript-variable-definitions-and-hoisting-93aa38e742eb",
-    "permanent": true
-  },
-  {
     "from": "/d6d45a903515",
     "to": "/a-beginner-friendly-guide-to-unicode-d6d45a903515",
     "permanent": true
@@ -3451,11 +3726,6 @@
   {
     "from": "/43cf37616570",
     "to": "/a-better-way-to-compare-yourself-43cf37616570",
-    "permanent": true
-  },
-  {
-    "from": "/dd1b82795908",
-    "to": "/a-birds-eye-vue-how-to-get-started-with-vue-js-dd1b82795908",
     "permanent": true
   },
   {
@@ -3776,11 +4046,6 @@
   {
     "from": "/7541662a53f2",
     "to": "/a-guide-to-preserving-your-wrists-with-sublime-text-snippets-7541662a53f2",
-    "permanent": true
-  },
-  {
-    "from": "/84953db26df0",
-    "to": "/a-guide-to-prototype-based-class-inheritance-in-javascript-84953db26df0",
     "permanent": true
   },
   {
@@ -4159,11 +4424,6 @@
     "permanent": true
   },
   {
-    "from": "/8a35aa8e87ff",
-    "to": "/a-simple-css-animation-tutorial-8a35aa8e87ff",
-    "permanent": true
-  },
-  {
     "from": "/660b308f116a",
     "to": "/a-simple-explanation-of-pull-down-and-pull-up-resistors-660b308f116a",
     "permanent": true
@@ -4396,11 +4656,6 @@
   {
     "from": "/4dd14eafff1f",
     "to": "/aggregates-in-r-one-of-the-most-powerful-tool-you-can-ask-for-4dd14eafff1f",
-    "permanent": true
-  },
-  {
-    "from": "/79a56d9b7dbb",
-    "to": "/ai-and-machine-learning-how-to-learn-them-visually-79a56d9b7dbb",
     "permanent": true
   },
   {
@@ -4711,11 +4966,6 @@
   {
     "from": "/9fe541fd39e2",
     "to": "/an-introduction-to-flutter-the-basics-9fe541fd39e2",
-    "permanent": true
-  },
-  {
-    "from": "/71fcc050f064",
-    "to": "/an-introduction-to-functional-programming-style-in-javascript-71fcc050f064",
     "permanent": true
   },
   {
@@ -6784,11 +7034,6 @@
     "permanent": true
   },
   {
-    "from": "/19ff6e93558",
-    "to": "/css-flex-an-interactive-tutorial-19ff6e93558",
-    "permanent": true
-  },
-  {
     "from": "/1217b69c390e",
     "to": "/css-flexbox-explained-by-road-tripping-across-the-country-1217b69c390e",
     "permanent": true
@@ -6796,21 +7041,6 @@
   {
     "from": "/57fa55232333",
     "to": "/css-floats-explained-by-riding-an-escalator-57fa55232333",
-    "permanent": true
-  },
-  {
-    "from": "/5312a4a8bcaf",
-    "to": "/css-grid-a-simple-layout-design-tutorial-5312a4a8bcaf",
-    "permanent": true
-  },
-  {
-    "from": "/745dfc51e114",
-    "to": "/css-grid-layout-multiply-conquer-or-how-to-actually-design-using-the-grid-745dfc51e114",
-    "permanent": true
-  },
-  {
-    "from": "/45998e6f6b8",
-    "to": "/css-grid-the-beginners-guide-45998e6f6b8",
     "permanent": true
   },
   {
@@ -7839,11 +8069,6 @@
     "permanent": true
   },
   {
-    "from": "/14f9a64dc460",
-    "to": "/execution-context-and-the-call-stack-visually-illustrated-by-a-slice-of-tasty-cake-14f9a64dc460",
-    "permanent": true
-  },
-  {
     "from": "/cf5736e84f85",
     "to": "/experimenting-with-the-apache-mesos-http-api-for-fun-and-profit-part-1-of-3-cf5736e84f85",
     "permanent": true
@@ -8106,11 +8331,6 @@
   {
     "from": "/7295497804ed",
     "to": "/flexbox-in-10-minutes-7295497804ed",
-    "permanent": true
-  },
-  {
-    "from": "/263e7d8864e5",
-    "to": "/flexbox-the-animated-tutorial-263e7d8864e5",
     "permanent": true
   },
   {
@@ -9916,11 +10136,6 @@
   {
     "from": "/f059fe333459",
     "to": "/how-i-designed-a-popular-landmark-building-in-isometric-3d-using-figma-f059fe333459",
-    "permanent": true
-  },
-  {
-    "from": "/9e7102ca7689",
-    "to": "/how-i-designed-an-animated-book-store-with-javascript-jquery-and-css-9e7102ca7689",
     "permanent": true
   },
   {
@@ -11784,11 +11999,6 @@
     "permanent": true
   },
   {
-    "from": "/59596e570fcf",
-    "to": "/how-to-call-javascript-code-on-multiple-div-elements-without-the-id-attribute-59596e570fcf",
-    "permanent": true
-  },
-  {
     "from": "/b034145b8281",
     "to": "/how-to-capture-data-at-the-right-time-in-javascript-b034145b8281",
     "permanent": true
@@ -11911,11 +12121,6 @@
   {
     "from": "/3bf77b4e19f7",
     "to": "/how-to-code-the-caesar-cipher-an-introduction-to-basic-encryption-3bf77b4e19f7",
-    "permanent": true
-  },
-  {
-    "from": "/ca121f9a1395",
-    "to": "/how-to-code-your-first-algorithm-draw-a-line-ca121f9a1395",
     "permanent": true
   },
   {
@@ -12246,11 +12451,6 @@
   {
     "from": "/6c5192b449c",
     "to": "/how-to-create-an-intellij-plugin-lets-build-a-simple-dictionary-finder-6c5192b449c",
-    "permanent": true
-  },
-  {
-    "from": "/54863b837b5",
-    "to": "/how-to-create-an-interactive-flex-layout-designer-in-javascript-54863b837b5",
     "permanent": true
   },
   {
@@ -15581,11 +15781,6 @@
   {
     "from": "/d728d759cabc",
     "to": "/how-to-write-your-first-react-js-component-d728d759cabc",
-    "permanent": true
-  },
-  {
-    "from": "/287115be0729",
-    "to": "/how-to-write-your-own-custom-mouse-ui-class-in-vanilla-javascript-287115be0729",
     "permanent": true
   },
   {
@@ -21056,26 +21251,6 @@
     "permanent": true
   },
   {
-    "from": "/5fd0feb9513a",
-    "to": "/the-complete-guide-to-es10-features-5fd0feb9513a",
-    "permanent": true
-  },
-  {
-    "from": "/f5e242921d8c",
-    "to": "/the-complete-guide-to-loops-in-javascript-f5e242921d8c",
-    "permanent": true
-  },
-  {
-    "from": "/30053c266b23",
-    "to": "/the-complete-guide-to-scss-sass-30053c266b23",
-    "permanent": true
-  },
-  {
-    "from": "/d35c085dbf35",
-    "to": "/the-complete-illustrated-flexbox-tutorial-d35c085dbf35",
-    "permanent": true
-  },
-  {
     "from": "/f26b2c71719c",
     "to": "/the-complete-javascript-handbook-f26b2c71719c",
     "permanent": true
@@ -21473,11 +21648,6 @@
   {
     "from": "/faec2c8bc7ba",
     "to": "/the-machine-made-playlist-faec2c8bc7ba",
-    "permanent": true
-  },
-  {
-    "from": "/ce3ce571013e",
-    "to": "/the-magic-of-the-this-keyword-in-javascript-ce3ce571013e",
     "permanent": true
   },
   {
@@ -22058,11 +22228,6 @@
   {
     "from": "/bb19f546cc52",
     "to": "/the-virtual-dom-is-slow-meet-the-memoized-dom-bb19f546cc52",
-    "permanent": true
-  },
-  {
-    "from": "/2717ad9f0169",
-    "to": "/the-visual-guide-to-javascript-variable-definitions-scope-2717ad9f0169",
     "permanent": true
   },
   {
