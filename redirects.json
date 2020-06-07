@@ -5,6 +5,11 @@
   { "from": "/our-sponsors", "to": "/sponsors", "permanent": true },
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   {
+    "from": "/web-scraping-using-nodejs-puppeteer",
+    "to": "/create-api-website-using-puppeteer",
+    "permanent": true
+  },
+  {
     "from": "/the-ultimate-guide-to-css-flex",
     "to": "/flexbox-the-ultimate-css-flex-cheatsheet",
     "permanent": true
