@@ -5,6 +5,11 @@
   { "from": "/our-sponsors", "to": "/sponsors", "permanent": true },
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   {
+    "from": "/untitled-23",
+    "to": "/5-git-commands-you-should-know-with-code-examples",
+    "permanent": true
+  },
+  {
     "from": "/web-scraping-using-nodejs-puppeteer",
     "to": "/create-api-website-using-puppeteer",
     "permanent": true
