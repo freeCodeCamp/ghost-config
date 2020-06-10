@@ -5,6 +5,16 @@
   { "from": "/our-sponsors", "to": "/sponsors", "permanent": true },
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   {
+    "from": "/how-to-get-up-to-3500-github-stars-in-one-week-339102b62a8f",
+    "to": "https://froala.com/blog/social/how-to-get-up-to-3500-github-stars-in-one-week",
+    "permanent": true
+  },
+  {
+    "from": "/339102b62a8f",
+    "to": "https://froala.com/blog/social/how-to-get-up-to-3500-github-stars-in-one-week",
+    "permanent": true
+  },
+  {
     "from": "/untitled-23",
     "to": "/5-git-commands-you-should-know-with-code-examples",
     "permanent": true
@@ -2607,16 +2617,6 @@
   {
     "from": "/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c",
     "to": "/code-review-the-ultimate-guide-aa45c358bbf5",
-    "permanent": true
-  },
-  {
-    "from": "/339102b62a8f",
-    "to": "/how-my-first-project-won-6000-stars-on-github-in-5-days-6340ec99829e",
-    "permanent": true
-  },
-  {
-    "from": "/how-to-get-up-to-3500-github-stars-in-one-week-339102b62a8f",
-    "to": "/how-my-first-project-won-6000-stars-on-github-in-5-days-6340ec99829e",
     "permanent": true
   },
   {
