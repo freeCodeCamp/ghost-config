@@ -1,13 +1,13 @@
 const assert = require("assert").strict;
-const fs = require("fs");
-const redirects = JSON.parse(fs.readFileSync("./redirects.json", "utf8"));
+const redirects = require("./redirects.json");
+
 const fromSlugs = [];
 const newsSubPathRE = /^\/news\//;
 
 redirects.forEach((obj, i) => {
   const from = obj.from;
   const to = obj.to;
-  const mediumRedirect = to.includes("https://medium.com/");
+  const externalUrl = to.startsWith("https://");
 
   // Skip the first five redirect objects
   if (i > 4) {
@@ -15,7 +15,7 @@ redirects.forEach((obj, i) => {
     assert.notStrictEqual(from, "/");
     assert.notStrictEqual(from, "/ghost");
 
-    if (!mediumRedirect) {
+    if (!externalUrl) {
       // First characters are '/'
       assert.deepStrictEqual(from[0], "/");
       assert.deepStrictEqual(to[0], "/");
