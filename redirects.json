@@ -6,12 +6,17 @@
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   {
     "from": "/how-to-get-up-to-3500-github-stars-in-one-week-339102b62a8f",
-    "to": "https://froala.com/blog/social/how-to-get-up-to-3500-github-stars-in-one-week",
+    "to": "https://medium.com/free-code-camp/how-to-get-up-to-3500-github-stars-in-one-week-339102b62a8f",
     "permanent": true
   },
   {
     "from": "/339102b62a8f",
-    "to": "https://froala.com/blog/social/how-to-get-up-to-3500-github-stars-in-one-week",
+    "to": "https://medium.com/free-code-camp/how-to-get-up-to-3500-github-stars-in-one-week-339102b62a8f",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-get-up-to-3500-github-stars-in-one-week",
+    "to": "https://medium.com/free-code-camp/how-to-get-up-to-3500-github-stars-in-one-week-339102b62a8f",
     "permanent": true
   },
   {
@@ -2620,12 +2625,6 @@
     "permanent": true
   },
   {
-    "from": "/how-to-get-up-to-3500-github-stars-in-one-week",
-    "to": "/how-my-first-project-won-6000-stars-on-github-in-5-days-6340ec99829e",
-    "permanent": true
-  },
-
-  {
     "from": "/ebabc87c8b8",
     "to": "/cryptography-and-lfsr",
     "permanent": true
@@ -2645,7 +2644,6 @@
     "to": "/review-udacity-data-analyst-nanodegree-1e16ae2b6d12",
     "permanent": true
   },
-
   {
     "from": "/79bf5a45b3d",
     "to": "/designing-in-color-abd358660a7b",
@@ -2656,7 +2654,6 @@
     "to": "/designing-in-color-abd358660a7b",
     "permanent": true
   },
-
   {
     "from": "/af0c48ab9922",
     "to": "/how-to-make-a-beautiful-tiny-npm-package-and-publish-it-2881d4307f78",
@@ -2707,7 +2704,6 @@
     "to": "/how-to-create-an-ethereum-wallet-address-from-a-private-key-ae72b0eee27b",
     "permanent": true
   },
-
   {
     "from": "/d46d1f3f52b1",
     "to": "/python-interview-question-guide-how-to-code-a-linked-list-fd77cbbd367d",
@@ -18388,7 +18384,11 @@
     "to": "/mentorship-and-networking-my-strategy-based-on-open-source-involvement-626e63096059",
     "permanent": true
   },
-  { "from": "/8b10e260d73", "to": "/mepage-8b10e260d73", "permanent": true },
+  {
+    "from": "/8b10e260d73",
+    "to": "/mepage-8b10e260d73",
+    "permanent": true
+  },
   {
     "from": "/58f86cc9f9a5",
     "to": "/messing-with-the-google-buganizer-system-for-15-600-in-bounties-58f86cc9f9a5",
@@ -20544,7 +20544,11 @@
     "to": "/stability-in-sorting-algorithms-a-treatment-of-equality-fa3140a5a539",
     "permanent": true
   },
-  { "from": "/5404d9735f88", "to": "/stack-5404d9735f88", "permanent": true },
+  {
+    "from": "/5404d9735f88",
+    "to": "/stack-5404d9735f88",
+    "permanent": true
+  },
   {
     "from": "/faac8d3eb357",
     "to": "/stack-overflow-2018-developer-survey-faac8d3eb357",
@@ -23030,7 +23034,11 @@
     "to": "/unmasking-bitmasked-dynamic-programming-25669312b77b",
     "permanent": true
   },
-  { "from": "/b3db1ca930ee", "to": "/up-b3db1ca930ee", "permanent": true },
+  {
+    "from": "/b3db1ca930ee",
+    "to": "/up-b3db1ca930ee",
+    "permanent": true
+  },
   {
     "from": "/d70cf9b2c05",
     "to": "/up-next-nothing-how-information-overload-is-impacting-our-brains-d70cf9b2c05",
