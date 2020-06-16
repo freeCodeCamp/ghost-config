@@ -5,6 +5,11 @@
   { "from": "/our-sponsors", "to": "/sponsors", "permanent": true },
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   {
+    "from": "/fake-it-till-you-make-it",
+    "to": "https://codedamn.com/blog/fake-it-till-you-make-it-a-rant-on-twitter-developers",
+    "permanent": true
+  },
+  {
     "from": "/how-to-get-up-to-3500-github-stars-in-one-week-339102b62a8f",
     "to": "https://medium.com/free-code-camp/how-to-get-up-to-3500-github-stars-in-one-week-339102b62a8f",
     "permanent": true
