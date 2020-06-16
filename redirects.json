@@ -6,7 +6,7 @@
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   {
     "from": "/fake-it-till-you-make-it",
-    "to": "https://codedamn.com/blog/fake-it-till-you-make-it-a-rant-on-twitter-developers",
+    "to": "/",
     "permanent": true
   },
   {
