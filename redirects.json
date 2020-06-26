@@ -5,6 +5,11 @@
   { "from": "/our-sponsors", "to": "/sponsors", "permanent": true },
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   {
+    "from": "/untitled-33",
+    "to": "/how-to-save-your-brainpower-and-code-more-efficiently",
+    "permanent": true
+  },
+  {
     "from": "/fake-it-till-you-make-it",
     "to": "/",
     "permanent": true
