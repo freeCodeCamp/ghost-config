@@ -5,6 +5,326 @@
   { "from": "/our-sponsors", "to": "/sponsors", "permanent": true },
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   {
+    "from": "/a-comparison-between-angular-and-react-and-their-core-languages-9de52f485a76/undefined",
+    "to": "/a-comparison-between-angular-and-react-and-their-core-languages-9de52f485a76",
+    "permanent": true
+  },
+  {
+    "from": "/9de52f485a76",
+    "to": "/a-comparison-between-angular-and-react-and-their-core-languages-9de52f485a76",
+    "permanent": true
+  },
+  {
+    "from": "/a-step-by-step-guide-to-tcp-internals-for-software-engineers-and-system-designers-part-2",
+    "to": "/computer-networks-and-how-to-actually-understand-them-c1401908172d",
+    "permanent": true
+  },
+  {
+    "from": "/after-teaching-myself-to-program-i-wanted-another-challenge-so-i-redesigned-tumblr-69ca39f62bad",
+    "to": "/my-friends-hate-soundcloud-ios-so-i-redesigned-it-for-them-d3038cdd020b",
+    "permanent": true
+  },
+  {
+    "from": "/69ca39f62bad",
+    "to": "/my-friends-hate-soundcloud-ios-so-i-redesigned-it-for-them-d3038cdd020b",
+    "permanent": true
+  },
+  {
+    "from": "/baselining-css",
+    "to": "/best-css-and-css3-tutorial",
+    "permanent": true
+  },
+  {
+    "from": "/beaucarnes/beginners-guide-to-websockets--kdlpos98r",
+    "to": "/beginners-guide-to-websockets",
+    "permanent": true
+  },
+  {
+    "from": "/beaucarnes/brief-history-of-frontend-frameworks--jo8wi8",
+    "to": "/brief-history-of-frontend-frameworks",
+    "permanent": true
+  },
+  {
+    "from": "/beaucarnes/graphql-server-boilerplate-intermediate-tutorial",
+    "to": "/graphql-server-boilerplate-intermediate-tutorial",
+    "permanent": true
+  },
+  {
+    "from": "/beaucarnes/intro-to-game-development-with-javascript--pqogm3nsf",
+    "to": "/intro-to-game-development-with-javascript",
+    "permanent": true
+  },
+  {
+    "from": "/beaucarnes/platformer-game-turorial-javascript--m1jo9zlf4",
+    "to": "/platformer-game-turorial-javascript",
+    "permanent": true
+  },
+  {
+    "from": "/beaucarnes/simon-javascript-game-tutorial--s1m0ntu70",
+    "to": "/simon-javascript-game-tutorial",
+    "permanent": true
+  },
+  {
+    "from": "/clicks/track/?url=kino-m.com",
+    "to": "/",
+    "permanent": true
+  },
+  {
+    "from": "/climbing-the-code-quality-ladder-babd3198e6e2",
+    "to": "/why-i-changed-the-way-i-think-about-code-quality-88c5d8d57e68",
+    "permanent": true
+  },
+  {
+    "from": "/babd3198e6e2",
+    "to": "/why-i-changed-the-way-i-think-about-code-quality-88c5d8d57e68",
+    "permanent": true
+  },
+  {
+    "from": "/essential-gems-for-rails-applications-75fed43d2798",
+    "to": "/cjn-essential-gems-for-rails-applications-75fed43d2798",
+    "permanent": true
+  },
+  {
+    "from": "/75fed43d2798",
+    "to": "/cjn-essential-gems-for-rails-applications-75fed43d2798",
+    "permanent": true
+  },
+  {
+    "from": "/free-proposal-template-for-getting-clients",
+    "to": "/free-web-design-proposal-template",
+    "permanent": true
+  },
+  {
+    "from": "/good-code-vs-bad-code-263f71e867c1",
+    "to": "/good-coding-instincts-will-eventually-kick-you-in-the-teeth-2b3766897f3f",
+    "permanent": true
+  },
+  {
+    "from": "/263f71e867c1",
+    "to": "/good-coding-instincts-will-eventually-kick-you-in-the-teeth-2b3766897f3f",
+    "permanent": true
+  },
+  {
+    "from": "/hands-on-get-started-with-infura-and-ipfs-on-ethereum-b63635142af0/undefined",
+    "to": "/hands-on-get-started-with-infura-and-ipfs-on-ethereum-b63635142af0",
+    "permanent": true
+  },
+  {
+    "from": "/b63635142af0",
+    "to": "/hands-on-get-started-with-infura-and-ipfs-on-ethereum-b63635142af0",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-get-started-with-the-react-context-api-ccc41728fa59",
+    "to": "/react-context-in-5-minutes",
+    "permanent": true
+  },
+  {
+    "from": "/ccc41728fa59",
+    "to": "/react-context-in-5-minutes",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-get-up-and-running-with-angular-on-windows-7405ba745c25",
+    "to": "/how-to-install-angular-on-windows-a-guide-to-angular-cli-node-js-and-build-tools",
+    "permanent": true
+  },
+  {
+    "from": "/7405ba745c25",
+    "to": "/how-to-install-angular-on-windows-a-guide-to-angular-cli-node-js-and-build-tools",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-improve-your-data-structures-algorithms-and-problem-solving-skills-af50971cba60",
+    "to": "/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2",
+    "permanent": true
+  },
+  {
+    "from": "/af50971cba60",
+    "to": "/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-set-up-face-verification-the-easy-way-using-html5-javascript-5301235e495f",
+    "to": "/they-laughed-when-i-said-face-recognition-was-easy-but-it-can-be-6c1d5dd68099",
+    "permanent": true
+  },
+  {
+    "from": "/5301235e495f",
+    "to": "/they-laughed-when-i-said-face-recognition-was-easy-but-it-can-be-6c1d5dd68099",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-troubleshoot-potential-dos-attacks",
+    "to": "/how-we-handled-a-denial-of-service-attack-a-simple-security-lesson-8cdd542d4def",
+    "permanent": true
+  },
+  {
+    "from": "/integrating-create-react-app-redux-react-router-redux-observable-bootstrap-altogether-216db97e89a3",
+    "to": "/how-to-make-create-react-app-work-with-a-node-backend-api-7c5c48acb1b0",
+    "permanent": true
+  },
+  {
+    "from": "/216db97e89a3",
+    "to": "/how-to-make-create-react-app-work-with-a-node-backend-api-7c5c48acb1b0",
+    "permanent": true
+  },
+  {
+    "from": "/lets-talk-about-the-ethereum-token-standards-you-need-to-know-8af9fcb7e54b",
+    "to": "/what-is-a-dapp-a-guide-to-ethereum-dapps",
+    "permanent": true
+  },
+  {
+    "from": "/8af9fcb7e54b",
+    "to": "/what-is-a-dapp-a-guide-to-ethereum-dapps",
+    "permanent": true
+  },
+  {
+    "from": "/mailto:support@vimeo.com",
+    "to": "/",
+    "permanent": true
+  },
+  {
+    "from": "/performance-best-practices-running-and-monitoring-express-js-in-production",
+    "to": "/how-to-write-a-production-ready-node-and-express-app-f214f0b17d8c",
+    "permanent": true
+  },
+  {
+    "from": "/rethinking-css-meet-toucaan",
+    "to": "/css-frameworks",
+    "permanent": true
+  },
+  {
+    "from": "/running-and-deploying-elasticsearch-operator-on-kubernetes",
+    "to": "/elasticsearch-tutorial-for-beginners",
+    "permanent": true
+  },
+  {
+    "from": "/service-objects-explained-simply-for-ruby-on-rails-5-a8cc42a5441f",
+    "to": "/ruby-on-rails-explained",
+    "permanent": true
+  },
+  {
+    "from": "/a8cc42a5441f",
+    "to": "/ruby-on-rails-explained",
+    "permanent": true
+  },
+  {
+    "from": "/simple-and-fast-android-networking-19ed860d1455",
+    "to": "/how-to-set-up-networking-in-your-android-app-with-retrofit-rxjava-mvp-108e7153521a",
+    "permanent": true
+  },
+  {
+    "from": "/19ed860d1455",
+    "to": "/how-to-set-up-networking-in-your-android-app-with-retrofit-rxjava-mvp-108e7153521a",
+    "permanent": true
+  },
+  {
+    "from": "/the-differences-between-object-freeze-vs-const-in-javascript-4eacea534d7c",
+    "to": "/what-happens-when-you-freeze-a-prototype",
+    "permanent": true
+  },
+  {
+    "from": "/4eacea534d7c",
+    "to": "/what-happens-when-you-freeze-a-prototype",
+    "permanent": true
+  },
+  {
+    "from": "/the-most-powerful-tips-to-help-you-get-a-remote-job-9e7161296c81",
+    "to": "/how-to-get-a-remote-job",
+    "permanent": true
+  },
+  {
+    "from": "/9e7161296c81",
+    "to": "/how-to-get-a-remote-job",
+    "permanent": true
+  },
+  {
+    "from": "/the-ultimate-guide-to-preparing-for-the-coding-interview-183251ee36c9",
+    "to": "/interviewing-prep-tips-and-tricks",
+    "permanent": true
+  },
+  {
+    "from": "/183251ee36c9",
+    "to": "/interviewing-prep-tips-and-tricks",
+    "permanent": true
+  },
+  {
+    "from": "/thoughts-on-the-nintendo-switch-user-interface-b441129f063d",
+    "to": "/this-ui-revamp-could-make-twitter-successful-again-d4c551b353b3",
+    "permanent": true
+  },
+  {
+    "from": "/b441129f063d",
+    "to": "/this-ui-revamp-could-make-twitter-successful-again-d4c551b353b3",
+    "permanent": true
+  },
+  {
+    "from": "/top-5-android-development-trends-in-2020-to-surge-customer-outreach",
+    "to": "/intro-to-android-development",
+    "permanent": true
+  },
+  {
+    "from": "/understanding-git-for-real-by-exploring-the-git-directory-1e079c15b807",
+    "to": "/git-the-laymans-guide-to-understanding-the-core-concepts",
+    "permanent": true
+  },
+  {
+    "from": "/1e079c15b807",
+    "to": "/git-the-laymans-guide-to-understanding-the-core-concepts",
+    "permanent": true
+  },
+  {
+    "from": "/what-you-should-know-about-javascript-arrays-a7e5394f78f8",
+    "to": "/javascript-standard-objects-arrays",
+    "permanent": true
+  },
+  {
+    "from": "/a7e5394f78f8",
+    "to": "/javascript-standard-objects-arrays",
+    "permanent": true
+  },
+  {
+    "from": "/why-agile-sucks-at-your-company-and-what-you-can-do-about-it-f4bebcc661c3",
+    "to": "/what-is-agile-and-how-youcan-become-an-epic-storyteller",
+    "permanent": true
+  },
+  {
+    "from": "/f4bebcc661c3",
+    "to": "/what-is-agile-and-how-youcan-become-an-epic-storyteller",
+    "permanent": true
+  },
+  {
+    "from": "/why-kotlin-is-my-next-programming-language-c25c001e26e3",
+    "to": "/kotlin-programming-basics-for-beginners",
+    "permanent": true
+  },
+  {
+    "from": "/c25c001e26e3",
+    "to": "/kotlin-programming-basics-for-beginners",
+    "permanent": true
+  },
+  {
+    "from": "/why-redux-makes-sense-to-me-and-how-i-conceptualize-it-c8a3a9db15ca",
+    "to": "/an-intro-to-redux-and-how-state-is-updated-in-a-redux-application-839c8334d1b1",
+    "permanent": true
+  },
+  {
+    "from": "/c8a3a9db15ca",
+    "to": "/an-intro-to-redux-and-how-state-is-updated-in-a-redux-application-839c8334d1b1",
+    "permanent": true
+  },
+  {
+    "from": "/why-you-should-give-the-closure-function-another-chance-31253e44cfa0",
+    "to": "/javascript-closures",
+    "permanent": true
+  },
+  {
+    "from": "/31253e44cfa0",
+    "to": "/javascript-closures",
+    "permanent": true
+  },
+  {
     "from": "/untitled-33",
     "to": "/how-to-save-your-brainpower-and-code-more-efficiently",
     "permanent": true
@@ -1146,6 +1466,11 @@
   },
   {
     "from": "/19a33b0a467d",
+    "to": "/what-programming-language-should-i-learn-first-19a33b0a467d",
+    "permanent": true
+  },
+  {
+    "from": "/what-programming-language-should-i-learn-first-ÊdÄ±É¹ÉsÉÊÉÉ¾-É¹ÇÊsuÉ-19a33b0a467d",
     "to": "/what-programming-language-should-i-learn-first-19a33b0a467d",
     "permanent": true
   },
@@ -3800,11 +4125,6 @@
     "permanent": true
   },
   {
-    "from": "/9de52f485a76",
-    "to": "/a-comparison-between-angular-and-react-and-their-core-languages-9de52f485a76",
-    "permanent": true
-  },
-  {
     "from": "/19c4feeaa5f",
     "to": "/a-comparison-of-the-top-orms-for-2018-19c4feeaa5f",
     "permanent": true
@@ -4662,11 +4982,6 @@
   {
     "from": "/d3c5e74f8fa8",
     "to": "/after-building-my-first-react-native-app-im-now-convinced-it-s-the-future-d3c5e74f8fa8",
-    "permanent": true
-  },
-  {
-    "from": "/69ca39f62bad",
-    "to": "/after-teaching-myself-to-program-i-wanted-another-challenge-so-i-redesigned-tumblr-69ca39f62bad",
     "permanent": true
   },
   {
@@ -7955,11 +8270,6 @@
     "permanent": true
   },
   {
-    "from": "/75fed43d2798",
-    "to": "/essential-gems-for-rails-applications-75fed43d2798",
-    "permanent": true
-  },
-  {
     "from": "/82a9ada57aeb",
     "to": "/essential-libraries-for-machine-learning-in-python-82a9ada57aeb",
     "permanent": true
@@ -9132,11 +9442,6 @@
   {
     "from": "/d1f5c00249d5",
     "to": "/handling-state-in-react-four-immutable-approaches-to-consider-d1f5c00249d5",
-    "permanent": true
-  },
-  {
-    "from": "/b63635142af0",
-    "to": "/hands-on-get-started-with-infura-and-ipfs-on-ethereum-b63635142af0",
     "permanent": true
   },
   {
@@ -13300,11 +13605,6 @@
     "permanent": true
   },
   {
-    "from": "/7405ba745c25",
-    "to": "/how-to-get-up-and-running-with-angular-on-windows-7405ba745c25",
-    "permanent": true
-  },
-  {
     "from": "/8b7e23781844",
     "to": "/how-to-get-up-and-running-with-fastify-8b7e23781844",
     "permanent": true
@@ -13542,11 +13842,6 @@
   {
     "from": "/2b3e73721fc",
     "to": "/how-to-improve-your-code-with-alexa-response-interceptors-2b3e73721fc",
-    "permanent": true
-  },
-  {
-    "from": "/af50971cba60",
-    "to": "/how-to-improve-your-data-structures-algorithms-and-problem-solving-skills-af50971cba60",
     "permanent": true
   },
   {
@@ -20105,11 +20400,6 @@
     "permanent": true
   },
   {
-    "from": "/a8cc42a5441f",
-    "to": "/service-objects-explained-simply-for-ruby-on-rails-5-a8cc42a5441f",
-    "permanent": true
-  },
-  {
     "from": "/431cc22d0f16",
     "to": "/service-workers-the-little-heroes-behind-progressive-web-apps-431cc22d0f16",
     "permanent": true
@@ -21770,11 +22060,6 @@
     "permanent": true
   },
   {
-    "from": "/9e7161296c81",
-    "to": "/the-most-powerful-tips-to-help-you-get-a-remote-job-9e7161296c81",
-    "permanent": true
-  },
-  {
     "from": "/2dc80e0eff00",
     "to": "/the-most-powerful-tool-to-boost-your-coding-productivity-2dc80e0eff00",
     "permanent": true
@@ -22207,11 +22492,6 @@
   {
     "from": "/8c90248d4676",
     "to": "/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676",
-    "permanent": true
-  },
-  {
-    "from": "/183251ee36c9",
-    "to": "/the-ultimate-guide-to-preparing-for-the-coding-interview-183251ee36c9",
     "permanent": true
   },
   {
@@ -22907,11 +23187,6 @@
   {
     "from": "/b4013d4dc9af",
     "to": "/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af",
-    "permanent": true
-  },
-  {
-    "from": "/1e079c15b807",
-    "to": "/understanding-git-for-real-by-exploring-the-git-directory-1e079c15b807",
     "permanent": true
   },
   {
@@ -24225,11 +24500,6 @@
     "permanent": true
   },
   {
-    "from": "/a7e5394f78f8",
-    "to": "/what-you-should-know-about-javascript-arrays-a7e5394f78f8",
-    "permanent": true
-  },
-  {
     "from": "/42935355525",
     "to": "/what-you-should-know-about-web-tracking-and-how-it-affects-your-online-privacy-42935355525",
     "permanent": true
@@ -24422,11 +24692,6 @@
   {
     "from": "/68956cd731be",
     "to": "/why-16-of-the-code-on-the-average-site-belongs-to-facebook-and-what-that-means-68956cd731be",
-    "permanent": true
-  },
-  {
-    "from": "/f4bebcc661c3",
-    "to": "/why-agile-sucks-at-your-company-and-what-you-can-do-about-it-f4bebcc661c3",
     "permanent": true
   },
   {
@@ -24982,11 +25247,6 @@
   {
     "from": "/afd5d02652ce",
     "to": "/why-you-should-ditch-email-and-the-way-we-should-communicate-at-work-afd5d02652ce",
-    "permanent": true
-  },
-  {
-    "from": "/31253e44cfa0",
-    "to": "/why-you-should-give-the-closure-function-another-chance-31253e44cfa0",
     "permanent": true
   },
   {
