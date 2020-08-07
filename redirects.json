@@ -5,6 +5,16 @@
   { "from": "/our-sponsors", "to": "/sponsors", "permanent": true },
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   {
+    "from": "/how-to-center-things-with-style-in-css-dc87b7542689",
+    "to": "/how-to-center-anything-with-css-align-a-div-text-and-more",
+    "permanent": true
+  },
+  {
+    "from": "/dc87b7542689",
+    "to": "/how-to-center-anything-with-css-align-a-div-text-and-more",
+    "permanent": true
+  },
+  {
     "from": "/a-comparison-between-angular-and-react-and-their-core-languages-9de52f485a76/undefined",
     "to": "/a-comparison-between-angular-and-react-and-their-core-languages-9de52f485a76",
     "permanent": true
@@ -12322,11 +12332,6 @@
   {
     "from": "/b034145b8281",
     "to": "/how-to-capture-data-at-the-right-time-in-javascript-b034145b8281",
-    "permanent": true
-  },
-  {
-    "from": "/dc87b7542689",
-    "to": "/how-to-center-things-with-style-in-css-dc87b7542689",
     "permanent": true
   },
   {
