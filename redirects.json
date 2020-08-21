@@ -5,6 +5,11 @@
   { "from": "/our-sponsors", "to": "/sponsors", "permanent": true },
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   {
+    "from": "/solid-principles-explained-for-humans",
+    "to": "/solid-principles-explained-in-plain-english",
+    "permanent": true
+  },
+  {
     "from": "/how-to-center-things-with-style-in-css-dc87b7542689",
     "to": "/how-to-center-anything-with-css-align-a-div-text-and-more",
     "permanent": true
