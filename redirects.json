@@ -5,6 +5,21 @@
   { "from": "/our-sponsors", "to": "/sponsors", "permanent": true },
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   {
+    "from": "/a-guide-to-rapid-prototyping",
+    "to": "/a-beginners-guide-to-rapid-prototyping-71e8722c17df",
+    "permanent": true
+  },
+  {
+    "from": "/how-and-why-to-write-great-user-stories-f5a110668246",
+    "to": "/how-to-write-user-stories-epics-pesonas",
+    "permanent": true
+  },
+  {
+    "from": "/f5a110668246",
+    "to": "/how-to-write-user-stories-epics-pesonas",
+    "permanent": true
+  },
+  {
     "from": "/solid-principles-explained-for-humans",
     "to": "/solid-principles-explained-in-plain-english",
     "permanent": true
@@ -9947,11 +9962,6 @@
   {
     "from": "/fda2df86ad1b",
     "to": "/how-and-why-to-use-functional-programming-in-modern-javascript-fda2df86ad1b",
-    "permanent": true
-  },
-  {
-    "from": "/f5a110668246",
-    "to": "/how-and-why-to-write-great-user-stories-f5a110668246",
     "permanent": true
   },
   {
