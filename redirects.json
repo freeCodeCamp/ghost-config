@@ -5,6 +5,21 @@
   { "from": "/our-sponsors", "to": "/sponsors", "permanent": true },
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   {
+    "from": "/how-to-build-a-full-stack-serverless-application-with-react-and-amplify",
+    "to": "/building-cloud-enabled-javascript-applications-with-aws-amplify-angular-682547fc6477",
+    "permanent": true
+  },
+  {
+    "from": "/a-hands-on-guide-to-event-loop-child-process-and-worker-threads-in-node-js",
+    "to": "/javascript-concurrency-model-and-event-loop",
+    "permanent": true
+  },
+  {
+    "from": "/what-are-typescript-decorators-how-to-leverage-them-to-write-modular-code-and-solve-cross-cutting-concerns",
+    "to": "/build-an-api-with-typescript-and-aws",
+    "permanent": true
+  },
+  {
     "from": "/a-guide-to-rapid-prototyping",
     "to": "/a-beginners-guide-to-rapid-prototyping-71e8722c17df",
     "permanent": true
