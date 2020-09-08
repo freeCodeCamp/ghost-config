@@ -5,6 +5,11 @@
   { "from": "/our-sponsors", "to": "/sponsors", "permanent": true },
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   {
+    "from": "/how-to-use-html-to-open-a-link-in-a-new-tab",
+    "to": "/how-to-use-html-to-open-link-in-new-tab",
+    "permanent": true
+  },
+  {
     "from": "/how-to-build-a-full-stack-serverless-application-with-react-and-amplify",
     "to": "/building-cloud-enabled-javascript-applications-with-aws-amplify-angular-682547fc6477",
     "permanent": true
