@@ -5,6 +5,21 @@
   { "from": "/our-sponsors", "to": "/sponsors", "permanent": true },
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   {
+    "from": "/how-to-build-reusable-html-components-without-component-based-frameworks",
+    "to": "/reusable-html-components-how-to-reuse-a-header-and-footer-on-a-website",
+    "permanent": true
+  },
+  {
+    "from": "/four-parts-of-frontend-development",
+    "to": "/a-practical-guide-to-learning-front-end-development-for-beginners-da6516505e41",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-learn-a-new-skill",
+    "to": "/learning-how-to-learn-the-most-important-developer-skill-7bf62dfaf67d",
+    "permanent": true
+  },
+  {
     "from": "/how-to-use-html-to-open-a-link-in-a-new-tab",
     "to": "/how-to-use-html-to-open-link-in-new-tab",
     "permanent": true
