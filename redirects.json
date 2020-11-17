@@ -5,6 +5,11 @@
   { "from": "/our-sponsors", "to": "/sponsors", "permanent": true },
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   {
+    "from": "/how-to-build-a-recipe-app-with-nextjs",
+    "to": "/build-an-image-gallery-with-nextjs",
+    "permanent": true
+  },
+  {
     "from": "/how-to-build-reusable-html-components-without-component-based-frameworks",
     "to": "/reusable-html-components-how-to-reuse-a-header-and-footer-on-a-website",
     "permanent": true
