@@ -5,6 +5,11 @@
   { "from": "/our-sponsors", "to": "/sponsors", "permanent": true },
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   {
+    "from": "/master-promise-async-await-in-20-minutes",
+    "to": "/learn-promise-async-await-in-20-minutes",
+    "permanent": true
+  },
+  {
     "from": "/how-to-build-a-recipe-app-with-nextjs",
     "to": "/build-an-image-gallery-with-nextjs",
     "permanent": true
