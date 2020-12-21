@@ -5,6 +5,16 @@
   { "from": "/our-sponsors", "to": "/sponsors", "permanent": true },
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   {
+    "from": "/minimax-algorithm-guide-how-to-create-an-unbeatable-ai",
+    "to": "/how-to-make-your-tic-tac-toe-game-unbeatable-by-using-the-minimax-algorithm-9d690bad4b37",
+    "permanent": true
+  },
+  {
+    "from": "/git-and-github-overview",
+    "to": "/git-the-laymans-guide-to-understanding-the-core-concepts",
+    "permanent": true
+  },
+  {
     "from": "/master-promise-async-await-in-20-minutes",
     "to": "/learn-promise-async-await-in-20-minutes",
     "permanent": true
