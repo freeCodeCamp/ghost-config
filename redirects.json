@@ -5,6 +5,126 @@
   { "from": "/our-sponsors", "to": "/sponsors", "permanent": true },
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   {
+    "from": "/you-cant-fix-diversity-in-tech-without-fixing-the-technical-interview-here-s-the-data-93130f977da2",
+    "to": "/tag/interview",
+    "permanent": true
+  },
+  {
+    "from": "/93130f977da2",
+    "to": "/tag/interview",
+    "permanent": true
+  },
+  {
+    "from": "/you-will-randomly-bomb-technical-interviews-everyone-does-heres-the-data-44475806e32",
+    "to": "/tag/interview",
+    "permanent": true
+  },
+  {
+    "from": "/44475806e32",
+    "to": "/tag/interview",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-interview-your-interviewers-f8f65ac57b80",
+    "to": "/tag/interview",
+    "permanent": true
+  },
+  {
+    "from": "/f8f65ac57b80",
+    "to": "/tag/interview",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-handle-salary-negotiations-in-your-tech-career-like-a-pro-5ea87ddcca76",
+    "to": "/tag/career",
+    "permanent": true
+  },
+  {
+    "from": "/5ea87ddcca76",
+    "to": "/tag/career",
+    "permanent": true
+  },
+  {
+    "from": "/lessons-from-a-years-worth-of-hiring-data-dacf4e7668d4",
+    "to": "/tag/interview",
+    "permanent": true
+  },
+  {
+    "from": "/dacf4e7668d4",
+    "to": "/tag/interview",
+    "permanent": true
+  },
+  {
+    "from": "/why-talent-agents-for-engineers-dont-exist-818743ef0081",
+    "to": "/tag/career",
+    "permanent": true
+  },
+  {
+    "from": "/818743ef0081",
+    "to": "/tag/career",
+    "permanent": true
+  },
+  {
+    "from": "/what-you-do-after-you-graduate-matters-way-more-than-where-you-went-to-school-heres-the-data-e1cffd4ed76",
+    "to": "/tag/career",
+    "permanent": true
+  },
+  {
+    "from": "/e1cffd4ed76",
+    "to": "/tag/career",
+    "permanent": true
+  },
+  {
+    "from": "/people-cant-gauge-their-own-interview-performance-and-that-makes-them-harder-to-hire-96cd51601437",
+    "to": "/tag/interview",
+    "permanent": true
+  },
+  {
+    "from": "/96cd51601437",
+    "to": "/tag/interview",
+    "permanent": true
+  },
+  {
+    "from": "/what-do-the-best-interviewers-have-in-common-8e4e8067dbd",
+    "to": "/tag/interview",
+    "permanent": true
+  },
+  {
+    "from": "/8e4e8067dbd",
+    "to": "/tag/interview",
+    "permanent": true
+  },
+  {
+    "from": "/linkedin-endorsements-are-dumb-heres-the-data-386a9e1606f1",
+    "to": "/tag/resume",
+    "permanent": true
+  },
+  {
+    "from": "/386a9e1606f1",
+    "to": "/tag/resume",
+    "permanent": true
+  },
+  {
+    "from": "/resumes-suck-heres-the-data-ee88fcc27615",
+    "to": "/tag/resume",
+    "permanent": true
+  },
+  {
+    "from": "/ee88fcc27615",
+    "to": "/tag/resume",
+    "permanent": true
+  },
+  {
+    "from": "/we-analyzed-thousands-of-coding-interviews-heres-what-we-learned-99384b1fda50",
+    "to": "/systems-design-for-interviews",
+    "permanent": true
+  },
+  {
+    "from": "/99384b1fda50",
+    "to": "/systems-design-for-interviews",
+    "permanent": true
+  },
+  {
     "from": "/master-promise-async-await-in-20-minutes",
     "to": "/learn-promise-async-await-in-20-minutes",
     "permanent": true
@@ -13760,11 +13880,6 @@
     "permanent": true
   },
   {
-    "from": "/5ea87ddcca76",
-    "to": "/how-to-handle-salary-negotiations-in-your-tech-career-like-a-pro-5ea87ddcca76",
-    "permanent": true
-  },
-  {
     "from": "/8ed2f1e49a13",
     "to": "/how-to-handle-state-in-flutter-using-the-bloc-pattern-8ed2f1e49a13",
     "permanent": true
@@ -14012,11 +14127,6 @@
   {
     "from": "/f6282ee0365d",
     "to": "/how-to-interview-for-a-remote-job-f6282ee0365d",
-    "permanent": true
-  },
-  {
-    "from": "/f8f65ac57b80",
-    "to": "/how-to-interview-your-interviewers-f8f65ac57b80",
     "permanent": true
   },
   {
@@ -18125,11 +18235,6 @@
     "permanent": true
   },
   {
-    "from": "/dacf4e7668d4",
-    "to": "/lessons-from-a-years-worth-of-hiring-data-dacf4e7668d4",
-    "permanent": true
-  },
-  {
     "from": "/4d5e432adcde",
     "to": "/lessons-from-historys-great-innovators-that-you-should-never-forget-4d5e432adcde",
     "permanent": true
@@ -18392,11 +18497,6 @@
   {
     "from": "/a13c7591ad87",
     "to": "/linear-data-structures-linked-lists-stacks-and-queues-in-javascript-a13c7591ad87",
-    "permanent": true
-  },
-  {
-    "from": "/386a9e1606f1",
-    "to": "/linkedin-endorsements-are-dumb-heres-the-data-386a9e1606f1",
     "permanent": true
   },
   {
@@ -19445,11 +19545,6 @@
     "permanent": true
   },
   {
-    "from": "/96cd51601437",
-    "to": "/people-cant-gauge-their-own-interview-performance-and-that-makes-them-harder-to-hire-96cd51601437",
-    "permanent": true
-  },
-  {
     "from": "/51101d03dba2",
     "to": "/perf-machine-learning-on-rasp-pi-51101d03dba2",
     "permanent": true
@@ -20137,11 +20232,6 @@
   {
     "from": "/48d4e4c79b8d",
     "to": "/restful-services-part-iii-hateoas-and-the-richardson-maturity-model-48d4e4c79b8d",
-    "permanent": true
-  },
-  {
-    "from": "/ee88fcc27615",
-    "to": "/resumes-suck-heres-the-data-ee88fcc27615",
     "permanent": true
   },
   {
@@ -23810,11 +23900,6 @@
     "permanent": true
   },
   {
-    "from": "/99384b1fda50",
-    "to": "/we-analyzed-thousands-of-coding-interviews-heres-what-we-learned-99384b1fda50",
-    "permanent": true
-  },
-  {
     "from": "/4104e29b2781",
     "to": "/we-asked-15-000-people-who-they-are-and-how-theyre-learning-to-code-4104e29b2781",
     "permanent": true
@@ -24022,11 +24107,6 @@
   {
     "from": "/9c1912bcc0a4",
     "to": "/what-do-cryptic-github-comments-mean-9c1912bcc0a4",
-    "permanent": true
-  },
-  {
-    "from": "/8e4e8067dbd",
-    "to": "/what-do-the-best-interviewers-have-in-common-8e4e8067dbd",
     "permanent": true
   },
   {
@@ -24532,11 +24612,6 @@
   {
     "from": "/abaecd042b0b",
     "to": "/what-you-can-learn-from-a-30-year-olds-first-coding-interview-abaecd042b0b",
-    "permanent": true
-  },
-  {
-    "from": "/e1cffd4ed76",
-    "to": "/what-you-do-after-you-graduate-matters-way-more-than-where-you-went-to-school-heres-the-data-e1cffd4ed76",
     "permanent": true
   },
   {
@@ -25175,11 +25250,6 @@
     "permanent": true
   },
   {
-    "from": "/818743ef0081",
-    "to": "/why-talent-agents-for-engineers-dont-exist-818743ef0081",
-    "permanent": true
-  },
-  {
     "from": "/2b0e24f124e9",
     "to": "/why-team-culture-is-critical-for-successful-microservices-2b0e24f124e9",
     "permanent": true
@@ -25610,11 +25680,6 @@
     "permanent": true
   },
   {
-    "from": "/93130f977da2",
-    "to": "/you-cant-fix-diversity-in-tech-without-fixing-the-technical-interview-here-s-the-data-93130f977da2",
-    "permanent": true
-  },
-  {
     "from": "/57c771c4fab0",
     "to": "/you-dont-need-a-regex-for-that-57c771c4fab0",
     "permanent": true
@@ -25692,11 +25757,6 @@
   {
     "from": "/12c5dc122ca0",
     "to": "/you-will-never-know-half-of-what-you-think-you-should-12c5dc122ca0",
-    "permanent": true
-  },
-  {
-    "from": "/44475806e32",
-    "to": "/you-will-randomly-bomb-technical-interviews-everyone-does-heres-the-data-44475806e32",
     "permanent": true
   },
   {
