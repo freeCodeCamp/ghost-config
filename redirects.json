@@ -5,6 +5,11 @@
   { "from": "/our-sponsors", "to": "/sponsors", "permanent": true },
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   {
+    "from": "/open-source-for-good-1a0ea9f32d5a",
+    "to": "/tag/nonprofit",
+    "permanent": true
+  },
+  {
     "from": "/how-to-make-a-pixel-art-editor",
     "to": "/",
     "permanent": true
