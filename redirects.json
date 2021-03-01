@@ -5,6 +5,46 @@
   { "from": "/our-sponsors", "to": "/sponsors", "permanent": true },
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   {
+    "from": "/open-source-for-good-1a0ea9f32d5a",
+    "to": "/tag/nonprofit",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-make-a-pixel-art-editor",
+    "to": "/",
+    "permanent": true
+  },
+  {
+    "from": "/javascript-regex-match-use-replace-on-string",
+    "to": "/javascript-regex-match-example-how-to-use-the-js-replace-method-on-a-string",
+    "permanent": true
+  },
+  {
+    "from": "/everything-you-need-to-know-about-cookies",
+    "to": "/everything-you-need-to-know-about-cookies-for-web-development",
+    "permanent": true
+  },
+  {
+    "from": "/is-google-amp-the-right-choice-for-your-website",
+    "to": "/",
+    "permanent": true
+  },
+  {
+    "from": "/parse-json-object-with-js-example",
+    "to": "/json-stringify-example-how-to-parse-a-json-object-with-javascript",
+    "permanent": true
+  },
+  {
+    "from": "/build-a-youtube-uploader-bot-using-google-apps-script",
+    "to": "/",
+    "permanent": true
+  },
+  {
+    "from": "/history-of-responsive-web-design",
+    "to": "/a-brief-history-of-responsive-web-design",
+    "permanent": true
+  },
+  {
     "from": "/you-cant-fix-diversity-in-tech-without-fixing-the-technical-interview-here-s-the-data-93130f977da2",
     "to": "/tag/interview",
     "permanent": true
