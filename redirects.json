@@ -5,6 +5,16 @@
   { "from": "/our-sponsors", "to": "/sponsors", "permanent": true },
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   {
+    "from": "/how-to-make-html-hyperlinks-using-the-href-attribute-on-tags-2",
+    "to": "/html-button-link-code-examples-how-to-make-html-hyperlinks-using-the-href-attribute-on-tags",
+    "permanent": true
+  },
+  {
+    "from": "/how-to-overload-operators-in-c",
+    "to": "/how-to-overload-operators-in-cplusplus",
+    "permanent": true
+  },
+  {
     "from": "/why-deno-is-a-wrong-step-in-the-future",
     "to": "/tag/deno",
     "permanent": true
