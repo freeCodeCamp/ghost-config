@@ -5,6 +5,16 @@
   { "from": "/our-sponsors", "to": "/sponsors", "permanent": true },
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   {
+    "from": "/make-your-site-beautiful-using-web-design-principles",
+    "to": "/responsive-web-design-how-to-make-a-website-look-good-on-phones-and-tablets",
+    "permanent": true
+  },
+  {
+    "from": "/developer-community-guide",
+    "to": "/networking-for-aspiring-developers",
+    "permanent": true
+  },
+  {
     "from": "/how-to-make-html-hyperlinks-using-the-href-attribute-on-tags-2",
     "to": "/html-button-link-code-examples-how-to-make-html-hyperlinks-using-the-href-attribute-on-tags",
     "permanent": true
