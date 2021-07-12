@@ -5,6 +5,16 @@
   { "from": "/our-sponsors", "to": "/sponsors", "permanent": true },
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   {
+    "from": "/tcp-vs-udp-which-is-faster",
+    "to": "/tcp-vs-udp",
+    "permanent": true
+  },
+  {
+    "from": "/disaster-recovery-plan-what-are-rto-and-rpo",
+    "to": "/disaster-recovery-plan",
+    "permanent": true
+  },
+  {
     "from": "/make-your-site-beautiful-using-web-design-principles",
     "to": "/responsive-web-design-how-to-make-a-website-look-good-on-phones-and-tablets",
     "permanent": true
