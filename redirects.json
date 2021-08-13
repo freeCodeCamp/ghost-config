@@ -5,6 +5,16 @@
   { "from": "/our-sponsors", "to": "/sponsors", "permanent": true },
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   {
+    "from": "/testing-in-python-c6b903eb247d",
+    "to": "/an-introduction-to-testing-in-python",
+    "permanent": true
+  },
+  {
+    "from": "/c6b903eb247d",
+    "to": "/an-introduction-to-testing-in-python",
+    "permanent": true
+  },
+  {
     "from": "/tcp-vs-udp-which-is-faster",
     "to": "/tcp-vs-udp",
     "permanent": true
@@ -21397,11 +21407,6 @@
   {
     "from": "/3fd3be299918",
     "to": "/test-driven-development-with-react-and-redux-using-redux-tdd-3fd3be299918",
-    "permanent": true
-  },
-  {
-    "from": "/c6b903eb247d",
-    "to": "/testing-in-python-c6b903eb247d",
     "permanent": true
   },
   {
