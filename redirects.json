@@ -5,6 +5,11 @@
   { "from": "/our-sponsors", "to": "/sponsors", "permanent": true },
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   {
+    "from": "/sql-order-by-statement-example-sytax",
+    "to": "/sql-order-by-statement-example-syntax",
+    "permanent": true
+  },
+  {
     "from": "/testing-in-python-c6b903eb247d",
     "to": "/an-introduction-to-testing-in-python",
     "permanent": true
