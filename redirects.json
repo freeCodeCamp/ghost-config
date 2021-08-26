@@ -5,6 +5,11 @@
   { "from": "/our-sponsors", "to": "/sponsors", "permanent": true },
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   {
+    "from": "/how-to-implement-ios-components-apis",
+    "to": "/create-an-app-that-works-on-ios-android-and-the-web-with-react-native-web",
+    "permanent": true
+  },
+  {
     "from": "/sql-order-by-statement-example-sytax",
     "to": "/sql-order-by-statement-example-syntax",
     "permanent": true
