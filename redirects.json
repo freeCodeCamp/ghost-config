@@ -5,6 +5,11 @@
   { "from": "/our-sponsors", "to": "/sponsors", "permanent": true },
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   {
+    "from": "/how-to-use-async-await-write-better-javascript",
+    "to": "/javascript-async-await-tutorial-learn-callbacks-promises-async-await-by-making-icecream",
+    "permanent": true
+  },
+  {
     "from": "/how-to-implement-ios-components-apis",
     "to": "/create-an-app-that-works-on-ios-android-and-the-web-with-react-native-web",
     "permanent": true
