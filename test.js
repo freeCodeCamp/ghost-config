@@ -16,9 +16,11 @@ redirects.forEach((obj, i) => {
     assert.notStrictEqual(from, "/ghost");
 
     if (!externalUrl) {
-      // First characters are '/'
-      assert.deepStrictEqual(from[0], "/");
-      assert.deepStrictEqual(to[0], "/");
+      // First characters are '/' or '^'
+      const allowedFirstChars = ["/", "^"];
+
+      assert(allowedFirstChars.includes(from[0]));
+      assert(allowedFirstChars.includes(to[0]));
     }
 
     // Last characters are not '/'
