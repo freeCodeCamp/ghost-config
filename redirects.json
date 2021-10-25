@@ -5,6 +5,26 @@
   { "from": "/our-sponsors", "to": "/sponsors", "permanent": true },
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   {
+    "from": "/dive-into-dotfiles-part-1-e4eb1003cff6",
+    "to": "/dotfiles-what-is-a-dot-file-and-how-to-create-it-in-mac-and-linux",
+    "permanent": true
+  },
+  {
+    "from": "/e4eb1003cff6",
+    "to": "/dotfiles-what-is-a-dot-file-and-how-to-create-it-in-mac-and-linux",
+    "permanent": true
+  },
+  {
+    "from": "/dive-into-dotfiles-part-2-6321b4a73608",
+    "to": "/dotfiles-what-is-a-dot-file-and-how-to-create-it-in-mac-and-linux",
+    "permanent": true
+  },
+  {
+    "from": "/6321b4a73608",
+    "to": "/dotfiles-what-is-a-dot-file-and-how-to-create-it-in-mac-and-linux",
+    "permanent": true
+  },
+  {
     "from": "/how-to-use-async-await-write-better-javascript",
     "to": "/javascript-async-await-tutorial-learn-callbacks-promises-async-await-by-making-icecream",
     "permanent": true
@@ -8192,16 +8212,6 @@
   {
     "from": "/bf247d289cc0",
     "to": "/dive-into-deep-learning-with-these-23-online-courses-bf247d289cc0",
-    "permanent": true
-  },
-  {
-    "from": "/e4eb1003cff6",
-    "to": "/dive-into-dotfiles-part-1-e4eb1003cff6",
-    "permanent": true
-  },
-  {
-    "from": "/6321b4a73608",
-    "to": "/dive-into-dotfiles-part-2-6321b4a73608",
     "permanent": true
   },
   {
