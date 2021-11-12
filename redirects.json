@@ -1140,8 +1140,8 @@
     "permanent": true
   },
   {
-    "from": "^/react-hooks$",
-    "to": "^/why-react-hooks$",
+    "from": "^\\/react-hooks\\/?$",
+    "to": "/why-react-hooks",
     "permanent": true
   },
   {
