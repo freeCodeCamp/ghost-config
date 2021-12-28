@@ -5,6 +5,16 @@
   { "from": "/our-sponsors", "to": "/sponsors", "permanent": true },
   { "from": "/about-freecodecamp", "to": "/about", "permanent": true },
   {
+    "from": "/my-open-source-instagram-bot-got-me-2-500-real-followers-for-5-in-server-costs-e40491358340",
+    "to": "/building-bots",
+    "permanent": true
+  },
+  {
+    "from": "/e40491358340",
+    "to": "/building-bots",
+    "permanent": true
+  },
+  {
     "from": "/dive-into-dotfiles-part-1-e4eb1003cff6",
     "to": "/dotfiles-what-is-a-dot-file-and-how-to-create-it-in-mac-and-linux",
     "permanent": true
@@ -19252,11 +19262,6 @@
   {
     "from": "/2afb536504ed",
     "to": "/my-latest-bugfix-or-how-i-went-spelunking-in-someone-elses-code-2afb536504ed",
-    "permanent": true
-  },
-  {
-    "from": "/e40491358340",
-    "to": "/my-open-source-instagram-bot-got-me-2-500-real-followers-for-5-in-server-costs-e40491358340",
     "permanent": true
   },
   {
